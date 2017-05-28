@@ -1,6 +1,8 @@
 # 任务链 My Task List
 
 
+### 17.05.27
+- [ ] 当天只能看一半多些，随时回来，等看透了再打勾 [webpack 2 打包实战](https://zhuanlan.zhihu.com/p/27046322)
 
 ### 17.05.26
 - [ ] 深入学习 React，重新思考 Think in React
