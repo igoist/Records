@@ -1,5 +1,11 @@
 ## Log of my daily life 讲生活，谈心情
 
+
+### 2017.05.28
+看电视剧又熬夜了次。
+> Try not to be stupid again that sleeping so late. Health is important, especially to such a weak man likes you.
+
+
 ### 2017.05.26
 世上人多以成败论英雄，古今如此
 能识人者少之又少，我即便知己，却亦未敢言能多么知人
