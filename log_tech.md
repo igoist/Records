@@ -1,7 +1,7 @@
 ## Log of my daily works 谈工作，谈学习
 
 ### 2017.05.29
-[之前想实现的字幕效果基础部分](http://localhost/~egoist/Web/Demo%20of%20web/Font/Practice/t003.html)，也是换成位移的方式来模拟。另外要是想实现最初所想的字幕效果，这边的位移得塞到<code>kf-animition</code>当中去，根据字数拆分<code>steps(x)</code>，并且对单个的字做处理
+[之前想实现的字幕效果基础部分](http://localhost/~egoist/Web/Demo%20of%20web/Font/Practice/t003.html)，也是换成位移的方式来模拟，对<code>.wrap</code>需要设置<code>overflow: hidden</code>，而覆盖条颜色需要跟背景色保持一致。另外要是想实现最初所想的字幕效果，这边的位移得塞到<code>kf-animition</code>当中去，根据字数拆分<code>steps(x)</code>，并且对单个的字做处理
 
 
 ### 2017.05.28
