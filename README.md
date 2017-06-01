@@ -1,12 +1,6 @@
-<style type="text/css">
-  .test_code {
-    color: #ccffcc;
-  }
-</style>
-
 # 介绍与备忘 README
 不必于此再论存档的重要性。有些规则需要注意：
-* 目前最多每日一次<code class="test_code">git commit</code>，提交时以 "Daily for year.mm.dd" 打头
+* 目前最多每日一次<code>git commit</code>，提交时以 "Daily for year.mm.dd" 打头
 
 
 
@@ -23,9 +17,12 @@
 （发现无论在 Sublime 还是 Atom 等非 Markdown 编辑器上所显示对齐效果与网页有出入，还是优先考虑编辑器）
 
 ## 格式
-<p>非 list 与 task list 情况下，换行似乎没有其他好的办法</p>
-* 句尾加两空格并回车，类似<code>\<br \/></code>效果，而空格在 Sublime 下容易被自动去除
+非 list 与 task list 情况下，换行似乎没有其他好的办法：
+* 句尾加两空格并回车，类似<code>br</code>效果，而空格在 Sublime 下容易被自动去除
 * 直接使用<code>p</code>标签
+相关测试记录：
+* 自定义<code>style</code>在 github 上无效，显然是其 markdown.js 在处理时做了 ignore 处理，忽略<code>style</code>，不保留其他<code>tag</code>上的<code>class</code>等属性
+
 
 
 ### 时间

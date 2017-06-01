@@ -1,8 +1,11 @@
 ## Record links: Different with others
 
 
+### About CSS
+- [ ] 2017.05.31 -- [XYY601'S BLOG](http://xyy601-blog.logdown.com/)
+
 ### About learning React
-- [ ] 2017.05.30 -- [Redux 的基础概念](https://hulufei.gitbooks.io/react-tutorial/content/redux-basic.html)
+
 
 
 
@@ -12,6 +15,8 @@
 
 
 ### About React & Flux
+- [ ] 2017.05.31 -- [Redux 中文文档](http://cn.redux.js.org/)
+- [ ] 2017.05.30 -- [React 中文入门教程](https://hulufei.gitbooks.io/react-tutorial/content/redux-basic.html)
 - [ ] 2017.05.26 -- [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 
 
@@ -20,6 +25,7 @@
 - [ ] 2017.05.27 -- [搭建 React , Babel 和 Webpack](http://fuxiaohei.me/2016/5/5/react-babel-webpack-start.html)
 - [ ] 2017.05.26 -- [npm files: package.json](https://docs.npmjs.com/files/package.json)
 - [ ] 2017.05.26 -- [Yarn: A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+
 
 ### About the development trend
 > Rewriting your Frontend Framework every six week !!!
