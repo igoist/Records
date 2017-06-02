@@ -1,12 +1,18 @@
 ## Log of my daily works 谈工作，谈学习
 
 
+### 2017.06.01
+<p>前些天吃了简历无脑乱写的亏。</p>
+<p>不得已，有点紧迫，这些天只能代码少写些，必得等搞定这档子破事情，定下工作，再专心来写代码。</p>
+
+
 ### 2017.05.31
-现阶段最主要的，便是学会配合 Redux、React Router 这些来构建自己的 SPA
+<p>现阶段最主要的，便是学会配合 Redux、React Router 这些来构建自己的 SPA</p>
 
 
 ### 2017.05.29
-[之前想实现的字幕效果基础部分](http://localhost/~egoist/Web/Demo%20of%20web/Font/Practice/t003.html)，也是换成位移的方式来模拟，对<code>.wrap</code>需要设置<code>overflow: hidden</code>，而覆盖条颜色需要跟背景色保持一致。另外要是想实现最初所想的字幕效果，这边的位移得塞到<code>kf-animition</code>当中去，根据字数拆分<code>steps(x)</code>，并且对单个的字做处理
+<p>[之前想实现的字幕效果基础部分](http://localhost/~egoist/Web/Demo%20of%20web/Font/Practice/t003.html)，也是换成位移的方式来模拟，</p>
+<p>对<code>.wrap</code>需要设置<code>overflow: hidden</code>，而覆盖条颜色需要跟背景色保持一致。另外要是想实现最初所想的字幕效果，这边的位移得塞到<code>kf-animition</code>当中去，根据字数拆分<code>steps(x)</code>，并且对单个的字做处理</p>
 
 
 ### 2017.05.28

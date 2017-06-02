@@ -1,6 +1,9 @@
 ## Record links: Different with others
 
 
+### About ..
+- [ ] 2017.06.01 -- [JS原生一步步实现前端路由和单页面应用](https://segmentfault.com/a/1190000007422616)
+
 ### About CSS
 - [ ] 2017.05.31 -- [XYY601'S BLOG](http://xyy601-blog.logdown.com/)
 
@@ -10,7 +13,7 @@
 
 
 ### About learning Vue
-
+- [ ] 2017.06.01 -- [饥人谷 -- 使用Vue.js做炫酷的简历](https://jirengu.com/app/watch/1559/1?vsum=1)
 - [ ] 2017.05.30 -- [qiangdada](https://my.oschina.net/qiangdada/home)
 
 
