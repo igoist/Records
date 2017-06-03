@@ -2,6 +2,8 @@
 
 
 ### About ..
+- [ ] 2017.06.02 -- [Javascript模块化编程（二）：AMD规范](http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html)
+- [ ] 2017.06.02 -- [浅析JS模块规范：AMD和CMD](http://ghmagical.com/article/page/id/N7VY7Hg4TlgW%E5%BC%82%E6%AD%A5%E6%A8%A1%E5%9D%97%E5%AE%9A%E4%B9%89Common%20Module%20Definition)
 - [ ] 2017.06.01 -- [JS原生一步步实现前端路由和单页面应用](https://segmentfault.com/a/1190000007422616)
 
 ### About CSS

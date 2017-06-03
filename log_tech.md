@@ -1,6 +1,11 @@
 ## Log of my daily works 谈工作，谈学习
 
 
+### 2017.06.02
+<p>总算大致搞清楚 React 中 Redux 大致运作以及使用方式。</p>
+<p>工作什么的随它去吧，开始自己的项目重构。</p>
+
+
 ### 2017.06.01
 <p>前些天吃了简历无脑乱写的亏。</p>
 <p>不得已，有点紧迫，这些天只能代码少写些，必得等搞定这档子破事情，定下工作，再专心来写代码。</p>
@@ -39,3 +44,10 @@
 
 ### 2017.05.23
 > None for yet, because I was rushing for resume.
+
+
+
+
+### 在此列举一些社区
+* [cnode](http://cnodejs.org/)
+* [开源中国 React](https://www.oschina.net/question/tag/react) 用了 git 账号
