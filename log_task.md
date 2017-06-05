@@ -1,6 +1,11 @@
 # 任务链 My Task List
 
 
+### 2017.06.04
+- [x] 回想起以前快排的gif，想到做冒泡排序流程动态呈现，第一个版本是从小到大，[Bubbling](http://localhost/~egoist/Web/Demo%20of%20web/Transfer/Practice/demo05/)
+- [ ] 将前面内容进行修改，做到数组大小随机生成，可调，动画可重置，由大到小其实是一样的 [Bubbling Random](http://localhost/~egoist/Web/Demo%20of%20web/Transfer/Practice/demo06/)
+- [ ] 快排
+
 ### 2017.05.31
 - [x] 用 Redux 的方式更改 Counter
 
