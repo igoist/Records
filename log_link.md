@@ -1,17 +1,34 @@
 ## Record links: Different with others
 
 
+### Community
+- [ ] 2017.06.05 -- [掘金](https://juejin.im/) github 账号
+
+
+### Someones's blog
+- [ ] 2017.05.31 -- [XYY601'S BLOG](http://xyy601-blog.logdown.com/)
+
+
+### FE Articles
+- [ ] 2017.06.05 -- [前端开发者指南（2017）](https://juejin.im/post/592faca42f301e006bc791e0)
+
+
+### About Conferences
+- [ ] 2017.06.05 -- [全球首届Vue.js开发者大会录像](https://vue.w3ctech.com/#schedule)
+
+
 ### About ..
 - [ ] 2017.06.02 -- [Javascript模块化编程（二）：AMD规范](http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html)
 - [ ] 2017.06.02 -- [浅析JS模块规范：AMD和CMD](http://ghmagical.com/article/page/id/N7VY7Hg4TlgW%E5%BC%82%E6%AD%A5%E6%A8%A1%E5%9D%97%E5%AE%9A%E4%B9%89Common%20Module%20Definition)
 - [ ] 2017.06.01 -- [JS原生一步步实现前端路由和单页面应用](https://segmentfault.com/a/1190000007422616)
 
+
 ### About CSS
+- [ ] 2017.05.31 -- [深入了解 CSS3 新特性](https://www.ibm.com/developerworks/cn/web/1202_zhouxiang_css3/index.html)
 - [ ] 2017.05.31 -- [XYY601'S BLOG](http://xyy601-blog.logdown.com/)
 
+
 ### About learning React
-
-
 
 
 ### About learning Vue
@@ -26,6 +43,7 @@
 
 
 ### About build the JS Project
+- [ ] 2017.06.05 -- [翻译 | 上手 Webpack ? 这篇就够了！](https://juejin.im/post/58ef0c43570c3500561b9a94)
 - [ ] 2017.05.27 -- [webpack 2 打包实战](https://zhuanlan.zhihu.com/p/27046322) 这篇对于入门应该算是不错了
 - [ ] 2017.05.27 -- [搭建 React , Babel 和 Webpack](http://fuxiaohei.me/2016/5/5/react-babel-webpack-start.html)
 - [ ] 2017.05.26 -- [npm files: package.json](https://docs.npmjs.com/files/package.json)
@@ -42,3 +60,7 @@
 
 ### About design models
 - [ ] 2017.05.30 -- [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
+
+
+### 面经
+- [ ] 2017.06.05 -- [阿里、网易、滴滴共十次前端面试碰到的问题](https://juejin.im/post/59316e682f301e0058378558)
