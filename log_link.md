@@ -1,11 +1,18 @@
 ## Record links: Different with others
 
 
-### Community
+### Others
+- [ ] 2017.06.06 -- [黄奇帆 - 万字讲透中国房地产十大症结](https://zhuanlan.zhihu.com/p/27187465)
+
+
+### Community 社区
+- [ ] 2017.06.06 -- [前段早读课](http://www.zaoduke.net/)
 - [ ] 2017.06.05 -- [掘金](https://juejin.im/) github 账号
 
 
 ### Someones's blog
+- [ ] 2017.06.06 -- [百度FIS团队张云龙](https://github.com/fouber/blog/)
+- [ ] 2017.06.06 -- [代码如诗，某人的涂鸦墙](https://lingmissing.github.io/)
 - [ ] 2017.05.31 -- [XYY601'S BLOG](http://xyy601-blog.logdown.com/)
 
 
@@ -24,6 +31,7 @@
 
 
 ### About CSS
+- [ ] 2017.06.06 -- [2017年9个CSS JS动画库](https://www.sitepoint.com/our-top-9-animation-libraries/)
 - [ ] 2017.05.31 -- [深入了解 CSS3 新特性](https://www.ibm.com/developerworks/cn/web/1202_zhouxiang_css3/index.html)
 - [ ] 2017.05.31 -- [XYY601'S BLOG](http://xyy601-blog.logdown.com/)
 
@@ -42,7 +50,9 @@
 - [ ] 2017.05.26 -- [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 
 
-### About build the JS Project
+### About build the JS Project 构建、架构
+- [ ] 2017.06.06 -- [前端架构那些事儿](http://kb.cnblogs.com/page/210101/)
+- [ ] 2017.06.06 -- [Airbnb 的前端重构](https://juejin.im/post/592e3af8ac502e006c9c3f1f)
 - [ ] 2017.06.05 -- [翻译 | 上手 Webpack ? 这篇就够了！](https://juejin.im/post/58ef0c43570c3500561b9a94)
 - [ ] 2017.05.27 -- [webpack 2 打包实战](https://zhuanlan.zhihu.com/p/27046322) 这篇对于入门应该算是不错了
 - [ ] 2017.05.27 -- [搭建 React , Babel 和 Webpack](http://fuxiaohei.me/2016/5/5/react-babel-webpack-start.html)
