@@ -1,4 +1,7 @@
-## 前端 FE相关词汇
+## 主要是前端 FE相关词汇
+
+
+* CDN（Content Delivery Network）-- 内容分发网络，倒是跟我翻的一样
 
 
 ### JS

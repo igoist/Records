@@ -1,6 +1,15 @@
 # 任务链 My Task List
 
 
+### 2017.06.07
+入职前趁这个空档仿写几个站点
+- [ ] [又拍云主站仿写](https://www.upyun.com/)
+- [ ] [花瓣美思](https://muse.huaban.com/)
+此外，大兄弟，真的应该开始开始好好积攒博文了，不能再托了😂
+- [ ] 记录一些常用的 Sublime Text3 和 VS Code 快捷键（按照使用程度排序）
+
+
+
 ### 2017.06.04
 - [x] 回想起以前快排的gif，想到做冒泡排序流程动态呈现，第一个版本是从小到大，[Bubbling](http://localhost/~egoist/Web/Demo%20of%20web/Transfer/Practice/demo05/)
 - [ ] 将前面内容进行修改，做到数组大小随机生成，可调，动画可重置，由大到小其实是一样的 [Bubbling Random](http://localhost/~egoist/Web/Demo%20of%20web/Transfer/Practice/demo06/)
@@ -19,7 +28,7 @@
 
 
 ### 2017.05.26
-- [ ] 深入学习 React，重新思考 Think in React
+- [x] 深入学习 React，重新思考 Think in React
 - [ ] 完成上一步之后运用上 Redux(Flux) 的思想去重新构建一个类似 todo 的项目
 - [ ] webpack看差不多了，有空回过头看下相关 [webpack-dev-server](https://segmentfault.com/a/1190000006670084)
 
