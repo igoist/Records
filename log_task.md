@@ -1,19 +1,23 @@
 # 任务链 My Task List
 
 
+### 2017.06.08
+- [ ] 开始仿写站点前，再练一下布局方面的基础，这种事磨刀不误砍柴功
+
+
 ### 2017.06.07
 入职前趁这个空档仿写几个站点
 - [ ] [又拍云主站仿写](https://www.upyun.com/)
 - [ ] [花瓣美思](https://muse.huaban.com/)
-此外，大兄弟，真的应该开始开始好好积攒博文了，不能再托了😂
+<p>此外，大兄弟，真的应该开始开始好好积攒博文了，不能再托了😂</p>
 - [ ] 记录一些常用的 Sublime Text3 和 VS Code 快捷键（按照使用程度排序）
 
 
 
 ### 2017.06.04
 - [x] 回想起以前快排的gif，想到做冒泡排序流程动态呈现，第一个版本是从小到大，[Bubbling](http://localhost/~egoist/Web/Demo%20of%20web/Transfer/Practice/demo05/)
-- [ ] 将前面内容进行修改，做到数组大小随机生成，可调，动画可重置，由大到小其实是一样的 [Bubbling Random](http://localhost/~egoist/Web/Demo%20of%20web/Transfer/Practice/demo06/)
-- [ ] 快排
+- [x] 将前面内容进行修改，做到数组大小随机生成（数组可调、动画可重置不难，已经提交了就不再去多做修改），由大到小其实是一样的 [Bubbling Random](http://localhost/~egoist/Web/Demo%20of%20web/Transfer/Practice/demo06/)
+- [x] 快排
 
 ### 2017.05.31
 - [x] 用 Redux 的方式更改 Counter

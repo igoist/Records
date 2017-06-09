@@ -76,3 +76,8 @@
 
 ### 面经
 - [ ] 2017.06.05 -- [阿里、网易、滴滴共十次前端面试碰到的问题](https://juejin.im/post/59316e682f301e0058378558)
+
+
+### Issues
+- [ ] 2017.06.07 -- [Auto Indent / Code Formatting / Beautify #4039](https://github.com/Microsoft/vscode/issues/4039)
+
