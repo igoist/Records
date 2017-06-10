@@ -62,6 +62,11 @@
 - [ ] 2017.05.26 -- [Yarn: A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
 
 
+### About optimization
+- [ ] 2017.06.09 -- [4类 JavaScript 内存泄漏及如何避免](https://jinlong.github.io/2016/05/01/4-Types-of-Memory-Leaks-in-JavaScript-and-How-to-Get-Rid-Of-Them/)
+
+
+
 ### About the development trend
 > Rewriting your Frontend Framework every six week !!!
 
