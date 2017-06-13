@@ -2,6 +2,8 @@
 
 
 ### Others
+- [ ] 2017.06.12 -- [使用 nvm 管理不同版本的 node 与 npm](http://bubkoo.com/2017/01/08/quick-tip-multiple-versions-node-nvm/)
+- [x] 2017.06.12 -- [git多账户配置](https://www.zybuluo.com/muyanfeixiang/note/45143)
 - [ ] 2017.06.06 -- [黄奇帆 - 万字讲透中国房地产十大症结](https://zhuanlan.zhihu.com/p/27187465)
 
 
@@ -18,6 +20,7 @@
 
 
 ### FE Articles
+- [ ] 2017.06.12 -- [Redis能干啥？细看11种Web应用场景](http://os.51cto.com/art/201107/278292.htm)
 - [ ] 2017.06.05 -- [前端开发者指南（2017）](https://juejin.im/post/592faca42f301e006bc791e0)
 
 
