@@ -1,7 +1,13 @@
 ## Record links: Different with others
 
 
+### Exps
+- [ ] 2017.06.13 -- [【前端篇】基于 React + NodeJS + Express + MongoDB 开发的一个社区系统](http://react-china.org/t/react-nodejs-express-mongodb/10928)
+
+
+
 ### Others
+- [ ] 2017.06.13 -- [nginx.conf Full Example Configuration](https://www.nginx.com/resources/wiki/start/topics/examples/full/)
 - [ ] 2017.06.12 -- [使用 nvm 管理不同版本的 node 与 npm](http://bubkoo.com/2017/01/08/quick-tip-multiple-versions-node-nvm/)
 - [x] 2017.06.12 -- [git多账户配置](https://www.zybuluo.com/muyanfeixiang/note/45143)
 - [ ] 2017.06.06 -- [黄奇帆 - 万字讲透中国房地产十大症结](https://zhuanlan.zhihu.com/p/27187465)
@@ -20,6 +26,7 @@
 
 
 ### FE Articles
+- [ ] 2017.06.13 -- [Redis 安装和配置](https://github.com/judasn/Linux-Tutorial/blob/master/Redis-Install-And-Settings.md)
 - [ ] 2017.06.12 -- [Redis能干啥？细看11种Web应用场景](http://os.51cto.com/art/201107/278292.htm)
 - [ ] 2017.06.05 -- [前端开发者指南（2017）](https://juejin.im/post/592faca42f301e006bc791e0)
 
@@ -42,12 +49,14 @@
 
 
 ### About React
+- [ ] 2017.06.13 -- [使用React的static方法实现同构以及同构的常见问题](http://blog.csdn.net/liangklfang/article/details/72853108)
 - [ ] 2017.06.10 -- [React 学习总结](http://www.jianshu.com/p/1ca3fe9784cc)
 - [ ] 2017.06.10 -- [React 组件数据流 && 组件间沟通](https://segmentfault.com/a/1190000006831820)
 - [ ] 2017.06.07 -- [React Apollo](http://dev.apollodata.com/react/) Apollo Client manages server-side GraphQL data in your React app so you don't have to.
 
 
 ### About learning Vue
+- [ ] 2017.06.01 -- [Vue.js CN](https://cn.vuejs.org/v2/guide/comparison.html)
 - [ ] 2017.06.01 -- [饥人谷 -- 使用Vue.js做炫酷的简历](https://jirengu.com/app/watch/1559/1?vsum=1)
 - [ ] 2017.05.30 -- [qiangdada](https://my.oschina.net/qiangdada/home)
 
@@ -58,13 +67,18 @@
 - [ ] 2017.05.26 -- [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 
 
+### About rendering 渲染
+- [ ] 2017.06.13 -- [Client-Side vs. Server-Side Rendering](http://openmymind.net/2012/5/30/Client-Side-vs-Server-Side-Rendering/)
+
 ### About build the JS Project 构建、架构
+- [ ] 2017.06.13 -- [Node.js ES2015 Support](http://node.green/)
 - [ ] 2017.06.06 -- [前端架构那些事儿](http://kb.cnblogs.com/page/210101/)
 - [ ] 2017.06.06 -- [Airbnb 的前端重构](https://juejin.im/post/592e3af8ac502e006c9c3f1f)
 - [ ] 2017.06.05 -- [翻译 | 上手 Webpack ? 这篇就够了！](https://juejin.im/post/58ef0c43570c3500561b9a94)
 - [ ] 2017.05.27 -- [webpack 2 打包实战](https://zhuanlan.zhihu.com/p/27046322) 这篇对于入门应该算是不错了
 - [ ] 2017.05.27 -- [搭建 React , Babel 和 Webpack](http://fuxiaohei.me/2016/5/5/react-babel-webpack-start.html)
 - [ ] 2017.05.26 -- [npm files: package.json](https://docs.npmjs.com/files/package.json)
+- [ ] 2017.06.13 -- [Yarn: Installation](https://yarnpkg.com/lang/en/docs/install/)
 - [ ] 2017.05.26 -- [Yarn: A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
 
 
