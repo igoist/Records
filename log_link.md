@@ -7,8 +7,10 @@
 
 
 ### Others
+- [ ] 2017.06.14 -- [async官方](https://caolan.github.io/async/docs.html#map)
 - [ ] 2017.06.13 -- [nginx.conf Full Example Configuration](https://www.nginx.com/resources/wiki/start/topics/examples/full/)
 - [ ] 2017.06.12 -- [使用 nvm 管理不同版本的 node 与 npm](http://bubkoo.com/2017/01/08/quick-tip-multiple-versions-node-nvm/)
+- [ ] 2017.06.14 -- [多 SSH Key 管理技巧与 Git 多账户登录问题](http://www.barretlee.com/blog/2016/03/09/config-in-ssh-after-troubling-git-connection/)
 - [x] 2017.06.12 -- [git多账户配置](https://www.zybuluo.com/muyanfeixiang/note/45143)
 - [ ] 2017.06.06 -- [黄奇帆 - 万字讲透中国房地产十大症结](https://zhuanlan.zhihu.com/p/27187465)
 
@@ -83,6 +85,8 @@
 
 
 ### About optimization
+- [ ] 2017.06.14 -- [ReactiveX official website](http://reactivex.io/)
+- [ ] 2017.06.14 -- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [ ] 2017.06.09 -- [4类 JavaScript 内存泄漏及如何避免](https://jinlong.github.io/2016/05/01/4-Types-of-Memory-Leaks-in-JavaScript-and-How-to-Get-Rid-Of-Them/)
 
 
@@ -106,4 +110,9 @@
 
 ### Issues
 - [ ] 2017.06.07 -- [Auto Indent / Code Formatting / Beautify #4039](https://github.com/Microsoft/vscode/issues/4039)
+
+
+### Editor 编辑器相关
+- [ ] 2017.06.14 -- [editorconfig文件写法](http://www.alloyteam.com/2014/12/editor-config/)
+- [ ] 2017.06.14 -- [editorconfig官网](http://editorconfig.org/)
 
