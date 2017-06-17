@@ -2,11 +2,12 @@
 
 
 ### Exps
+- [ ] 2017.06.16 -- [一步一步架构 react 服务器渲染同构框架](https://juejin.im/entry/59082b67da2f60005d1418c5)
 - [ ] 2017.06.13 -- [【前端篇】基于 React + NodeJS + Express + MongoDB 开发的一个社区系统](http://react-china.org/t/react-nodejs-express-mongodb/10928)
 
 
-
 ### Others
+- [x] 2017.06.16 -- [Include another jade file in HTML format syntax](https://stackoverflow.com/questions/32221394/include-another-jade-file-in-html-format-syntax)
 - [ ] 2017.06.14 -- [async官方](https://caolan.github.io/async/docs.html#map)
 - [ ] 2017.06.13 -- [nginx.conf Full Example Configuration](https://www.nginx.com/resources/wiki/start/topics/examples/full/)
 - [ ] 2017.06.12 -- [使用 nvm 管理不同版本的 node 与 npm](http://bubkoo.com/2017/01/08/quick-tip-multiple-versions-node-nvm/)
@@ -21,6 +22,8 @@
 
 
 ### Someones's blog
+- [ ] 2017.06.16 -- [谢益辉](https://yihui.name)
+- [ ] 2017.06.16 -- [代码之空](https://codesky.me) 想看看同龄人与自己实力的差距，好来打打脸
 - [ ] 2017.06.07 -- [艾克斯の编码者](https://xcoder.in/)
 - [ ] 2017.06.06 -- [百度FIS团队张云龙](https://github.com/fouber/blog/)
 - [ ] 2017.06.06 -- [代码如诗，某人的涂鸦墙](https://lingmissing.github.io/)
@@ -41,6 +44,10 @@
 - [ ] 2017.06.02 -- [Javascript模块化编程（二）：AMD规范](http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html)
 - [ ] 2017.06.02 -- [浅析JS模块规范：AMD和CMD](http://ghmagical.com/article/page/id/N7VY7Hg4TlgW%E5%BC%82%E6%AD%A5%E6%A8%A1%E5%9D%97%E5%AE%9A%E4%B9%89Common%20Module%20Definition)
 - [ ] 2017.06.01 -- [JS原生一步步实现前端路由和单页面应用](https://segmentfault.com/a/1190000007422616)
+
+
+### Dev Tool Chrome 开发者工具
+- [ ] 2017.06.15 -- [谷歌官网 Chrome 开发者工具](https://developers.google.com/web/tools/chrome-devtools/)
 
 
 ### About CSS
@@ -72,6 +79,7 @@
 ### About rendering 渲染
 - [ ] 2017.06.13 -- [Client-Side vs. Server-Side Rendering](http://openmymind.net/2012/5/30/Client-Side-vs-Server-Side-Rendering/)
 
+
 ### About build the JS Project 构建、架构
 - [ ] 2017.06.13 -- [Node.js ES2015 Support](http://node.green/)
 - [ ] 2017.06.06 -- [前端架构那些事儿](http://kb.cnblogs.com/page/210101/)
@@ -85,10 +93,12 @@
 
 
 ### About optimization
+- [ ] 2017.06.16 -- [前端性能优化相关 #34](https://github.com/wy-ei/notebook/issues/34)
+- [ ] 2017.06.16 -- [翻译：为什么你应该抛弃Express的视图渲染引擎](https://cnodejs.org/topic/545b25433e1f39344c5b3b77)
+- [ ] 2017.06.16 -- [为什么每个前端开发者都要理解网页渲染？](http://blog.jobbole.com/72692/)
 - [ ] 2017.06.14 -- [ReactiveX official website](http://reactivex.io/)
 - [ ] 2017.06.14 -- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [ ] 2017.06.09 -- [4类 JavaScript 内存泄漏及如何避免](https://jinlong.github.io/2016/05/01/4-Types-of-Memory-Leaks-in-JavaScript-and-How-to-Get-Rid-Of-Them/)
-
 
 
 ### About the development trend
@@ -116,3 +126,6 @@
 - [ ] 2017.06.14 -- [editorconfig文件写法](http://www.alloyteam.com/2014/12/editor-config/)
 - [ ] 2017.06.14 -- [editorconfig官网](http://editorconfig.org/)
 
+
+### Mac
+- [x] 2017.06.15 -- [Mac状态栏wifi图标一直闪烁重复连接但是网络正常的解决办法](http://blog.csdn.net/mydo/article/details/52166175)
