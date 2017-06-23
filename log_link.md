@@ -77,10 +77,16 @@
 
 
 ### About rendering 渲染
+- [ ] 2017.06.21 -- [......](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)
 - [ ] 2017.06.13 -- [Client-Side vs. Server-Side Rendering](http://openmymind.net/2012/5/30/Client-Side-vs-Server-Side-Rendering/)
 
 
 ### About build the JS Project 构建、架构
+- [ ] 2017.06.22 -- [Webpack小书](https://fakefish.github.io/react-webpack-cookbook/Introduction-to-Webpack.html)
+- [ ] 2017.06.22 -- [【翻译】Webpack——令人困惑的地方 #13](https://github.com/chemdemo/chemdemo.github.io/issues/13)
+- [ ] 2017.06.22 -- [optimization多页面项目和单页面项目中js处理的差异](https://github.com/webpack/docs/wiki/optimization)
+- [ ] 2017.06.22 -- [Creating a workflow with WebPack](http://christianalfoni.github.io/javascript/2014/12/13/did-you-know-webpack-and-react-is-awesome.html)
+- [ ] 2017.06.22 -- [模块热替换 - React](https://doc.webpack-china.org/guides/hmr-react/)
 - [ ] 2017.06.13 -- [Node.js ES2015 Support](http://node.green/)
 - [ ] 2017.06.06 -- [前端架构那些事儿](http://kb.cnblogs.com/page/210101/)
 - [ ] 2017.06.06 -- [Airbnb 的前端重构](https://juejin.im/post/592e3af8ac502e006c9c3f1f)
