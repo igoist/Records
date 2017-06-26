@@ -1,6 +1,12 @@
 ## Record links: Different with others
 
 
+### Components
+- [ ] 2017.06.23 -- [How to Customize Quill](https://quilljs.com/guides/how-to-customize-quill/)
+- [ ] 2017.06.23 -- [quill image](https://github.com/quilljs/quill/blob/develop/formats/image.js)
+- [ ] 2017.06.23 -- [Cloning Medium with Parchment](http://quilljs.com/guides/cloning-medium-with-parchment/#dividers)
+
+
 ### Exps
 - [ ] 2017.06.16 -- [一步一步架构 react 服务器渲染同构框架](https://juejin.im/entry/59082b67da2f60005d1418c5)
 - [ ] 2017.06.13 -- [【前端篇】基于 React + NodeJS + Express + MongoDB 开发的一个社区系统](http://react-china.org/t/react-nodejs-express-mongodb/10928)
@@ -51,6 +57,7 @@
 
 
 ### About CSS
+- [x] 2017.06.25 -- [code highlight](https://www.taniarascia.com/adding-syntax-highlighting-to-code-snippets/)
 - [ ] 2017.06.11 -- [你所不知的 CSS ::before 和 ::after 伪元素用法](http://blog.dimpurr.com/css-before-after/)
 - [ ] 2017.06.06 -- [2017年9个CSS JS动画库](https://www.sitepoint.com/our-top-9-animation-libraries/)
 - [ ] 2017.05.31 -- [深入了解 CSS3 新特性](https://www.ibm.com/developerworks/cn/web/1202_zhouxiang_css3/index.html)
@@ -82,6 +89,8 @@
 
 
 ### About build the JS Project 构建、架构
+- [ ] 2017.06.25 -- [使用 gulp,webpack,es6,sass,react 等开发复杂单页面项目](https://www.zhuwenlong.com/blog/article/5808bc603344715766a16631)
+- [x] 2017.06.24 -- [使用gulp进行React任务的构建](http://syaning.com/2015/11/09/gulp-react-task-build/)
 - [ ] 2017.06.22 -- [Webpack小书](https://fakefish.github.io/react-webpack-cookbook/Introduction-to-Webpack.html)
 - [ ] 2017.06.22 -- [【翻译】Webpack——令人困惑的地方 #13](https://github.com/chemdemo/chemdemo.github.io/issues/13)
 - [ ] 2017.06.22 -- [optimization多页面项目和单页面项目中js处理的差异](https://github.com/webpack/docs/wiki/optimization)
