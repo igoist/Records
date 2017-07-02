@@ -2,6 +2,7 @@
 
 
 ### Components
+- [ ] 2017.06.23 -- [How do I remove a file from the FileList]()
 - [ ] 2017.06.23 -- [How to Customize Quill](https://quilljs.com/guides/how-to-customize-quill/)
 - [ ] 2017.06.23 -- [quill image](https://github.com/quilljs/quill/blob/develop/formats/image.js)
 - [ ] 2017.06.23 -- [Cloning Medium with Parchment](http://quilljs.com/guides/cloning-medium-with-parchment/#dividers)
@@ -84,11 +85,14 @@
 
 
 ### About rendering 渲染
+- [ ] 2017.06.27 -- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
+- [ ] 2017.06.27 -- [渲染树构建、布局及绘制](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction?hl=zh-cn)
 - [ ] 2017.06.21 -- [......](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)
 - [ ] 2017.06.13 -- [Client-Side vs. Server-Side Rendering](http://openmymind.net/2012/5/30/Client-Side-vs-Server-Side-Rendering/)
 
 
 ### About build the JS Project 构建、架构
+- [ ] 2017.06.25 -- [Webpack 中文指南](http://zhaoda.net/webpack-handbook/)
 - [ ] 2017.06.25 -- [使用 gulp,webpack,es6,sass,react 等开发复杂单页面项目](https://www.zhuwenlong.com/blog/article/5808bc603344715766a16631)
 - [x] 2017.06.24 -- [使用gulp进行React任务的构建](http://syaning.com/2015/11/09/gulp-react-task-build/)
 - [ ] 2017.06.22 -- [Webpack小书](https://fakefish.github.io/react-webpack-cookbook/Introduction-to-Webpack.html)
