@@ -1,6 +1,12 @@
 ## Log of my daily works 谈工作，谈学习
 
 
+
+### 2017.07.12
+<p>Shit!</p>
+<p>I hate bootstrap file-input!</p>
+
+
 ### 2017.07.08
 <p>（明明当初是考虑到技术与生活分开记的）</p>
 <p>这几个月期间，看过不少讲 gulp、webpack 的文章</p>
