@@ -11,13 +11,14 @@
 
 
 ### Others
-- [ ] 2017.07.10 -- [圆桌派 S2](https://www.youtube.com/watch?v=5e2TZEVbleA)
+- [ ] 2017.07.10 -- [圆桌派 S2：7](https://www.youtube.com/watch?v=DNm056qwHvU)
 
 
 ### Community 社区
 
 
 ### Someones's blog
+- [ ] 2017.07.07 -- [TangShuang](http://www.tangshuang.net/)
 - [ ] 2017.07.07 -- [Mike Matas](http://www.mikematas.com/)
 
 
@@ -25,6 +26,10 @@
 
 
 ### About Conferences
+
+
+### About JS
+- [ ] 2017.07.18 -- [babel到底将代码转换成什么鸟样？ #9](https://github.com/lcxfs1991/blog/issues/9)
 
 
 ### About ..
@@ -52,7 +57,16 @@
 ### About rendering 渲染
 
 
+### Scripts 配合构建、部署用脚本
+- [x] 2017.07.18 -- [npm scripts 使用指南](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
+
+
 ### About build the JS Project 构建、架构
+- [ ] 2017.07.20 -- [不仅仅是复制粘贴 - 聊聊前端脚手架](http://www.cnblogs.com/ihardcoder/p/6648423.html)
+- [ ] 2017.07.19 -- [gulp + webpack 构建多页面前端项目 #17](https://github.com/fwon/blog/issues/17)
+- [ ] 2017.07.19 -- [掘金：gulp & webpack整合，鱼与熊掌我都要！](https://juejin.im/entry/5774ed3da633bd0057fe07f4)
+- [ ] 2017.07.17 -- [Dan 在 2015 年 4 月关于 rhl2 的文章](https://medium.com/@dan_abramov/the-death-of-react-hot-loader-765fa791d7c4)
+- [ ] 2017.07.17 -- [webpack 官网 3.3 刚更新？](https://webpack.js.org/guides/hot-module-replacement/)
 - [ ] 2017.07.13 -- [webpack打包分析与性能优化 #3](https://github.com/hawx1993/tech-blog/issues/3)
 - [ ] 2017.07.13 -- [PostCSS深入学习：Gulp设置](http://www.w3cplus.com/PostCSS/postcss-quickstart-guide-gulp-setup.html)
 - [ ] 2017.07.13 -- [POSTCSS](https://www.w3cplus.com/blog/tags/516.html)
@@ -62,6 +76,9 @@
 
 
 ### About manage
+- [ ] 2017.07.20 -- [What's a "detached HEAD" in Git?](https://www.git-tower.com/learn/git/faq/detached-head-when-checkout-commit)
+- [ ] 2017.07.20 -- [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+- [ ] 2017.07.19 -- [Git 分支管理最佳实践](https://www.ibm.com/developerworks/cn/java/j-lo-git-mange/index.html)
 - [ ] 2017.07.13 -- [洁癖者用 Git](http://hungyuhei.github.io/2012/08/07/better-git-commit-graph-using-pull---rebase-and-merge---no-ff.html)
 - [ ] 2017.07.04 -- [lerna入门篇](http://www.jianshu.com/p/63ec67445b0f)
 - [ ] 2017.07.04 -- [lerna](https://github.com/lerna/lerna)
