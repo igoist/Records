@@ -31,16 +31,24 @@
 ### About Nodejs
 
 ### About JS
+- [x] 2017.08.11 -- [动态创建 style](http://www.cnblogs.com/stephenykk/p/5406614.html)
 - [ ] 2017.08.01 -- [从Toast到Pagination: 如何优雅地写组件](https://juejin.im/post/591568ab8d6d8100585ecb7d)
 
 
 ### About ..
+- [ ] 2017.08.10 -- [promisify native XHR](https://stackoverflow.com/questions/30008114/how-do-i-promisify-native-xhr)
+- [ ] 2017.08.10 -- [elm](https://guide.elm-lang.org/)
 
 
 ### Dev Tool Chrome 开发者工具
 
 
+### Flex 兼容性解决方案参考
+* 2017.08.11 -- [flexbox布局的兼容性](http://www.ayqy.net/blog/flexbox%E5%B8%83%E5%B1%80%E7%9A%84%E5%85%BC%E5%AE%B9%E6%80%A7/)
+* 2017.08.11 -- [flex布局及其兼容解决方案](http://www.webzsky.com/?p=689)
+
 ### About CSS
+- [ ] 2017.08.07 -- [grid 栅格布局](https://tympanus.net/codrops/css_reference/grid/)
 - [ ] 2017.07.28 -- [学习 css、svg 好去处](https://tympanus.net/codrops/)
 
 
