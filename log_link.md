@@ -9,6 +9,7 @@
 
 
 ### Others
+- [ ] 2017.08.18 -- [各设备尺寸](https://material.io/devices/)
 - [ ] 2017.07.28 -- [mojs](http://mojs.io/)
 - [ ] 2017.07.28 -- [在线小说](http://www.dushu369.com/)
 - [ ] 2017.07.10 -- [圆桌派 S2：7](https://www.youtube.com/watch?v=DNm056qwHvU)
