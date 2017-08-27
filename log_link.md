@@ -9,6 +9,9 @@
 
 
 ### Others
+- [ ] 2017.08.25 -- [装修参考](https://zixuncooperation.html5.qq.com/coolread/article?showAttach=true&ch=900101&tagId=MttTagSource&tabId=98&docId=3273400111&bizId=16&extenddata=RN%3D0%26fSiteScore%3D70%26fWeight%3D0%26iBusinessId%3D85%26iClick%3D2495444%26iComment%3D1537%26iContent%3D6323%26iContentType%3D1%26iDupNum%3D0%26iExposure%3D44046359%26iPV%3D0%26iPics%3D40%26sAge%3D322%26sAlgorID%3D18%26sAlgorType%3D1%26sDataSrc%3D85%26sFirstStrategy%3D0%26sGrayPlatFormModelId%3D10122%26sIDFA%3D%26sIMSI%3D%26sImei%3D%26sLocation%3D93302%26sModelId%3D10122%26sPhone%3D%26sPostTime%3D1503099180%26sQBId%3D%26sQQ%3D%26sRecommDim%3DTopic%26sSecondStrategy%3D1%26sStrategyId%3DEXP%26sSubject%3D11902%26sTagId%3Dcoctr_cr_119%26sUserSex%3D252%26sZimeitiId%3DMzA4NDQzNDIwMQ%3D%3D&base64Guid=ODY1MDAwMDM5MDYyNjk0MDAwMDAwMDAwMDAwMGltZWk=&base64Imei=ODY1MDAwMDM5MDYyNjk0&cnettype=wifi&clientWidth=360.0)
+- [ ] 2017.08.23 -- [在线代码](c9.io)
+- [ ] 2017.08.21 -- [《龙头凤尾》粤语音频](https://www.lizhi.fm/116090/album/2569617607719814171)
 - [ ] 2017.08.18 -- [各设备尺寸](https://material.io/devices/)
 - [ ] 2017.07.28 -- [mojs](http://mojs.io/)
 - [ ] 2017.07.28 -- [在线小说](http://www.dushu369.com/)
@@ -69,6 +72,7 @@
 
 
 ### About build the JS Project 构建、架构
+- [ ] 2017.07.20 -- [使用webpack构建多页面应用（主要明白了 chunk 提取）](https://github.com/Coffcer/Blog/issues/1)
 - [ ] 2017.07.20 -- [不仅仅是复制粘贴 - 聊聊前端脚手架](http://www.cnblogs.com/ihardcoder/p/6648423.html)
 - [ ] 2017.07.19 -- [gulp + webpack 构建多页面前端项目 #17](https://github.com/fwon/blog/issues/17)
 - [ ] 2017.07.19 -- [掘金：gulp & webpack整合，鱼与熊掌我都要！](https://juejin.im/entry/5774ed3da633bd0057fe07f4)
