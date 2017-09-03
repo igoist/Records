@@ -28,7 +28,8 @@
 * 2017.08.01 -- [Muse-UI](http://www.muse-ui.org/)
 
 
-### FE Articles
+### FE
+* 2017.08.29 -- [打造自己的html5视频播放器](https://segmentfault.com/a/1190000000380064)
 
 ### About Conferences
 
