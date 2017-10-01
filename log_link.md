@@ -6,6 +6,7 @@
 
 
 ### Exps
+* 2017.09.25 -- [30 日晚 9 点芋头君的live](https://<www class=""></www>zhihu.com/lives/893156713996390400)
 
 
 ### Others
@@ -98,6 +99,7 @@
 
 
 ### About optimization
+- [ ] 2017.09.29 -- [网页性能管理详解 -- 阮一峰](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html)
 
 
 ### About the development trend
