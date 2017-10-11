@@ -23,8 +23,7 @@
 ### Someones's blog
 * 2017.09.18 -- [梁杰](http://numbbbbb.com/)
 * 2017.08.01 -- [子云](http://everlose.cn/)
-* 2017.08.01 -- [淘宝前端 FED](http://taobaofed.org/)
-* 2017.07.31 -- [大搜车无线团队](http://f2e.souche.com/blog/)
+* 2017.10.11 -- [einverne](http://einverne.github.io/)
 
 ### **
 * 2017.08.01 -- [Muse-UI](http://www.muse-ui.org/)
