@@ -1,6 +1,8 @@
 ## Record links: Different with others
 
 
+
+
 ### Components
 - [ ] 2017.06.23 -- [How do I remove a file from the FileList]()
 - [ ] 2017.06.23 -- [How to Customize Quill](https://quilljs.com/guides/how-to-customize-quill/)
@@ -23,18 +25,10 @@
 - [ ] 2017.06.06 -- [黄奇帆 - 万字讲透中国房地产十大症结](https://zhuanlan.zhihu.com/p/27187465)
 
 
-### Community 社区
-- [ ] 2017.06.06 -- [前段早读课](http://www.zaoduke.net/)
-- [ ] 2017.06.05 -- [掘金](https://juejin.im/) github 账号
-
-
 ### Someones's blog
 - [ ] 2017.06.16 -- [谢益辉](https://yihui.name)
 - [ ] 2017.06.16 -- [代码之空](https://codesky.me) 想看看同龄人与自己实力的差距，好来打打脸
-- [ ] 2017.06.07 -- [艾克斯の编码者](https://xcoder.in/)
-- [ ] 2017.06.06 -- [百度FIS团队张云龙](https://github.com/fouber/blog/)
 - [ ] 2017.06.06 -- [代码如诗，某人的涂鸦墙](https://lingmissing.github.io/)
-- [ ] 2017.05.31 -- [XYY601'S BLOG](http://xyy601-blog.logdown.com/)
 
 
 ### FE Articles

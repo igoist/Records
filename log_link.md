@@ -1,9 +1,6 @@
 ## Record links:
 
 
-### Components 实用组件
-
-
 
 ### Exps
 * 2017.09.25 -- [30 日晚 9 点芋头君的live](https://<www class=""></www>zhihu.com/lives/893156713996390400)
@@ -18,12 +15,12 @@
 - [ ] 2017.07.28 -- [在线小说](http://www.dushu369.com/)
 - [ ] 2017.07.10 -- [圆桌派 S2：7](https://www.youtube.com/watch?v=DNm056qwHvU)
 
-### Community 社区
 
 ### Someones's blog
 * 2017.09.18 -- [梁杰](http://numbbbbb.com/)
 * 2017.08.01 -- [子云](http://everlose.cn/)
 * 2017.10.11 -- [einverne](http://einverne.github.io/)
+
 
 ### **
 * 2017.08.01 -- [Muse-UI](http://www.muse-ui.org/)
@@ -32,9 +29,6 @@
 ### FE
 * 2017.08.29 -- [打造自己的html5视频播放器](https://segmentfault.com/a/1190000000380064)
 
-### About Conferences
-
-### About Nodejs
 
 ### About JS
 - [x] 2017.08.11 -- [动态创建 style](http://www.cnblogs.com/stephenykk/p/5406614.html)
@@ -46,9 +40,6 @@
 - [ ] 2017.08.10 -- [elm](https://guide.elm-lang.org/)
 
 
-### Dev Tool Chrome 开发者工具
-
-
 ### Flex 兼容性解决方案参考
 * 2017.08.11 -- [flexbox布局的兼容性](http://www.ayqy.net/blog/flexbox%E5%B8%83%E5%B1%80%E7%9A%84%E5%85%BC%E5%AE%B9%E6%80%A7/)
 * 2017.08.11 -- [flex布局及其兼容解决方案](http://www.webzsky.com/?p=689)
@@ -56,21 +47,6 @@
 ### About CSS
 - [ ] 2017.08.07 -- [grid 栅格布局](https://tympanus.net/codrops/css_reference/grid/)
 - [ ] 2017.07.28 -- [学习 css、svg 好去处](https://tympanus.net/codrops/)
-
-
-### About React
-
-
-### About learning Vue
-
-
-### About React & Flux
-
-
-### About rendering 渲染
-
-
-### Scripts 配合构建、部署用脚本
 
 
 ### About build the JS Project 构建、架构
@@ -94,26 +70,6 @@
 - [ ] 2017.07.04 -- [lerna](https://github.com/lerna/lerna)
 
 
-### About npm
-
-
 ### About optimization
 - [ ] 2017.09.29 -- [网页性能管理详解 -- 阮一峰](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html)
 
-
-### About the development trend
-
-
-### About design models
-
-
-### 面经
-
-
-### Issues
-
-
-### Editor 编辑器相关
-
-
-### Mac
