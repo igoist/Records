@@ -8,13 +8,14 @@
 * [刘家财](http://liujiacai.net/)
 *
 * ---- FE ----------
-*
 * [淘宝前端 FED](http://taobaofed.org/)
 * [大搜车无线团队](http://f2e.souche.com/blog/)
-* ----
+* [美团点评技术团队](https://tech.meituan.com/)
+*
 * [知乎大佬张云龙](https://github.com/fouber/blog/)
 * [死月大大](https://xcoder.in/)
 * [XYY601'S BLOG](http://xyy601-blog.logdown.com/)
+* [Egoist](https://egoist.moe)
 
 
 ## Community 社区
