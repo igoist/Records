@@ -4,6 +4,10 @@
 ###
 - [ ] 2017.10.16 -- [Ghost Doc](https://docs.ghost.org/v1/docs/working-with-ghost)
 - [ ] 2017.10.16 -- [Ghost Blog](https://blog.ghost.org/)
+- [ ] 2017.10.18 -- [瀑布流布局的实现步步升级（原生JS）](http://www.dengzhr.com/js/405)
+- [ ] 2017.10.18 -- [在线编码](http://codepan.net/)
+- [ ] 2017.10.18 -- [刘家才](http://liujiacai.net/about/)
+- [ ] 2017.10.18 -- [HTTP/2特性及其在实际应用中的表现](https://juejin.im/post/59e46b2651882578b8185a05)
 
 
 
@@ -17,6 +21,7 @@
 - [ ] 2017.10.12 -- [Scrapy入门教程](http://scrapy-chs.readthedocs.io/zh_CN/1.0/intro/tutorial.html)
 - [ ] 2017.10.12 -- [Node.js中Request模块处理HTTP协议请求的基本使用教程](https://teakki.com/p/57dfa8073c20b02e90a0d01e)
 - [ ] 2017.10.12 -- [Python Request：快速上手](http://requests-docs-cn.readthedocs.io/zh_CN/latest/user/quickstart.html)
+- [ ] 2017.10.18 -- [Python入门网络爬虫之精华版](https://github.com/lining0806/PythonSpiderNotes)
 
 
 ### Exps
@@ -37,6 +42,9 @@
 * 2017.09.18 -- [梁杰](http://numbbbbb.com/)
 * 2017.08.01 -- [子云](http://everlose.cn/)
 * 2017.10.11 -- [einverne](http://einverne.github.io/)
+* 2017.10.18 -- [吴揩](http://www.wukai.me/)
+* 2017.10.18 -- [台湾人士？](https://coldnew.github.io/)
+
 
 
 ### **

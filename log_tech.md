@@ -2,6 +2,17 @@
 
 
 
+
+### 2017.10.19
+<p>关于 cljs/clj 的一大优势</p>
+<p>可以引用 Browser REPL (bREPL) 的介绍</p>
+<blockquote>
+<p>One of the main reasons to use a LISP dialect like CLJ is its REPL (Read Eval Print Loop), which enables a very interactive style of programming.</p>
+<p>CLJS communities worked very hard to bring the same REPL-based programming experience to CLJS available in CLJ, and created a way to connect a CLJS REPL to almost any JS engine, including browser-embedded engines. </p>
+<p>This style of programming allows you to evaluate CLJS forms in the REPL and receive an immediate feedback in the browser to which the REPL is connected.</p>
+</blockquote>
+
+
 ### 2017.10.17
 <p>出于好奇心，我前后花了好几个小时，CPU 也同时烧了若干小时，安装配置了 pytorch、cuda 等内容，解决遇到的一些 stick，最终成功运行 train</p>
 <p>然而当我的所谓 i7 CPU 烧了一个多小时后，我选择死亡，哦不，我按了 Ctrl + c</p>
