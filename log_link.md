@@ -8,8 +8,11 @@
 - [ ] 2017.10.18 -- [在线编码](http://codepan.net/)
 - [ ] 2017.10.18 -- [刘家才](http://liujiacai.net/about/)
 - [ ] 2017.10.18 -- [HTTP/2特性及其在实际应用中的表现](https://juejin.im/post/59e46b2651882578b8185a05)
-
-
+- [x] 2017.10.24 -- [WebGL中文网 第1章 开启Threejs之旅(二)](http://www.hewebgl.com/article/getarticle/50)
+- [x] 2017.10.24 -- [CSS3动画那么强，requestAnimationFrame还有毛线用？](http://www.zhangxinxu.com/wordpress/2013/09/css3-animation-requestanimationframe-tween-%E5%8A%A8%E7%94%BB%E7%AE%97%E6%B3%95/)
+- [ ] 2017.10.24 -- [SegmentFault 技术周刊 Vol.35 - WebGL：打开网页看大片](https://segmentfault.com/a/1190000011633728?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+- [ ] 2017.10.25 -- [深入浅出ES6（八）：Symbols](http://www.infoq.com/cn/articles/es6-in-depth-symbols)
+- [ ] 2017.10.25 -- [最近 2 个月中我是如何开始学习 AI 的](https://zhuanlan.zhihu.com/p/30402049)
 
 ### Spider
 - [ ] 2017.10.12 -- [Scrapy抓取Ajax动态页面 淘宝模特](http://www.jianshu.com/p/1e35bcb1cf21)

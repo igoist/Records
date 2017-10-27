@@ -5,7 +5,7 @@
 * EOS (End Of Statement) -- 语句结尾
 * CDN (Content Delivery Network) -- 内容分发网络，倒是跟我翻的一样
 * REPL (Read Eval Print Loop) -- 交互式解释器
-
+* WebGL (Web Graphic Lib) -- 网页图形库
 
 ### JS
 * AMD (Asynchronous Module Definition) -- 异步模块定义
