@@ -1,18 +1,32 @@
-## Record links:
+## Record links
 
 
-###
-- [ ] 2017.10.16 -- [Ghost Doc](https://docs.ghost.org/v1/docs/working-with-ghost)
-- [ ] 2017.10.16 -- [Ghost Blog](https://blog.ghost.org/)
-- [ ] 2017.10.18 -- [瀑布流布局的实现步步升级（原生JS）](http://www.dengzhr.com/js/405)
-- [ ] 2017.10.18 -- [在线编码](http://codepan.net/)
-- [ ] 2017.10.18 -- [刘家才](http://liujiacai.net/about/)
-- [ ] 2017.10.18 -- [HTTP/2特性及其在实际应用中的表现](https://juejin.im/post/59e46b2651882578b8185a05)
-- [x] 2017.10.24 -- [WebGL中文网 第1章 开启Threejs之旅(二)](http://www.hewebgl.com/article/getarticle/50)
-- [x] 2017.10.24 -- [CSS3动画那么强，requestAnimationFrame还有毛线用？](http://www.zhangxinxu.com/wordpress/2013/09/css3-animation-requestanimationframe-tween-%E5%8A%A8%E7%94%BB%E7%AE%97%E6%B3%95/)
-- [ ] 2017.10.24 -- [SegmentFault 技术周刊 Vol.35 - WebGL：打开网页看大片](https://segmentfault.com/a/1190000011633728?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
-- [ ] 2017.10.25 -- [深入浅出ES6（八）：Symbols](http://www.infoq.com/cn/articles/es6-in-depth-symbols)
+
+
+### balabala
+- [ ] 2017.11.08 -- [前端合集，他人的博客 link](http://codepub.cn/links/)
+- [ ] 2017.11.06 -- [前端素材！](https://tympanus.net/)
+- [ ] 2017.11.06 -- [ykob](https://ykob.github.io/sketch-threejs)
+- [ ] 2017.11.05 -- [酷家乐前端博客](https://webfe.kujiale.com/)
+- [ ] 2017.11.03 -- [打造丝般顺滑的 H5 翻页库](http://fex.baidu.com/blog/2017/10/build-a-silky-smooth-slide-library//)
+- [ ] 2017.11.02 -- [Debugging The Web (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=HF1luRD4Qmk)
+- [ ] 2017.11.02 -- [知乎上有哪些在前端开发领域的高质量回答？](https://www.zhihu.com/question/20246142/answer/14470387)
+- [ ] 2017.11.01 -- [Three.js 学习参考](https://newbieweb.lione.me/2017/02/26/WebGL%20ThreeJS%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93%E4%B8%89/)
+- [ ] 2017.10.31 -- [todomvc](https://github.com/swannodette/todomvc/tree/gh-pages/labs/architecture-examples/om)
+- [ ] 2017.10.31 -- [css-loading](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650211450&idx=2&sn=535bef4d8197ca0fbd643b80c6fbc40f&chksm=befe045b89898d4dd6d8bf1326bd4877fe4bbe7e9e82d2671927b3c5503dd9a1ebf2cf0f5eb6&scene=21#wechat_redirect)
+- [ ] 2017.10.31 -- [zimo-article](https://github.com/laizimo/zimo-article)
 - [ ] 2017.10.25 -- [最近 2 个月中我是如何开始学习 AI 的](https://zhuanlan.zhihu.com/p/30402049)
+- [ ] 2017.10.25 -- [深入浅出ES6（八）：Symbols](http://www.infoq.com/cn/articles/es6-in-depth-symbols)
+- [ ] 2017.10.24 -- [SegmentFault 技术周刊 Vol.35 - WebGL：打开网页看大片](https://segmentfault.com/a/1190000011633728?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+- [x] 2017.10.24 -- [CSS3动画那么强，requestAnimationFrame还有毛线用？](http://www.zhangxinxu.com/wordpress/2013/09/css3-animation-requestanimationframe-tween-%E5%8A%A8%E7%94%BB%E7%AE%97%E6%B3%95/)
+- [x] 2017.10.24 -- [WebGL中文网 第1章 开启Threejs之旅(二)](http://www.hewebgl.com/article/getarticle/50)
+- [ ] 2017.10.16 -- [Ghost Doc](https://docs.ghost.org/v1/docs/working-with-ghost)
+- [ ] 2017.10.18 -- [HTTP/2特性及其在实际应用中的表现](https://juejin.im/post/59e46b2651882578b8185a05)
+- [ ] 2017.10.18 -- [刘家才](http://liujiacai.net/about/)
+- [ ] 2017.10.18 -- [在线编码](http://codepan.net/)
+- [ ] 2017.10.18 -- [瀑布流布局的实现步步升级（原生JS）](http://www.dengzhr.com/js/405)
+- [ ] 2017.10.16 -- [Ghost Blog](https://blog.ghost.org/)
+
 
 ### Spider
 - [ ] 2017.10.12 -- [Scrapy抓取Ajax动态页面 淘宝模特](http://www.jianshu.com/p/1e35bcb1cf21)
@@ -73,6 +87,7 @@
 * 2017.08.11 -- [flex布局及其兼容解决方案](http://www.webzsky.com/?p=689)
 
 ### About CSS
+- [ ] 2017.10.27 -- [sass揭秘之@if，@for，@each](https://www.w3cplus.com/preprocessor/sass-advanced-application.html)
 - [x] 2017.10.17 -- [CLASSIC LETTERPRESS](https://www.midwinter-dg.com/blog_demos/css-text-shadows/)
 - [ ] 2017.08.07 -- [grid 栅格布局](https://tympanus.net/codrops/css_reference/grid/)
 - [ ] 2017.07.28 -- [学习 css、svg 好去处](https://tympanus.net/codrops/)
@@ -102,3 +117,6 @@
 ### About optimization
 - [ ] 2017.09.29 -- [网页性能管理详解 -- 阮一峰](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html)
 
+
+### Web Sites
+- [ ] 2017.11.02 -- [](https://www.sony.com/be-moved/)

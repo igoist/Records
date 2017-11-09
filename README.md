@@ -5,11 +5,17 @@
 
 
 ## 内容 Contents
+* dir:articles -> 相当于开始写博文之类的东西，这部分写些情感、生活方面的内容
+* dir:articles_tech -> 同上，记录、总结一些技术相关内容
+*  company.md -> 记录各家公司任职相关内容，当然这个必须 ignore
+*  emotion.md -> 吐槽负面情绪，这个也得 ignore
 * log_bytw.md -> By the way，顾名思义
 * log_joke.md -> 起源于看到一句 "'works on my machine' bugs"
 * log_life.md -> 简短的生活、心情小记，相当于说说
+* dir:life_filed -> log_life 归档
 * log_link.md -> 主要是保存看过的一些文章的链接，跟 'task' 或 'tech' 中可能会重复，以示强调重要
-* log_link_stable -> Blogs，非常实用的一些生产工具与相关文章，三个等级的社区
+* log_link_stable.md -> Blogs，非常实用的一些生产工具与相关文章、链接，各类社区
+* dir:link_filed -> log_link 归档
 * log_mistake.md -> 记录过失、破戒...
 * log_read.md -> 阅读，书单之后再考虑
 * log_task.md -> 给自己布置的任务，迟早都得打上勾（不能再像以前那样丢三落四🙄）

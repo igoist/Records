@@ -86,8 +86,7 @@
 
 
 ### 2017.05.29
-<p>[之前想实现的字幕效果基础部分](http://localhost/~egoist/Web/Demo%20of%20web/Font/Practice/t003.html)，也是换成位移的方式来模拟，</p>
-<p>对<code>.wrap</code>需要设置<code>overflow: hidden</code>，而覆盖条颜色需要跟背景色保持一致。另外要是想实现最初所想的字幕效果，这边的位移得塞到<code>kf-animition</code>当中去，根据字数拆分<code>steps(x)</code>，并且对单个的字做处理</p>
+[之前想实现的字幕效果基础部分](http://localhost/~egoist/Web/Demo%20of%20web/Font/Practice/t003.html)，也是换成位移的方式来模拟，对<code>.wrap</code>需要设置<code>overflow: hidden</code>，而覆盖条颜色需要跟背景色保持一致。另外要是想实现最初所想的字幕效果，这边的位移得塞到<code>kf-animition</code>当中去，根据字数拆分<code>steps(x)</code>，并且对单个的字做处理
 
 
 ### 2017.05.28
@@ -96,13 +95,11 @@
 
 
 ### 2017.05.27
-<p>最后还是根据这篇 [搭建 React , Babel 和 Webpack](http://fuxiaohei.me/2016/5/5/react-babel-webpack-start.html)，加入了 'babel-preset-es2015' 跟 'babel-preset-react' 才通过编译</p>
-<p>然而这一篇更加深入 [webpack 2 打包实战](https://zhuanlan.zhihu.com/p/27046322)</p>
+最后还是根据这篇 [搭建 React , Babel 和 Webpack](http://fuxiaohei.me/2016/5/5/react-babel-webpack-start.html)，加入了 'babel-preset-es2015' 跟 'babel-preset-react' 才通过编译，然而这一篇更加深入 [webpack 2 打包实战](https://zhuanlan.zhihu.com/p/27046322)
 
 
 ### 2017.05.26
-<p>Learn about yarn from this [article](https://code.facebook.com/posts/1840075619545360)</p>
-<p>and those types, [dependency-types](https://yarnpkg.com/lang/en/docs/dependency-types/)</p>
+Learn about yarn from this [article](https://code.facebook.com/posts/1840075619545360) and those types, [dependency-types](https://yarnpkg.com/lang/en/docs/dependency-types/)
 
 
 ### 2017.05.25

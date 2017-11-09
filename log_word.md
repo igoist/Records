@@ -39,5 +39,6 @@
 
 
 ## 记录 QQ 昵称
+* 2017.11.06 -- 嘴炮大魔王天痕˚
 * 2017.xx.xx -- 天痕˚：IT民(死)工(宅)
-* xxxx.xx.xx -- 
+* 2013.xx.xx -- 天空没有翅膀的痕 (源于这句：There are no trails of the wings in the sky, while the birds has flied away.)
