@@ -4,6 +4,15 @@
 
 
 ### balabala
+- [ ] 2017.11.26 -- [机器学习（Machine Learning）- 吴恩达（Andrew Ng）](https://www.bilibili.com/video/av9912938/#page=2)
+- [ ] 2017.11.26 -- [tensorflownews](http://www.algorithmdog.com/page/3)
+- [ ] 2017.11.24 -- [AlgorithmDog：机器学习](http://www.tensorflownews.com/)
+- [ ] 2017.11.24 -- [AlgorithmDog：机器学习](http://www.algorithmdog.com/page/3)
+- [ ] 2017.11.23 -- [喵神大人的深度工坊](https://zhuanlan.zhihu.com/codekitty)
+- [ ] 2017.11.23 -- [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+- [ ] 2017.11.21 -- [Web 字体的选择和运用](https://blog.coding.net/blog/Web-Fonts)
+- [ ] 2017.11.17 -- [沪江英语新概念第一册](http://www.hjenglish.com/nce/xingainian1/)
+- [ ] 2017.11.14 -- [英文小说网（免费txt下载）](http://novel.tingroom.com/)
 - [ ] 2017.11.08 -- [前端合集，他人的博客 link](http://codepub.cn/links/)
 - [ ] 2017.11.06 -- [前端素材！](https://tympanus.net/)
 - [ ] 2017.11.06 -- [ykob](https://ykob.github.io/sketch-threejs)
@@ -63,16 +72,18 @@
 * 2017.10.18 -- [台湾人士？](https://coldnew.github.io/)
 
 
-
 ### **
 * 2017.08.01 -- [Muse-UI](http://www.muse-ui.org/)
 
 
 ### FE
+* 2017.11.13 -- [Awesome SVG](https://github.com/willianjusten/awesome-svg)
 * 2017.08.29 -- [打造自己的html5视频播放器](https://segmentfault.com/a/1190000000380064)
 
 
 ### About JS
+- [ ] 2017.11.13 -- [Google: async & await](https://developers.google.com/web/fundamentals/primers/async-functions?hl=zh-cn)
+- [ ] 2017.11.13 -- [Google: Promise](https://developers.google.com/web/fundamentals/primers/promises?hl=zh-cn)
 - [x] 2017.08.11 -- [动态创建 style](http://www.cnblogs.com/stephenykk/p/5406614.html)
 - [ ] 2017.08.01 -- [从Toast到Pagination: 如何优雅地写组件](https://juejin.im/post/591568ab8d6d8100585ecb7d)
 

@@ -37,7 +37,23 @@
 * [LeanCloud](https://leancloud.cn/)
 
 
-### HTTP 网络方面知识
-- [ ] [三次握手通俗解释](https://github.com/jawil/blog/issues/14)
-- [ ] [HTTP (HyperText Transfer Protocol)](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
+## HTTP 网络方面知识
+* [三次握手通俗解释](https://github.com/jawil/blog/issues/14)
+* [HTTP (HyperText Transfer Protocol)](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
 
+
+## JS or ES
+* [InfoQ: 深入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)
+
+
+## Read
+* [英文小说网（免费txt下载）](http://novel.tingroom.com/)
+
+
+## SEO
+* [DNS Prefetching的两三事](http://www.jianshu.com/p/c3a14a853c79)
+* [预加载系列一：DNS Prefetching 的正确使用姿势](https://segmentfault.com/a/1190000003944417)
+
+
+## WX 微信小程序开发相关
+* [他人整理到相关集合](https://github.com/opendigg/awesome-github-wechat-weapp)

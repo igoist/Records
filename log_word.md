@@ -39,6 +39,17 @@
 
 
 ## 记录 QQ 昵称
+
 * 2017.11.06 -- 嘴炮大魔王天痕˚
 * 2017.xx.xx -- 天痕˚：IT民(死)工(宅)
 * 2013.xx.xx -- 天空没有翅膀的痕 (源于这句：There are no trails of the wings in the sky, while the birds has flied away.)
+
+
+## Record description
+
+How to use simple words to describe yourself?
+
+**I have to try:**
+
+* 2017.11.09 -- 初三那年，曾体会了深刻的孤独，也是那一年，伴随着胃病、体重骤减，自我意识深深地觉醒。曾认为有能力去掌握一切知识，转眼多年过去了，经历了各种不该有的挫折，荒废了诸多岁月，想想都后怕，简直差点就要泯然众人。如今跳出了体制，也成年了，财务自由了，经历丰富了，不再有过去的心结烦恼，该释然的也都释然了。今后，不用多说什么，只需珍惜岁月，努力生活，用行动证明自己。
+
