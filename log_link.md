@@ -4,6 +4,7 @@
 
 
 ### balabala
+- [ ] 2017.11.28 -- [旧版 v3 Github API: Searching users](https://help.github.com/articles/searching-users/)
 - [ ] 2017.11.26 -- [机器学习（Machine Learning）- 吴恩达（Andrew Ng）](https://www.bilibili.com/video/av9912938/#page=2)
 - [ ] 2017.11.26 -- [tensorflownews](http://www.algorithmdog.com/page/3)
 - [ ] 2017.11.24 -- [AlgorithmDog：机器学习](http://www.tensorflownews.com/)

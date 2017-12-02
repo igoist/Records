@@ -37,6 +37,14 @@
 * [LeanCloud](https://leancloud.cn/)
 
 
+## Fun 一些有意思的站点
+* [Elevator Saga The elevator programming game](http://play.elevatorsaga.com/)
+
+
+## GraphQL 相关
+* [淘宝 FED：Node.js 服务端实践之 GraphQL 初探](http://taobaofed.org/blog/2015/11/26/graphql-basics-server-implementation/)
+
+
 ## HTTP 网络方面知识
 * [三次握手通俗解释](https://github.com/jawil/blog/issues/14)
 * [HTTP (HyperText Transfer Protocol)](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
