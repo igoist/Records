@@ -18,6 +18,10 @@
 * [Egoist](https://egoist.moe)
 
 
+## Collections 收藏
+* [漢典古籍：古籍文庫](http://gj.zdic.net/)
+
+
 ## Community 社区
 * ---- Clojure ----
 * [ClojureDocs](https://clojuredocs.org/)
@@ -52,6 +56,10 @@
 
 ## JS or ES
 * [InfoQ: 深入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)
+
+
+## Layout 布局
+* [Design Guideline: 收集主流 UI](http://designguidelines.co/)
 
 
 ## Read
