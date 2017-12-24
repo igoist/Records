@@ -1,6 +1,8 @@
 ## Record links 2017.12
 
 
+### Blog
+- [ ] 2017.12.21 -- [bilibili: 戴天宇](http://dtysky.moe/)
 
 ### CSS
 - [ ] 2017.12.05 -- [W3C: csswg-drafts](https://github.com/w3c/csswg-drafts)
@@ -10,6 +12,10 @@
 - [ ] 2017.12.12 -- [Design Guideline: 收集主流 UI](http://designguidelines.co/)
 
 ### Others
+- [ ] 2017.12.23 -- [新浪开放平台](http://open.weibo.com/wiki/Error_code)
+- [ ] 2017.12.23 -- [Restful API](https://github.com/aisuhua/restful-api-design-references)
+- [ ] 2017.12.22 -- [D2 录播上传了，就是有些卡](https://tianchi.aliyun.com/competition/videoStream.html?postsId=3503#postsId%3D3503%26pageIndex%3D3)
+- [ ] 2017.12.22 -- [magicleap 它们的前端图片、请求优化值得学习](https://www.magicleap.com)
 - [ ] 2017.12.12 -- [漢典古籍：古籍文庫](http://gj.zdic.net/)
 - [ ] 2017.12.12 -- [re-frame](https://github.com/Day8/re-frame)
 - [ ] 2017.12.07 -- [炉石普通卡素材](http://hs.blizzard.cn/cards/)
