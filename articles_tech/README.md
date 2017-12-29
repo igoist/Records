@@ -1,5 +1,13 @@
-# Technoligical Things 技术相关文稿
+# Technoligical Things 技术相关的东西
+
+记录、总结一些技术相关内容
+
+
 
 
 ## Index 目录
-* 0001.md -> Code Editors 编辑器
+* 0001.md -> Code Editors 四大编辑器攻略
+* 0002.md -> Clojure & ClojureScript 学习笔记
+* 0003.md -> Shell 命令
+* 0004.md -> Sass 学习笔记
+* 0005.md -> Three.js 学习笔记
