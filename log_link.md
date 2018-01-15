@@ -2,32 +2,71 @@
 
 
 ### Blog
+
+- [ ] 2018.01.08 -- [曈](https://blog.rooot.me/)
+- [ ] 2017.12.21 -- [Xaber](https://github.com/Xaber20110202?tab=overview&from=2013-12-01&to=2013-12-31)
 - [ ] 2017.12.21 -- [bilibili: 戴天宇](http://dtysky.moe/)
 
 
 ### Canvas
+
 - [ ] 2017.12.26 -- [pixi.js](https://github.com/pixijs/pixi.js)
 - [ ] 2017.12.26 -- [pixi.js v4 先完成 cljs 再去玩](http://www.pixijs.com/)
 
 
 ### Chrome 插件
+
 - [ ] 2018.01.03 -- [py 图片批量上传](https://github.com/Pingze-github/HuabanBatchUpload)
 
 
 ### CSS
+
+- [ ] 2018.01.08 -- [理解CSS中的BFC(块级可视化上下文)](https://www.jianshu.com/p/fc1d61dace7b)
 - [ ] 2017.12.27 -- [非我最初所想的那种加载动画](http://web.jobbole.com/89568/)
 - [ ] 2017.12.05 -- [W3C: csswg-drafts](https://github.com/w3c/csswg-drafts)
 
 
+### Deep Learning & ML
+
+- [ ] 2018.01.12 -- [trun design => code](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
+- [ ] 2018.01.09 -- [机器学习 github](https://github.com/apachecn/MachineLearning)
+- [ ] 2018.01.09 -- [机器学习](http://ml.apachecn.org/mlia/basic-knowledge/)
+- [ ] 2018.01.09 -- [斯坦福 Justin Johnson教你循环神经网络 2017 CS231n](https://zhuanlan.zhihu.com/c_112896567)
+- [ ] 2018.01.08 -- [Deep Learning Book Chinese Translation](https://exacity.github.io/deeplearningbook-chinese/)
+
+
 ### Git Flow
+
 - [ ] 2017.12.26 -- [常见 Git 工作流比较](https://github.com/geeeeeeeeek/git-recipes/wiki/3.5-%E5%B8%B8%E8%A7%81%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%AF%94%E8%BE%83)
 
 
-## Layout 布局
+### Layout 布局
+
+- [ ] 2017.12.12 -- [MDN Grid Basic 补](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Grid_Layout/Box_Alignment_in_CSS_Grid_Layout)
+- [ ] 2017.12.12 -- [CSS Tricks: Grid Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [ ] 2017.12.12 -- [Design Guideline: 收集主流 UI](http://designguidelines.co/)
 
 
+### Node.js 学习计划
+
+- [ ] 2018.01.08 -- [Timers](https://nodejs.org/api/timers.html)
+- [ ] 2018.01.08 -- [Buffer](https://nodejs.org/api/buffer.html)
+- [ ] 2018.01.08 -- [Events](https://nodejs.org/api/events.html)
+- [ ] 2018.01.08 -- [Stream](https://nodejs.org/api/stream.html)
+- [ ] 2018.01.08 -- [Module](https://nodejs.org/api/modules.html)
+- [ ] 2018.01.08 -- [HTTP](https://nodejs.org/api/https.html)
+
+
 ### Others
+
+- [ ] 2018.01.12 -- [笑死我了](https://www.v2ex.com/t/261698#reply21)
+- [ ] 2018.01.12 -- [Game Off 2017 winners](https://github.com/blog/2483-game-off-2017-winners)
+- [ ] 2018.01.08 -- [JS 2018 趋势](http://36kr.com/p/5110763.html)
+- [ ] 2018.01.08 -- [豆瓣 2017 年度读书榜单](https://book.douban.com/annual/2017?source=patch#45)
+- [ ] 2018.01.08 -- [豆瓣 2017 年度音乐榜单](https://music.douban.com/annual/2017?source=book_annual#3)
+- [ ] 2018.01.08 -- [《解析卷积神经网络—深度学习实践手册》](http://210.28.132.67/weixs/book/CNN_book.html)
+- [ ] 2018.01.08 -- [Gluon 中文指南](http://zh.gluon.ai/chapter_preface/install.html)
+- [ ] 2018.01.08 -- [Gluon Discuss](https://discuss.gluon.ai/top)
 - [ ] 2017.12.23 -- [Code 天梯赛？又一个刷题站点](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/javascript)
 - [ ] 2017.12.23 -- [Jamie Coulter on Codepen](https://codepen.io/jcoulterdesign/pens/popular/8/)
 - [ ] 2017.12.23 -- [2017 番剧年度盘点](https://www.bilibili.com/blackboard/vH6gfdnK8zds-2017bangumi-review.html)
@@ -48,12 +87,26 @@
 
 
 ### Python
+
 - [ ] 2017.12.05 -- [Python老鸟想告诉新手的事情](https://www.kawabangga.com/posts/2460)
 
 
 ### PWA
+
 - [ ] 2017.12.27 -- [Chrome 官方 PWA](https://developers.google.com/web/progressive-web-apps/)
 
 
+### Read
+
+- [ ] 2018.01.08 -- [亦凡公益图书馆：儒林外史](http://www.shuku.net/novels/classic/rulin/rulin.html)
+- [ ] 2018.01.08 -- [吴敬梓评传 八 创作有成](http://xy.eywedu.com/29/025html/mydoc25019.htm)
+
+
 ### SVG
+
 - [ ] 2017.12.29 -- [A How-to Guide to SVG Animation](https://www.toptal.com/front-end/svg-animation-guide)
+
+
+### WebSocket
+
+- [ ] 2018.01.08 -- [WebSocket协议：5分钟从入门到精通](https://zhuanlan.zhihu.com/p/32739737)
