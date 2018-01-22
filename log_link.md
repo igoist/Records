@@ -3,6 +3,7 @@
 
 ### Blog
 
+- [ ] 2018.01.22 -- [邹淼江 zoumiaojiang](https://zoumiaojiang.com/)
 - [ ] 2018.01.08 -- [曈](https://blog.rooot.me/)
 - [ ] 2017.12.21 -- [Xaber](https://github.com/Xaber20110202?tab=overview&from=2013-12-01&to=2013-12-31)
 - [ ] 2017.12.21 -- [bilibili: 戴天宇](http://dtysky.moe/)
@@ -35,6 +36,11 @@
 - [ ] 2018.01.08 -- [Deep Learning Book Chinese Translation](https://exacity.github.io/deeplearningbook-chinese/)
 
 
+### Github
+
+- [ ] 2018.01.19 -- [某位最近开始在 Github 上积累代码的仁兄，不想关注，但以后偶尔去逛逛，就如同看什么什么发展，挺有意思](https://github.com/wallacegibbon?tab=overview&from=2018-01-01&to=2018-01-19)
+
+
 ### Git Flow
 
 - [ ] 2017.12.26 -- [常见 Git 工作流比较](https://github.com/geeeeeeeeek/git-recipes/wiki/3.5-%E5%B8%B8%E8%A7%81%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%AF%94%E8%BE%83)
@@ -59,6 +65,10 @@
 
 ### Others
 
+- [ ] 2018.01.22 -- [那位的简书文章](https://www.jianshu.com/u/61010ae65627)
+- [ ] 2018.01.18 -- [Range In JS](https://stackoverflow.com/questions/3895478/does-javascript-have-a-method-like-range-to-generate-an-array-based-on-suppl)
+- [ ] 2018.01.17 -- [央视纪录片《互联网时代》有空去看下](http://jingji.cntv.cn/special/internetage/01/)
+- [ ] 2018.01.16 -- [enhancer](https://enhancer.io/)
 - [ ] 2018.01.12 -- [笑死我了](https://www.v2ex.com/t/261698#reply21)
 - [ ] 2018.01.12 -- [Game Off 2017 winners](https://github.com/blog/2483-game-off-2017-winners)
 - [ ] 2018.01.08 -- [JS 2018 趋势](http://36kr.com/p/5110763.html)
@@ -98,6 +108,7 @@
 
 ### Read
 
+- [ ] 2018.01.08 -- [Stack Heap](https://www.codeproject.com/Articles/76153/Six-important-NET-concepts-Stack-heap-value-types)
 - [ ] 2018.01.08 -- [亦凡公益图书馆：儒林外史](http://www.shuku.net/novels/classic/rulin/rulin.html)
 - [ ] 2018.01.08 -- [吴敬梓评传 八 创作有成](http://xy.eywedu.com/29/025html/mydoc25019.htm)
 
