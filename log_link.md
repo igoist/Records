@@ -65,6 +65,7 @@
 
 ### Others
 
+- [ ] 2018.01.29 -- [豪情大佬当年总结的 vim 快捷键分类](http://www.cnblogs.com/jikey/archive/2011/12/28/2304341.html)
 - [ ] 2018.01.22 -- [那位的简书文章](https://www.jianshu.com/u/61010ae65627)
 - [ ] 2018.01.18 -- [Range In JS](https://stackoverflow.com/questions/3895478/does-javascript-have-a-method-like-range-to-generate-an-array-based-on-suppl)
 - [ ] 2018.01.17 -- [央视纪录片《互联网时代》有空去看下](http://jingji.cntv.cn/special/internetage/01/)
