@@ -3,6 +3,7 @@
 
 ### Blog
 
+- [ ] 2018.02.01 -- [杨森？](http://undefinedblog.com/)
 - [ ] 2018.01.22 -- [邹淼江 zoumiaojiang](https://zoumiaojiang.com/)
 - [ ] 2018.01.08 -- [曈](https://blog.rooot.me/)
 - [ ] 2017.12.21 -- [Xaber](https://github.com/Xaber20110202?tab=overview&from=2013-12-01&to=2013-12-31)
@@ -36,6 +37,11 @@
 - [ ] 2018.01.08 -- [Deep Learning Book Chinese Translation](https://exacity.github.io/deeplearningbook-chinese/)
 
 
+### FE Front End
+
+- [ ] 2018.02.02 -- [react-slick 很契合我举一反三花样玩的观念嘛](http://neostack.com/opensource/react-slick)
+
+
 ### Github
 
 - [ ] 2018.01.19 -- [某位最近开始在 Github 上积累代码的仁兄，不想关注，但以后偶尔去逛逛，就如同看什么什么发展，挺有意思](https://github.com/wallacegibbon?tab=overview&from=2018-01-01&to=2018-01-19)
@@ -65,6 +71,11 @@
 
 ### Others
 
+- [ ] 2018.02.02 -- [仿花瓣，然，可谓无前端](https://github.com/pinclub/pinclub)
+- [ ] 2018.02.01 -- [React 中常见的动画实现方式](https://tech.youzan.com/react-animations/)
+- [ ] 2018.01.31 -- [治颈椎，不含糖](https://www.jianshu.com/p/60b4aed6cb67)
+- [ ] 2018.01.31 -- [动画展示各种路径搜索算法](http://www.webhek.com/post/pathfinding.html)
+- [ ] 2018.01.30 -- [BiliBili 周末放映室](https://search.bilibili.com/topic?keyword=%E5%91%A8%E6%9C%AB%E6%94%BE%E6%98%A0%E5%AE%A4)
 - [ ] 2018.01.29 -- [豪情大佬当年总结的 vim 快捷键分类](http://www.cnblogs.com/jikey/archive/2011/12/28/2304341.html)
 - [ ] 2018.01.22 -- [那位的简书文章](https://www.jianshu.com/u/61010ae65627)
 - [ ] 2018.01.18 -- [Range In JS](https://stackoverflow.com/questions/3895478/does-javascript-have-a-method-like-range-to-generate-an-array-based-on-suppl)

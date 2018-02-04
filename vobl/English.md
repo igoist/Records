@@ -6,6 +6,7 @@
 * convention -- n. 大会；[法] 惯例；[计] 约定；[法] 协定；习俗
 * critical -- adj. 鉴定的；[核] 临界的；批评的，爱挑剔的；危险的；决定性的；评论的
 * dialect -- n. 方言，土话；同源语；行话；个人用语特征 adj. 方言的
+* distinction -- n. 区别；差别；特性；荣誉、勋章
 * explicitly -- 明确地；明白地
 * paraphrasing -- n. 释义；意译；改写 v. 改写；解述（paraphrase的ing形式）
 * parenthesis -- 圆括号；插入语，插入成分；间歇，插曲
