@@ -3,6 +3,8 @@
 
 ### Blog
 
+- [ ] 2018.02.08 -- [奇特下水馆](https://www.withbb.com/)
+- [ ] 2018.02.08 -- [创造狮导航](http://chuangzaoshi.com/)
 - [ ] 2018.02.01 -- [杨森？](http://undefinedblog.com/)
 - [ ] 2018.01.22 -- [邹淼江 zoumiaojiang](https://zoumiaojiang.com/)
 - [ ] 2018.01.08 -- [曈](https://blog.rooot.me/)
@@ -21,6 +23,11 @@
 - [ ] 2018.01.03 -- [py 图片批量上传](https://github.com/Pingze-github/HuabanBatchUpload)
 
 
+### ClojureScript cljs
+
+- [ ] 2018.02.09 -- [Learn X in Y minutes](https://learnxinyminutes.com/docs/clojure/)
+
+
 ### CSS
 
 - [ ] 2018.01.08 -- [理解CSS中的BFC(块级可视化上下文)](https://www.jianshu.com/p/fc1d61dace7b)
@@ -30,6 +37,7 @@
 
 ### Deep Learning & ML
 
+- [ ] 2018.02.09 -- [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 - [ ] 2018.01.12 -- [trun design => code](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
 - [ ] 2018.01.09 -- [机器学习 github](https://github.com/apachecn/MachineLearning)
 - [ ] 2018.01.09 -- [机器学习](http://ml.apachecn.org/mlia/basic-knowledge/)
@@ -37,8 +45,11 @@
 - [ ] 2018.01.08 -- [Deep Learning Book Chinese Translation](https://exacity.github.io/deeplearningbook-chinese/)
 
 
-### FE Front End
+### FE Front End 前端
 
+- [ ] 2018.02.09 -- [思考：如何让搜索引擎抓取AJAX内容？](http://www.ruanyifeng.com/blog/2013/07/how_to_make_search_engines_find_ajax_content.html)
+- [ ] 2018.02.09 -- [html5rocks](https://www.html5rocks.com/)
+- [ ] 2018.02.09 -- [通过 File API 使用 JavaScript 读取文件](https://www.html5rocks.com/zh/tutorials/file/dndfiles/)
 - [ ] 2018.02.02 -- [react-slick 很契合我举一反三花样玩的观念嘛](http://neostack.com/opensource/react-slick)
 
 
@@ -71,6 +82,13 @@
 
 ### Others
 
+- [ ] 2018.02.09 -- [一个美国留学生的忠告：如何与老外有效交流](https://www.douban.com/group/topic/20046422/)
+- [ ] 2018.02.08 -- [博客之毛遂自荐](https://www.v2ex.com/t/429273)
+- [ ] 2018.02.08 -- [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
+- [ ] 2018.02.08 -- [NASA 开源计划](https://code.nasa.gov/)
+- [ ] 2018.02.07 -- [曾杨](https://my.oschina.net/u/1403140/home)
+- [ ] 2018.02.05 -- [60分钟正则从入门到深入](https://segmentfault.com/a/1190000013075245)
+- [ ] 2018.02.05 -- [deepfakes](https://mp.weixin.qq.com/s/hUcQ1SEZlHp7c-wQ-jlfRg)
 - [ ] 2018.02.02 -- [仿花瓣，然，可谓无前端](https://github.com/pinclub/pinclub)
 - [ ] 2018.02.01 -- [React 中常见的动画实现方式](https://tech.youzan.com/react-animations/)
 - [ ] 2018.01.31 -- [治颈椎，不含糖](https://www.jianshu.com/p/60b4aed6cb67)
@@ -133,3 +151,7 @@
 ### WebSocket
 
 - [ ] 2018.01.08 -- [WebSocket协议：5分钟从入门到精通](https://zhuanlan.zhihu.com/p/32739737)
+
+### 其他人的经历
+
+* 2018.02.09 -- [一个平平无奇的两年前端：两年前端职业生涯总结](https://www.jianshu.com/p/51307634788e)
