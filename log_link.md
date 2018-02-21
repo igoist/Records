@@ -82,6 +82,8 @@
 
 ### Others
 
+- [ ] 2018.02.18 -- [标题看着不正经，但下面回复与评论很值得看](https://www.zhihu.com/question/25527623)
+- [x] 2018.02.16 -- [看看 13 年的尤大，再看看自己，相形见绌](http://www.csdn.net/article/2013-04-15/2814893)
 - [ ] 2018.02.09 -- [一个美国留学生的忠告：如何与老外有效交流](https://www.douban.com/group/topic/20046422/)
 - [ ] 2018.02.08 -- [博客之毛遂自荐](https://www.v2ex.com/t/429273)
 - [ ] 2018.02.08 -- [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
