@@ -30,6 +30,8 @@
 
 ### CSS
 
+- [x] 2018.02.23 -- [MDN: text-overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow)
+- [ ] 2018.02.22 -- [CSS 奇淫巧技](https://github.com/chokcoco/iCSS)
 - [ ] 2018.01.08 -- [理解CSS中的BFC(块级可视化上下文)](https://www.jianshu.com/p/fc1d61dace7b)
 - [ ] 2017.12.27 -- [非我最初所想的那种加载动画](http://web.jobbole.com/89568/)
 - [ ] 2017.12.05 -- [W3C: csswg-drafts](https://github.com/w3c/csswg-drafts)
@@ -82,6 +84,9 @@
 
 ### Others
 
+- [ ] 2018.02.25 -- [三十岁，研究生毕业的你，现在收入多少？](https://www.zhihu.com/question/64055675)
+- [ ] 2018.02.25 -- [如何有效地劝刚上大学的儿子远离校园贷？](https://www.zhihu.com/question/265597918/answer/295878648)
+- [ ] 2018.02.24 -- [知乎上某个大概同龄的人的收藏夹](https://www.zhihu.com/collection/112861432)
 - [ ] 2018.02.18 -- [标题看着不正经，但下面回复与评论很值得看](https://www.zhihu.com/question/25527623)
 - [x] 2018.02.16 -- [看看 13 年的尤大，再看看自己，相形见绌](http://www.csdn.net/article/2013-04-15/2814893)
 - [ ] 2018.02.09 -- [一个美国留学生的忠告：如何与老外有效交流](https://www.douban.com/group/topic/20046422/)
@@ -150,9 +155,21 @@
 - [ ] 2017.12.29 -- [A How-to Guide to SVG Animation](https://www.toptal.com/front-end/svg-animation-guide)
 
 
+### Tool 实用工具
+
+- [ ] 2018.02.23 -- [爱词霸](http://www.iciba.com/以。。。为主)
+
+
+### Webpack
+
+- [x] 2018.02.25 -- [React HMR](https://github.com/dengshasha/react-webpack/tree/master/react-webpack-01)
+- [ ] 2018.02.22 -- [CSS Hot Reload Set Up](https://www.youtube.com/watch?v=faFJw1wjQLE)
+
+
 ### WebSocket
 
 - [ ] 2018.01.08 -- [WebSocket协议：5分钟从入门到精通](https://zhuanlan.zhihu.com/p/32739737)
+
 
 ### 其他人的经历
 
