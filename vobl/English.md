@@ -12,6 +12,9 @@
 * distinction -- n. 区别；差别；特性；荣誉、勋章
 * execution -- n. 执行，实行；完成；死刑
 * explicitly -- 明确地；明白地
+* humble -- adj. 谦逊的；简陋的；（级别或地位）低下的；不大的；vt. 使谦恭；轻松打败（尤指强大的对手）；低声下气
+* ignorance -- n. 无知，愚昧；不知，不懂
+* ionic --adj. 离子的；电价的；爱奥尼亚柱式的（古希腊建筑风格，有涡卷饰）；n. 爱奥尼亚语；【印】一种粗字面铅字
 * paraphrasing -- n. 释义；意译；改写；v. 改写；解述（paraphrase的ing形式）
 * parenthesis -- 圆括号；插入语，插入成分；间歇，插曲
 * pornography -- n. 色情文学；色情描写
