@@ -1,11 +1,26 @@
 ## Record links 2018.03 ~ 2018.
 
 
+
+### AR
+
+* 2018.03.21 -- [Full Tutorial](https://marmelab.com/blog/2017/06/19/augmented-reality-html5.html)
+* 2018.03.21 -- [Web 前端中的增强现实（AR）开发技术](http://mp.weixin.qq.com/s/GgW2_na0xrRD0Ry86fvPrw)
+
+
 ### Blog
 
+* 2018.03.21 -- [这位老兄... 尽管确实有积累，说自己是刺头，可博客 UI 还是真的 low](http://www.zhangxinxu.com/life/2018/03/record-some-mind/)
+* 2018.03.19 -- [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
+* 2018.03.19 -- [iHost 作者（我的天，每天都在发流水账）](https://atjason.com/)
 * 2018.03.17 -- [OpenCV DNN with GPU Computing](https://xinlake.github.io/)
 * 2018.03.15 -- [D2 那次的那位：dtysky](http://dtysky.moe/category/Create)
 * 2018.03.12 -- [会当凌绝顶，一览众山小](https://jiajunhuang.com/)
+
+
+### Chrome Plugin Development
+
+* 2018.03.21 -- [Get started](https://developer.chrome.com/extensions/getstarted)
 
 
 ### Code Review or Rules
@@ -15,6 +30,12 @@
 
 ### CSS
 
+* 2018.03.20 -- [小tip:CSS vw让overflow:auto页面滚动条出现时不跳动](http://www.zhangxinxu.com/wordpress/2015/01/css-page-scrollbar-toggle-center-no-jumping/)
+* 2018.03.19 -- [w3c+ sass 系列：学习CSS Grid](https://www.w3cplus.com/css/learncssgrid.html)
+* 2018.03.19 -- [w3c+ sass 系列：CSS Grid布局：快速入门](https://www.w3cplus.com/css3/css-grid-layout-quick-start-guide.html)
+* 2018.03.19 -- [w3c+ sass 系列：使用CSS Grid和Flexbox制作Card](https://www.w3cplus.com/css3/solving-problems-with-css-grid-and-flexbox-the-card-ui.html)
+* 2018.03.19 -- [w3c+ sass 系列：CSS Grid和Flexbox解决实际的布局问题](https://www.w3cplus.com/css3/css-grid-flexbox-solving-real-world-problems.html)
+* 2018.03.19 -- [怎样正确使用Stylelint来对你的Sass/CSS代码静态检查](http://www.zcfy.cc/article/how-to-lint-your-sass-css-properly-with-stylelint-mdash-creative-nightly-1160.html)
 * 2018.03.16 -- [CSS Tricks: Magic Numbers in CSS](https://css-tricks.com/magic-numbers-in-css/)
 * 2018.03.14 -- [sass guide](https://sass-guidelin.es/zh/)
 * 2018.03.14 -- [csscomb](http://csscomb.com/)
@@ -23,6 +44,7 @@
 
 ### Deep Learning & Machine Learning
 
+* 2018.03.21 -- [深度学习(deep learning)记录 - 初步概念](https://zacard.net/2018/01/12/deeplearning-1/)
 * 2018.03.07 -- [deeplearn.js](https://deeplearnjs.org/)
 
 
@@ -52,6 +74,12 @@
 * 2018.03.15 -- [git-filter-branch](https://git-scm.com/docs/git-filter-branch)
 
 
+### JS & DOM
+
+* 2018.03.21 -- [create dom with str, <template>](https://stackoverflow.com/questions/494143/creating-a-new-dom-element-from-an-html-string-using-built-in-dom-methods-or-pro)
+* 2018.03.20 -- [How to disable scrolling temporarily?](https://stackoverflow.com/questions/4770025/how-to-disable-scrolling-temporarily)
+
+
 ### Linux
 
 * 2018.03.08 -- [linux中强大且常用命令：find、grep](https://www.cnblogs.com/skynet/archive/2010/12/25/1916873.html)
@@ -59,6 +87,10 @@
 
 ### Others
 
+* 2018.03.20 -- [wiki: 斯蒂芬·茨威格、Affair of the Diamond Necklace、法国大革命]()
+* 2018.03.20 -- [孔乙己的“四样写法”说的不是茴香豆的“茴”，而是来回的“回”](http://blog.sina.com.cn/s/blog_63af05000102vjfw.html?tj=1)
+* 2018.03.20 -- [国外模版 UI 售卖网站的其中一项](https://genesisui.com/demo/?template=prime&version=1.8.14&framework=bootstrap4-angular5)
+* 2018.03.19 -- [湾区论坛](https://wanqu.io/)
 * 2018.03.15 -- [2017年居民收入和消费支出情况的](http://www.stats.gov.cn/tjsj/zxfb/201801/t20180118_1574931.html)
 * 2018.03.15 -- [知乎：中国大通货膨胀时代是要来临了吗？有哪些标志？](https://www.zhihu.com/question/20438828)
 * 2018.03.15 -- [看看 2005 年那时的人们是怎样看待房价的](http://bbs.tianya.cn/post-house-3003-1.shtml)
@@ -73,7 +105,6 @@
 ### React
 
 * 2018.03.15 -- [你真了解 React 吗？](http://qingbob.com/understand-react-01/)
-
 
 
 ### Read
