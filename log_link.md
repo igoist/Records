@@ -8,14 +8,22 @@
 * 2018.03.21 -- [Web 前端中的增强现实（AR）开发技术](http://mp.weixin.qq.com/s/GgW2_na0xrRD0Ry86fvPrw)
 
 
-### Blog
+### Blog & Platform
 
+* 2018.03.29 -- [独唱者：写作社区](https://www.dutype.com/)
+* 2018.03.28 -- [WEB 骇客！写过动画展示各种路径搜索算法？的大兄弟！](http://know.webhek.com/)
+* 2018.03.26 -- [去了阿里的同龄人：jawil](https://github.com/jawil/blog/issues)
 * 2018.03.21 -- [这位老兄... 尽管确实有积累，说自己是刺头，可博客 UI 还是真的 low](http://www.zhangxinxu.com/life/2018/03/record-some-mind/)
 * 2018.03.19 -- [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
 * 2018.03.19 -- [iHost 作者（我的天，每天都在发流水账）](https://atjason.com/)
 * 2018.03.17 -- [OpenCV DNN with GPU Computing](https://xinlake.github.io/)
 * 2018.03.15 -- [D2 那次的那位：dtysky](http://dtysky.moe/category/Create)
 * 2018.03.12 -- [会当凌绝顶，一览众山小](https://jiajunhuang.com/)
+
+
+### Chrome
+
+* 2018.03.26 -- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 
 
 ### Chrome Plugin Development
@@ -30,6 +38,10 @@
 
 ### CSS
 
+* 2018.03.28 -- [How to build a nice Hamburger Button transition in ...](http://robb.is/working-on/a-hamburger-button-transition)
+* 2018.03.28 -- [WEB 骇客：原来css中的border还可以这样玩](http://www.webhek.com/post/play-with-css-border.html)
+* 2018.03.28 -- [WEB 骇客：css 碎片拼图 濒危动物](http://www.webhek.com/post/species-in-pieces.html)
+* 2018.03.28 -- [WEB 骇客：css-shake](http://www.webhek.com/post/css-shake.html)
 * 2018.03.20 -- [小tip:CSS vw让overflow:auto页面滚动条出现时不跳动](http://www.zhangxinxu.com/wordpress/2015/01/css-page-scrollbar-toggle-center-no-jumping/)
 * 2018.03.19 -- [w3c+ sass 系列：学习CSS Grid](https://www.w3cplus.com/css/learncssgrid.html)
 * 2018.03.19 -- [w3c+ sass 系列：CSS Grid布局：快速入门](https://www.w3cplus.com/css3/css-grid-layout-quick-start-guide.html)
@@ -76,6 +88,12 @@
 
 ### JS & DOM
 
+* 2018.03.28 -- [observable: a live, editable notebook](https://beta.observablehq.com/@mbostock/five-minute-introduction)
+* 2018.03.28 -- [饿了么专栏：自动化生成 H5 骨架页面 —— 我可能打算自己私下玩玩写一个](https://zhuanlan.zhihu.com/p/34702561)
+* 2018.03.28 -- [重要！动画展示各种路径搜索算法](http://www.webhek.com/post/pathfinding.html)
+* 2018.03.27 -- [前端开发工程师必须关注的几个性能指标](https://juejin.im/entry/59f6a59cf265da432e5b48e6)
+* 2018.03.27 -- [一个微信面试题引发的血案 --[译] 什么阻塞了 DOM？](https://juejin.im/post/587f4afb61ff4b00651b3c18)
+* 2018.03.27 -- [Creating Reusable Markup with The HTML Template Element](http://blog.teamtreehouse.com/creating-reusable-markup-with-the-html-template-element)
 * 2018.03.21 -- [create dom with str, <template>](https://stackoverflow.com/questions/494143/creating-a-new-dom-element-from-an-html-string-using-built-in-dom-methods-or-pro)
 * 2018.03.20 -- [How to disable scrolling temporarily?](https://stackoverflow.com/questions/4770025/how-to-disable-scrolling-temporarily)
 
@@ -87,6 +105,9 @@
 
 ### Others
 
+* 2018.03.28 -- [脑力劳动者如何正确的休息 —— 我又不用管这是不是抄来的，内容好就行](https://zhuanlan.zhihu.com/p/20900822)
+* 2018.03.27 -- [从软件工程角度看大前端技术栈](http://gitbook.cn/books/596760dc118fa209584fd395/index.html)
+* 2018.03.24 -- [和中国版不同，《浪矢解忧杂货店》突出了原著中的日本生死观](http://news.sina.com.cn/o/2018-02-09/doc-ifyrkrva6152306.shtml)
 * 2018.03.20 -- [wiki: 斯蒂芬·茨威格、Affair of the Diamond Necklace、法国大革命]()
 * 2018.03.20 -- [孔乙己的“四样写法”说的不是茴香豆的“茴”，而是来回的“回”](http://blog.sina.com.cn/s/blog_63af05000102vjfw.html?tj=1)
 * 2018.03.20 -- [国外模版 UI 售卖网站的其中一项](https://genesisui.com/demo/?template=prime&version=1.8.14&framework=bootstrap4-angular5)
@@ -109,6 +130,9 @@
 
 ### Read
 
+* 2018.03.29 -- [和恋人睡觉应该采取哪种姿势？](https://www.dutype.com/t/topic/34)
+* 2018.03.29 -- [一个老实人的世态炎凉](https://www.dutype.com/t/topic/30)
+* 2018.03.29 -- [一个程序员和他的保洁阿姨](https://www.dutype.com/t/topic/253)
 * 2018.03.11 -- [梦远书城：源氏物语 －－ 紫式部（丰子恺译）](http://www.my285.com/wgwx/cpxs/yswy/index.htm)
 * 2018.03.11 -- [乔治孙：中国永远出不了大卫·莱特曼](http://cul.qq.com/a/20150520/020765.htm)
 * 2018.03.06 -- [梦远书城：红与黑](http://www.my285.com/wgwx/zpj/std/hyh/078.htm)
@@ -120,6 +144,11 @@
 * 2018.03.12 -- [🐔的博客以及爬教务处](https://blog.scnace.me/%E4%B8%80%E6%AC%A1%E7%88%AC%E6%96%B9%E6%AD%A3%E6%95%99%E5%8A%A1%E5%A4%84%E7%9A%84%E6%88%90%E5%8A%9F%E5%AE%9E%E8%B7%B5/)
 * 2018.03.12 -- [写了一个方正教务系统的爬虫，踩了一些坑。](https://www.v2ex.com/t/437081#reply58)
 * 2018.03.12 -- [新浪微博模拟登录](https://pydata.me/2017/12/15/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%BD%95/)
+
+
+### SVG
+
+* 2018.03.28 -- [WEB 骇客：用SVG给Checkbox和Radio添加动画效果](http://www.webhek.com/post/animated-checkboxes-and-radio-buttons-with-svg.html)
 
 
 ### System
