@@ -38,6 +38,7 @@
 
 ### CSS
 
+* 2018.04.04 -- [中国第四届CSS大会](https://yuque.com/cssconf/4th)
 * 2018.03.28 -- [How to build a nice Hamburger Button transition in ...](http://robb.is/working-on/a-hamburger-button-transition)
 * 2018.03.28 -- [WEB 骇客：原来css中的border还可以这样玩](http://www.webhek.com/post/play-with-css-border.html)
 * 2018.03.28 -- [WEB 骇客：css 碎片拼图 濒危动物](http://www.webhek.com/post/species-in-pieces.html)
@@ -88,6 +89,9 @@
 
 ### JS & DOM
 
+* 2018.04.05 -- [详细解析 JavaScript 获取元素的坐标](https://www.cnblogs.com/dong-xu/p/7150715.html?utm_source=tuicool&utm_medium=referral)
+* 2018.04.04 -- [draggable](https://github.com/Shopify/draggable)
+* 2018.04.04 -- [Arrow function vs function declaration / expressions: Are they equivalent / exchangeable?](https://stackoverflow.com/questions/34361379/arrow-function-vs-function-declaration-expressions-are-they-equivalent-exch)
 * 2018.03.28 -- [observable: a live, editable notebook](https://beta.observablehq.com/@mbostock/five-minute-introduction)
 * 2018.03.28 -- [饿了么专栏：自动化生成 H5 骨架页面 —— 我可能打算自己私下玩玩写一个](https://zhuanlan.zhihu.com/p/34702561)
 * 2018.03.28 -- [重要！动画展示各种路径搜索算法](http://www.webhek.com/post/pathfinding.html)
@@ -100,11 +104,16 @@
 
 ### Linux
 
+* 2018.04.03 -- [有争议的阮一峰的定时器 2333：Systemd VS crontab](http://www.ruanyifeng.com/blog/2018/03/systemd-timer.html)
+* 2018.04.02 -- [ps aux指令詳解](https://blog.csdn.net/hanner_cheung/article/details/6081440)
 * 2018.03.08 -- [linux中强大且常用命令：find、grep](https://www.cnblogs.com/skynet/archive/2010/12/25/1916873.html)
 
 
 ### Others
 
+* 2018.04.05 -- [南方周末：地王“装睡”](http://mp.weixin.qq.com/s/_ox0LCpCB3waNyV11yukhQ)
+* 2018.04.04 -- [《乌拉尔的花楸树》与乌拉尔民间合唱团](http://blog.sina.com.cn/s/blog_ad13c77c01019tmi.html)
+* 2018.03.30 -- [90后生猛上位，bilibili得“通关密码”上市，看不懂，就出局 —— 情怀支持不了太久，都搞盈利，把用户当现金奶牛](https://baijia.baidu.com/s?id=1596230355942395728)
 * 2018.03.28 -- [脑力劳动者如何正确的休息 —— 我又不用管这是不是抄来的，内容好就行](https://zhuanlan.zhihu.com/p/20900822)
 * 2018.03.27 -- [从软件工程角度看大前端技术栈](http://gitbook.cn/books/596760dc118fa209584fd395/index.html)
 * 2018.03.24 -- [和中国版不同，《浪矢解忧杂货店》突出了原著中的日本生死观](http://news.sina.com.cn/o/2018-02-09/doc-ifyrkrva6152306.shtml)
@@ -130,6 +139,15 @@
 
 ### Read
 
+* 2018.04.03 -- [德国下水道让青岛不淹水，是真的吗？—— 回过头再来看](http://view.news.qq.com/original/legacyintouch/d653.html)
+* 2018.04.03 -- [lifesinger：善良比聪明重要 #227](https://github.com/lifesinger/blog/issues/227)
+* 2018.04.03 -- [lifesinger 就是玉伯：阿里前端的困局与突围 #141](https://github.com/lifesinger/blog/issues/141)
+* 2018.04.02 -- [全世界我只认识你](https://www.dutype.com/t/topic/419)
+* 2018.04.02 -- [五万块钱买来的备胎](https://www.dutype.com/t/topic/408)
+* 2018.04.02 -- [在三和玩游戏的人们](https://www.dutype.com/t/topic/1023)
+* 2018.04.02 -- [刘庆邦：阅读的用处](http://www.china.com.cn/chinese/RS/488636.htm)
+* 2018.04.01 -- [在梦中流浪的老姑娘](https://www.dutype.com/t/topic/1129)
+* 2018.03.30 -- [一个台湾人看上海交大](http://page.renren.com/601048197/channel-noteshow-920240697)
 * 2018.03.29 -- [和恋人睡觉应该采取哪种姿势？](https://www.dutype.com/t/topic/34)
 * 2018.03.29 -- [一个老实人的世态炎凉](https://www.dutype.com/t/topic/30)
 * 2018.03.29 -- [一个程序员和他的保洁阿姨](https://www.dutype.com/t/topic/253)
@@ -144,6 +162,12 @@
 * 2018.03.12 -- [🐔的博客以及爬教务处](https://blog.scnace.me/%E4%B8%80%E6%AC%A1%E7%88%AC%E6%96%B9%E6%AD%A3%E6%95%99%E5%8A%A1%E5%A4%84%E7%9A%84%E6%88%90%E5%8A%9F%E5%AE%9E%E8%B7%B5/)
 * 2018.03.12 -- [写了一个方正教务系统的爬虫，踩了一些坑。](https://www.v2ex.com/t/437081#reply58)
 * 2018.03.12 -- [新浪微博模拟登录](https://pydata.me/2017/12/15/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%BD%95/)
+
+
+### Sublime
+
+* 2018.04.04 -- [right delete](https://stackoverflow.com/questions/45554163/sublime-text-3-on-osx-right-delete)
+* 2018.04.03 -- [sublime-macro](https://stackoverflow.com/questions/41825142/how-to-make-sublime-text-3-to-move-the-cursor-to-the-next-line-after-ctrl-co)
 
 
 ### SVG
@@ -169,6 +193,7 @@
 
 ### Vim
 
+* 2018.03.30 -- [Vim documentation: tips](http://vimdoc.sourceforge.net/htmldoc/tips.html)
 * 2018.03.15 -- [scheme nova](https://trevordmiller.com/projects/nova)
 * 2018.03.15 -- [Can I see your terminal](https://dev.to/itsjzt/can-i-see-your-terminal--62e)
 * 2018.03.14 -- [fix: automatically quit vim if NERDTree is last and only buffer](https://github.com/scrooloose/nerdtree/issues/21)
@@ -211,3 +236,7 @@
 * 2018.03.16 -- [基于 Canvas 实现的模拟重力系统]( canvas-gravity-simulation)
 * 2018.03.16 -- [基于 Canvas 的图片打点定位工具](http://oodzchen.github.io/lab/canvas-tool/)
 * 2018.03.16 -- [draggable](https://github.com/oodzchen/draggable.js)
+
+
+### 外设
+* 2018.04.05 -- [[外设] 还在纠结Mac版键盘？试试KeyRemap4MacBook吧！](https://www.chiphell.com/thread-678136-1-1.html)
