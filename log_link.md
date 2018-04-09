@@ -10,6 +10,8 @@
 
 ### Blog & Platform
 
+* 2018.04.08 -- [陈小霖Kelly](https://www.jianshu.com/u/674f1a626944)
+* 2018.04.07 -- [王垠](http://www.yinwang.org/)
 * 2018.03.29 -- [独唱者：写作社区](https://www.dutype.com/)
 * 2018.03.28 -- [WEB 骇客！写过动画展示各种路径搜索算法？的大兄弟！](http://know.webhek.com/)
 * 2018.03.26 -- [去了阿里的同龄人：jawil](https://github.com/jawil/blog/issues)
@@ -89,6 +91,7 @@
 
 ### JS & DOM
 
+* 2018.04.08 -- [How do I create a HTTP Client Request with a cookie?](https://stackoverflow.com/questions/4579757/how-do-i-create-a-http-client-request-with-a-cookie)
 * 2018.04.05 -- [详细解析 JavaScript 获取元素的坐标](https://www.cnblogs.com/dong-xu/p/7150715.html?utm_source=tuicool&utm_medium=referral)
 * 2018.04.04 -- [draggable](https://github.com/Shopify/draggable)
 * 2018.04.04 -- [Arrow function vs function declaration / expressions: Are they equivalent / exchangeable?](https://stackoverflow.com/questions/34361379/arrow-function-vs-function-declaration-expressions-are-they-equivalent-exch)
@@ -111,6 +114,7 @@
 
 ### Others
 
+* 2018.04.08 -- [陈小霖Kelly：Vim党的Sublime Text/Atom/Visual Studio Code的抉择](https://www.jianshu.com/p/4d2a01c84d85)
 * 2018.04.05 -- [南方周末：地王“装睡”](http://mp.weixin.qq.com/s/_ox0LCpCB3waNyV11yukhQ)
 * 2018.04.04 -- [《乌拉尔的花楸树》与乌拉尔民间合唱团](http://blog.sina.com.cn/s/blog_ad13c77c01019tmi.html)
 * 2018.03.30 -- [90后生猛上位，bilibili得“通关密码”上市，看不懂，就出局 —— 情怀支持不了太久，都搞盈利，把用户当现金奶牛](https://baijia.baidu.com/s?id=1596230355942395728)
@@ -139,6 +143,11 @@
 
 ### Read
 
+* 2018.04.09 -- [大龄剩女套路深，能远离尽量远离](http://bbs.tianya.cn/post-5189-55467-1.shtml)
+* 2018.04.09 -- [到底谁是恶人？《暴裂无声》中的人性困局](http://mp.weixin.qq.com/s/kt6gWeclJkjpo0e2xyMN6Q)
+* 2018.04.08 -- [沈阳回应三高校声明：师德定性靠什么？ 高岩母亲不满北大当年处分决定：从未接到正式通知](http://mp.weixin.qq.com/s/R469mNlLMRnrnWjF57muGQ)
+* 2018.04.07 -- [现在的男生为什么不追女生？](https://www.zhihu.com/question/58896903/answer/338282018)
+* 2018.04.07 -- [从所谓三动漫为何火到评价金木式人物：你是从什么时候开始厌倦做一个老好人的？](https://www.zhihu.com/question/27480779/answer/42321920)
 * 2018.04.03 -- [德国下水道让青岛不淹水，是真的吗？—— 回过头再来看](http://view.news.qq.com/original/legacyintouch/d653.html)
 * 2018.04.03 -- [lifesinger：善良比聪明重要 #227](https://github.com/lifesinger/blog/issues/227)
 * 2018.04.03 -- [lifesinger 就是玉伯：阿里前端的困局与突围 #141](https://github.com/lifesinger/blog/issues/141)
