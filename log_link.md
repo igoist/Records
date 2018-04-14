@@ -1,7 +1,6 @@
 ## Record links 2018.03 ~ 2018.
 
 
-
 ### AR
 
 * 2018.03.21 -- [Full Tutorial](https://marmelab.com/blog/2017/06/19/augmented-reality-html5.html)
@@ -40,6 +39,9 @@
 
 ### CSS
 
+* 2018.04.12 -- [Disable scrolling while popup active](https://stackoverflow.com/questions/19701289/disable-scrolling-while-popup-active)
+* 2018.04.11 -- [icomoon](https://icomoon.io/)
+* 2018.04.11 -- [css 评分星星](https://www.bilibili.com/bangumi/media/md8812/?spm_id_from=666.10.bangumi_media.1#short)
 * 2018.04.04 -- [中国第四届CSS大会](https://yuque.com/cssconf/4th)
 * 2018.03.28 -- [How to build a nice Hamburger Button transition in ...](http://robb.is/working-on/a-hamburger-button-transition)
 * 2018.03.28 -- [WEB 骇客：原来css中的border还可以这样玩](http://www.webhek.com/post/play-with-css-border.html)
@@ -91,6 +93,7 @@
 
 ### JS & DOM
 
+* 2018.04.10 -- [Promise resolve 传递“多个参数”](https://segmentfault.com/q/1010000012800392)
 * 2018.04.08 -- [How do I create a HTTP Client Request with a cookie?](https://stackoverflow.com/questions/4579757/how-do-i-create-a-http-client-request-with-a-cookie)
 * 2018.04.05 -- [详细解析 JavaScript 获取元素的坐标](https://www.cnblogs.com/dong-xu/p/7150715.html?utm_source=tuicool&utm_medium=referral)
 * 2018.04.04 -- [draggable](https://github.com/Shopify/draggable)
@@ -114,6 +117,9 @@
 
 ### Others
 
+* 2018.04.13 -- [央视红与黑](http://tv.cntv.cn/video/C12674/7827386ddaf04e0e96af6dbca461fa8d)
+* 2018.04.13 -- [wiki: The Red and The Black](https://zh.wikipedia.org/wiki/%E7%B4%85%E8%88%87%E9%BB%91)
+* 2018.04.11 -- [房价狗：一个统计房价变动的网站，有空正好可以看看](http://www.fangjiagou.com/)
 * 2018.04.08 -- [陈小霖Kelly：Vim党的Sublime Text/Atom/Visual Studio Code的抉择](https://www.jianshu.com/p/4d2a01c84d85)
 * 2018.04.05 -- [南方周末：地王“装睡”](http://mp.weixin.qq.com/s/_ox0LCpCB3waNyV11yukhQ)
 * 2018.04.04 -- [《乌拉尔的花楸树》与乌拉尔民间合唱团](http://blog.sina.com.cn/s/blog_ad13c77c01019tmi.html)
@@ -143,6 +149,8 @@
 
 ### Read
 
+* 2018.04.11 -- [白岩松：道德经是我的生命之书](http://mp.weixin.qq.com/s/G92M4smtAdw9c3vOUCx-ZQ)
+* 2018.04.11 -- [中国语文备课参考：阿城文选](http://www.yuyingchao.com/beike/html_jingdian/huaren_22/536556.html)
 * 2018.04.09 -- [大龄剩女套路深，能远离尽量远离](http://bbs.tianya.cn/post-5189-55467-1.shtml)
 * 2018.04.09 -- [到底谁是恶人？《暴裂无声》中的人性困局](http://mp.weixin.qq.com/s/kt6gWeclJkjpo0e2xyMN6Q)
 * 2018.04.08 -- [沈阳回应三高校声明：师德定性靠什么？ 高岩母亲不满北大当年处分决定：从未接到正式通知](http://mp.weixin.qq.com/s/R469mNlLMRnrnWjF57muGQ)
@@ -200,6 +208,12 @@
 * 2018.03.13 -- [那王德福说有种看美剧的感觉，还有什么编辑器操作等 -- 优达：前端工程师](https://classroom.udacity.com/nanodegrees/nd001-cn-preview/parts/dd73b171-dd5e-40ef-91a9-82cc447e8df0/modules/25e97106-d269-4ff9-927c-15d030b70237/lessons/b77b0363-d9f8-47b9-a153-d82c33c08f58/concepts/31d9aba4-8ba3-48e3-a8e8-8c4209087447)
 
 
+### Emacs
+
+* 2018.04.10 -- [陈斌](http://blog.binchen.org/)
+* 2018.04.10 -- [从零开始——Emacs 安装配置使用教程2015 - 简书](https://www.jianshu.com/p/b4cf683c25f3)
+
+
 ### Vim
 
 * 2018.03.30 -- [Vim documentation: tips](http://vimdoc.sourceforge.net/htmldoc/tips.html)
@@ -240,12 +254,26 @@
 * 2018.03.08 -- [vim-airline & vim-airline-themes](https://github.com/vim-airline/vim-airline)
 
 
+### cVim
+
+* 2018.04.12 -- [mappings](chrome-extension://ihlenndgcmojhcghmfjfneahoeklbjjh/pages/mappings.html)
+* 2018.04.12 -- [cVim 安利](https://blog.csdn.net/hk2291976/article/details/51280816)
+
+
 ### Web 组件、模块
 
 * 2018.03.16 -- [基于 Canvas 实现的模拟重力系统]( canvas-gravity-simulation)
 * 2018.03.16 -- [基于 Canvas 的图片打点定位工具](http://oodzchen.github.io/lab/canvas-tool/)
 * 2018.03.16 -- [draggable](https://github.com/oodzchen/draggable.js)
 
+* 2018.03.16 -- [macros](https://marketplace.visualstudio.com/items?itemName=geddski.macros)
+* 2018.03.16 -- [macros](https://marketplace.visualstudio.com/items?itemName=geddski.macros#review-details)
 
-### 外设
+
+### 外设 & 工具
+
+* 2018.04.12 -- [HHKB 纯小白入坑指南](http://yannisxu.farbox.com/post/hhkb-chun-xiao-bai-ru-keng-zhi-nan?utm_source=tuicool)
+* 2018.04.12 -- [HHKB拿到手的第一步：配置](https://www.lanvsblue.top/2016/06/29/hhkb/)
+* 2018.04.11 -- [Keyboard Maestro 入门指南](https://sspai.com/post/36442)
+* 2018.04.10 -- [[外设] 极客教徒の野望，HHKB Pro2 Type-S入坑体验(顺带还有 Emacs 链接)](https://www.jianshu.com/p/70a961be5185)
 * 2018.04.05 -- [[外设] 还在纠结Mac版键盘？试试KeyRemap4MacBook吧！](https://www.chiphell.com/thread-678136-1-1.html)
