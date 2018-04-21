@@ -24,6 +24,7 @@
 
 ### Chrome
 
+* 2018.04.16 -- [如何使用 Timeline 工具](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool?hl=zh-cn)
 * 2018.03.26 -- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 
 
@@ -39,6 +40,9 @@
 
 ### CSS
 
+* 2018.04.16 -- [Parallax 视差示例网站](http://www.bbc.com/news/entertainment-arts-20026367)
+* 2018.04.16 -- [如丝般顺滑：使用 CSS3 实现 60 帧的动画](https://www.zcfy.cc/article/smooth-as-butter-achieving-60-fps-animations-with-css3-1054.html)
+* 2018.04.16 -- [高性能动画：High Performance Animations](https://www.html5rocks.com/zh/tutorials/speed/high-performance-animations/)
 * 2018.04.12 -- [Disable scrolling while popup active](https://stackoverflow.com/questions/19701289/disable-scrolling-while-popup-active)
 * 2018.04.11 -- [icomoon](https://icomoon.io/)
 * 2018.04.11 -- [css 评分星星](https://www.bilibili.com/bangumi/media/md8812/?spm_id_from=666.10.bangumi_media.1#short)
@@ -93,6 +97,7 @@
 
 ### JS & DOM
 
+* 2018.04.16 -- [MDN: MutationObserver](https://developer.mozilla.org/zh-CN/docs/Web/API/MutationObserver)
 * 2018.04.10 -- [Promise resolve 传递“多个参数”](https://segmentfault.com/q/1010000012800392)
 * 2018.04.08 -- [How do I create a HTTP Client Request with a cookie?](https://stackoverflow.com/questions/4579757/how-do-i-create-a-http-client-request-with-a-cookie)
 * 2018.04.05 -- [详细解析 JavaScript 获取元素的坐标](https://www.cnblogs.com/dong-xu/p/7150715.html?utm_source=tuicool&utm_medium=referral)
@@ -115,8 +120,21 @@
 * 2018.03.08 -- [linux中强大且常用命令：find、grep](https://www.cnblogs.com/skynet/archive/2010/12/25/1916873.html)
 
 
+### 心得体会
+
+* 2018.04.16 -- [测试插件时看到的，看得出作者也是个明白人：什么什么学生思维](https://www.zhihu.com/question/41365485/answer/362595031)
+* 2018.04.16 -- [叶小钗：小公司的一年，一起看看小公司的前端可以怎么做](http://www.cnblogs.com/yexiaochai/p/6232328.html)
+
+
 ### Others
 
+* 2018.04.20 -- [日语入门解惑](https://zhuanlan.zhihu.com/p/26929508)
+* 2018.04.20 -- [日语入门解惑](https://zhidao.baidu.com/question/85761219.html?qbl=relate_question_1&word=%C8%D5%D3%EF%20ka%20ga)
+* 2018.04.20 -- [日语入门解惑](http://tieba.baidu.com/f?kz=570346960)
+* 2018.04.20 -- [人口老龄化会毁灭中国经济吗？](https://www.zhihu.com/question/30154413)
+* 2018.04.20 -- [那些经典的表情图中，里面的脸和外面的轮廓原型都是谁？](https://www.zhihu.com/question/33188712)
+* 2018.04.18 -- [Eric Steven Raymond, Thyrsus Enterprises: 如何成为一个黑客](http://translations.readthedocs.io/en/latest/hacker_howto.html#id20)
+* 2018.04.18 -- [StoDevX/humke-4d-geometry](https://github.com/StoDevX/humke-4d-geometry)
 * 2018.04.13 -- [央视红与黑](http://tv.cntv.cn/video/C12674/7827386ddaf04e0e96af6dbca461fa8d)
 * 2018.04.13 -- [wiki: The Red and The Black](https://zh.wikipedia.org/wiki/%E7%B4%85%E8%88%87%E9%BB%91)
 * 2018.04.11 -- [房价狗：一个统计房价变动的网站，有空正好可以看看](http://www.fangjiagou.com/)
@@ -149,6 +167,12 @@
 
 ### Read
 
+* 2018.04.21 -- [二十几岁生活的地方很重要——搞得我都想学完法语去巴黎生活了](https://zhuanlan.zhihu.com/p/23981522)
+* 2018.04.19 -- [为什么人们如此热衷于做规划？](http://wufazhuce.com/question/2067)
+* 2018.04.19 -- [总是喜欢考验伴侣的人，心里都在想些什么？](http://wufazhuce.com/question/2068)
+* 2018.04.19 -- [如何保护自己远离杠精？](http://wufazhuce.com/question/2066)
+* 2018.04.19 -- [为什么一昧讨好反而不讨人喜欢？](http://wufazhuce.com/question/2071)
+* 2018.04.18 -- [【动漫杂谈】什么才是有深度的动漫作品？](https://zhuanlan.zhihu.com/p/21829397)
 * 2018.04.11 -- [白岩松：道德经是我的生命之书](http://mp.weixin.qq.com/s/G92M4smtAdw9c3vOUCx-ZQ)
 * 2018.04.11 -- [中国语文备课参考：阿城文选](http://www.yuyingchao.com/beike/html_jingdian/huaren_22/536556.html)
 * 2018.04.09 -- [大龄剩女套路深，能远离尽量远离](http://bbs.tianya.cn/post-5189-55467-1.shtml)
@@ -262,16 +286,20 @@
 
 ### Web 组件、模块
 
+* 2018.04.21 -- [randomColor](https://github.com/davidmerfield/randomColor)
+* 2018.04.21 -- [qrcode](https://github.com/davidshimjs/qrcodejs/)
+* 2018.04.21 -- [CORS](https://yq.aliyun.com/articles/69313)
+* 2018.04.21 -- [前端开发者指南 2018](https://github.com/xitu/front-end-handbook-2018)
 * 2018.03.16 -- [基于 Canvas 实现的模拟重力系统]( canvas-gravity-simulation)
 * 2018.03.16 -- [基于 Canvas 的图片打点定位工具](http://oodzchen.github.io/lab/canvas-tool/)
 * 2018.03.16 -- [draggable](https://github.com/oodzchen/draggable.js)
-
 * 2018.03.16 -- [macros](https://marketplace.visualstudio.com/items?itemName=geddski.macros)
 * 2018.03.16 -- [macros](https://marketplace.visualstudio.com/items?itemName=geddski.macros#review-details)
 
 
 ### 外设 & 工具
 
+* 2018.04.18 -- [搜书：鸠摩搜索](https://www.jiumodiary.com/)
 * 2018.04.12 -- [HHKB 纯小白入坑指南](http://yannisxu.farbox.com/post/hhkb-chun-xiao-bai-ru-keng-zhi-nan?utm_source=tuicool)
 * 2018.04.12 -- [HHKB拿到手的第一步：配置](https://www.lanvsblue.top/2016/06/29/hhkb/)
 * 2018.04.11 -- [Keyboard Maestro 入门指南](https://sspai.com/post/36442)
