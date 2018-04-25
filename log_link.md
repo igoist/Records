@@ -9,6 +9,11 @@
 
 ### Blog & Platform
 
+* 2018.04.25 -- [前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
+* 2018.04.25 -- [国内热门社区合集](https://www.diycode.cc/topics/192)
+* 2018.04.24 -- [liangklfangl](https://github.com/liangklfangl/react-article-bucket)
+* 2018.04.24 -- [yiminghe 大佬何一鸣，花名承玉](https://blog.yiminghe.me/)
+* 2018.04.23 -- [desandro](http://desandro.github.io/3dtransforms/)
 * 2018.04.08 -- [陈小霖Kelly](https://www.jianshu.com/u/674f1a626944)
 * 2018.04.07 -- [王垠](http://www.yinwang.org/)
 * 2018.03.29 -- [独唱者：写作社区](https://www.dutype.com/)
@@ -28,8 +33,10 @@
 * 2018.03.26 -- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 
 
-### Chrome Plugin Development
+### Chrome Plugin Development 插件相关整理！
 
+* 2018.04.25 -- [概述](https://crxdoc-zh.appspot.com/extensions/overview)
+* 2018.04.25 -- [打造全屏体验](https://developers.google.com/web/fundamentals/native-hardware/fullscreen/?hl=zh-cn)
 * 2018.03.21 -- [Get started](https://developer.chrome.com/extensions/getstarted)
 
 
@@ -128,6 +135,13 @@
 
 ### Others
 
+* 2018.04.24 -- [如何 DIY 电影中的超科幻镜面显示屏（实操篇）](https://zhuanlan.zhihu.com/p/24785268)
+* 2018.04.24 -- [如何 DIY 电影中的超科幻镜面显示屏](https://zhuanlan.zhihu.com/p/24730324)
+* 2018.04.24 -- [用 VR 的方式浏览源代码](https://zhuanlan.zhihu.com/p/33364009)
+* 2018.04.24 -- [NVIDIA | 一种重建照片的 AI 图像技术](https://zhuanlan.zhihu.com/p/36059198)
+* 2018.04.24 -- [c311-get-started](https://github.com/keyanzhang/c311-get-started/blob/master/init.el)
+* 2018.04.24 -- [colorful-qrcode](https://github.com/L3au/colorful-qrcode)
+* 2018.04.23 -- [重装系统之后 #3](https://github.com/jsw0528/MrZhang.me/issues/3)
 * 2018.04.20 -- [日语入门解惑](https://zhuanlan.zhihu.com/p/26929508)
 * 2018.04.20 -- [日语入门解惑](https://zhidao.baidu.com/question/85761219.html?qbl=relate_question_1&word=%C8%D5%D3%EF%20ka%20ga)
 * 2018.04.20 -- [日语入门解惑](http://tieba.baidu.com/f?kz=570346960)
@@ -167,6 +181,11 @@
 
 ### Read
 
+* 2018.04.25 -- [张佳玮：为什么金庸的小说读起来那么流畅顺滑？怎么做到的？](https://www.zhihu.com/question/274580830/answer/375908467)
+* 2018.04.25 -- [蔡骏：王小波是一个怎样的作家？](https://www.zhihu.com/question/19892622/answer/368042367)
+* 2018.04.24 -- [[译] JS 简史](https://juejin.im/post/59c38d86f265da065d2b7402)
+* 2018.04.24 -- [如何看待live2D这项技术？](https://www.zhihu.com/question/28130936)
+* 2018.04.24 -- [bisheng 源码分析](https://github.com/liangklfangl/bisheng-sourceCode-plugin)
 * 2018.04.21 -- [二十几岁生活的地方很重要——搞得我都想学完法语去巴黎生活了](https://zhuanlan.zhihu.com/p/23981522)
 * 2018.04.19 -- [为什么人们如此热衷于做规划？](http://wufazhuce.com/question/2067)
 * 2018.04.19 -- [总是喜欢考验伴侣的人，心里都在想些什么？](http://wufazhuce.com/question/2068)
