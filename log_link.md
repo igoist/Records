@@ -9,6 +9,7 @@
 
 ### Blog & Platform
 
+* 2018.04.28 -- [芦紫 LU Zi 华夏文集](http://archives.cnd.org/HXWK/author/LU-Zi/)
 * 2018.04.25 -- [前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
 * 2018.04.25 -- [国内热门社区合集](https://www.diycode.cc/topics/192)
 * 2018.04.24 -- [liangklfangl](https://github.com/liangklfangl/react-article-bucket)
@@ -135,6 +136,12 @@
 
 ### Others
 
+* 2018.04.28 -- [世界最高龄健美者，103岁仍能秀肌肉，身高仅1米5](http://www.sohu.com/a/219479685_255783)
+* 2018.04.28 -- [编程应该纳入高考吗？](https://www.zhihu.com/question/50360847/answer/377796616)
+* 2018.04.28 -- [用 Docker 快速配置前端开发环境](http://numbbbbb.com/2016/09/26/20160926_%E7%94%A8%20Docker%20%E5%BF%AB%E9%80%9F%E9%85%8D%E7%BD%AE%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/)
+* 2018.04.26 -- [带你体验韩国监狱生活](https://mp.weixin.qq.com/s?__biz=MzIzNDAxNjkxOA%3D%3D&mid=2650587651&idx=1&sn=2f71e7feeee1bab37e799a88b44a37e2#wechat_redirect)
+* 2018.04.26 -- [《山楂树》、《在边境线上》、《斯维尔德洛夫斯克之歌》、《白雪》](http://ekaterinburg.chineseconsulate.org/chn/zlgxx/t1536723.htm)
+* 2018.04.25 -- [众生相](https://www.zhihu.com/question/50502415)
 * 2018.04.24 -- [如何 DIY 电影中的超科幻镜面显示屏（实操篇）](https://zhuanlan.zhihu.com/p/24785268)
 * 2018.04.24 -- [如何 DIY 电影中的超科幻镜面显示屏](https://zhuanlan.zhihu.com/p/24730324)
 * 2018.04.24 -- [用 VR 的方式浏览源代码](https://zhuanlan.zhihu.com/p/33364009)
@@ -171,6 +178,7 @@
 * 2018.03.12 -- [Sublime 转 Vim 模式](http://www.cnblogs.com/zuike/p/4402022.html)
 * 2018.03.08 -- [我是一直觉得，最近越来越多的观念被普及，然而事实规律呢，按理说又不会大变](http://www.sohu.com/a/222269490_165453)
 * 2018.03.08 -- [666 神童集中营：少年班](https://zh.wikipedia.org/wiki/%E5%B0%91%E5%B9%B4%E7%8F%AD)
+* 2018.04.27 -- [DARLING in the FRANXX 1080P](https://yun.baidu.com/s/1Rc3ppmWzpcodVWcx3ReRfw#list/path=%2F)
 * 2018.03.08 -- [DARLING in the FRANXX](https://anime1.me/4088)
 
 
@@ -181,6 +189,12 @@
 
 ### Read
 
+* 2018.04.28 -- [延着身高、王小波这条线，像圆桌派里提的那样，看了一下午历史](https://zhidao.baidu.com/question/1450113498809866660.html)
+* 2018.04.28 -- [芦　紫：身高与寿命](http://archives.cnd.org/HXWK/author/LU-Zi/kd100511-4.gb.html)
+* 2018.04.28 -- [中国政法大学法学院副院长何兵关于萧翰辞职的声明](https://mp.weixin.qq.com/s/Ck0gq2o2vNw6HRD6pAWkpg)
+* 2018.04.27 -- [周国平：有些作文题孩子们写不了，只能编](https://mp.weixin.qq.com/s/IeL57Kfvz1Xb6sg0E7v5rg)
+* 2018.04.26 -- [为什么我们要阅读源码？](https://zhuanlan.zhihu.com/p/26181360)
+* 2018.04.26 -- [如何看待王小波的《黄金时代》这本书？](https://www.zhihu.com/question/31550937/answer/62745908)
 * 2018.04.25 -- [张佳玮：为什么金庸的小说读起来那么流畅顺滑？怎么做到的？](https://www.zhihu.com/question/274580830/answer/375908467)
 * 2018.04.25 -- [蔡骏：王小波是一个怎样的作家？](https://www.zhihu.com/question/19892622/answer/368042367)
 * 2018.04.24 -- [[译] JS 简史](https://juejin.im/post/59c38d86f265da065d2b7402)
@@ -303,8 +317,12 @@
 * 2018.04.12 -- [cVim 安利](https://blog.csdn.net/hk2291976/article/details/51280816)
 
 
-### Web 组件、模块
+### Web、组件、模块
 
+* 2018.04.27 -- [strml](http://strml.net/)
+* 2018.04.27 -- [strml](https://github.com/STRML/strml.net)
+* 2018.04.27 -- [翠翠：自定义 TSLint 规则实践](https://webfe.kujiale.com/tslint-bp/)
+* 2018.04.26 -- [<script> 的 defer 和 async](https://www.jianshu.com/p/6b906a8e9151)
 * 2018.04.21 -- [randomColor](https://github.com/davidmerfield/randomColor)
 * 2018.04.21 -- [qrcode](https://github.com/davidshimjs/qrcodejs/)
 * 2018.04.21 -- [CORS](https://yq.aliyun.com/articles/69313)
