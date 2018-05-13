@@ -3,9 +3,33 @@
 
 ### Blog
 
+* 2018.05.10 -- [知道创宇研发技能表 v3.0](http://blog.knownsec.com/Knownsec_RD_Checklist/v3.0.html)
+* 2018.05.09 -- [东哥的 github id](https://github.com/kalxd)
 * 2018.05.04 -- [做一个有思想的码农](https://www.zhihu.com/people/liu-he-he-44/activities)
 * 2018.05.02 -- [大深海：chenshenhai](https://chenshenhai.github.io/)
 * 2018.05.02 -- [liyaoli](http://www.liyaoli.com/)
+
+
+### Chrome
+
+* 2018.05.11 -- [See Triggering built-in events](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events)
+* 2018.05.11 -- [JavaScript 模拟键盘事件和鼠标事件](https://blog.csdn.net/lovelyelfpop/article/details/52471878)
+
+
+### Chrome Plugin
+
+* 2018.05.11 -- [chrome.tabs](https://developer.chrome.com/extensions/tabs)
+* 2018.05.11 -- [Sample Extensions](https://developer.chrome.com/extensions/samples#search:contextmenus)
+* 2018.05.10 -- [Getting Started Tutorial](https://developer.chrome.com/extensions/getstarted)
+* 2018.05.10 -- [覆生的回答：如何头从开始写插件](https://www.zhihu.com/question/20179805)
+
+
+### CSS
+
+* 2018.05.09 -- [overflow:hidden 影响inline-block元素周围元素下移](http://www.cnblogs.com/AliceX-J/p/5731755.html)
+* 2018.05.09 -- [css中的baseline](https://blog.csdn.net/zp1996323/article/details/51457836)
+* 2018.05.09 -- [inline-block元素设置overflow:hidden属性导致相邻行内元素向下偏移](https://blog.csdn.net/iefreer/article/details/50421025)
+* 2018.05.09 -- [CSS清浮动处理（Clear与BFC）](https://www.cnblogs.com/dolphinX/p/3508869.html)
 
 
 ### JS
@@ -21,6 +45,7 @@
 
 ### JS Lib
 
+* 2018.05.02 -- [sequelize-docs-Zh-CN](https://demopark.github.io/sequelize-docs-Zh-CN/)
 * 2018.05.04 -- [使用joi来验证数据模型](http://imweb.io/topic/572561798a0819f17b7d9d3e)
 
 
@@ -31,15 +56,37 @@
 
 ### Other
 
+* 2018.05.11 -- [什么背景颜色 + 字体颜色 + 字体 + 字号组合最适合屏幕阅读？—— 我的回答](https://www.zhihu.com/question/19814227)
+* 2018.05.11 -- [现在的100万元，10年后值多少钱](https://wallstreetcn.com/articles/3060416)
+* 2018.05.10 -- [服装尺码换算对照表大全[XS S M L XL XXL]](http://blog.sina.com.cn/s/blog_4b9eab320100sylb.html)
+* 2018.05.08 -- [张公子讲射雕英雄传](https://www.zhihu.com/lives/753624515099000832)
+* 2018.05.07 -- [我爱我家全集](https://www.youtube.com/watch?v=pyrnN1qFzFE&list=PLinivvyLwn6Y0gGgNtOQ-hLJn-T6LGsDZ)
 * 2018.05.03 -- [regexer](https://regexr.com/)
 * 2018.05.03 -- [awk & sed ，一个老派系统管理员的基本素养](https://linux.cn/article-6881-1.html)
 * 2018.05.03 -- [online tone generator](http://www.szynalski.com/tone-generator/)
+* 2018.05.09 -- [喰种 RE 资源定期更新](http://52movieba.com/forum/thread-1864.htm)
 * 2018.05.03 -- [喰种 RE 在线观看](http://www.pipigui.cc/rbdm/dongjingshishiguidisanji2018/)
 
 
 ### Read
 
+* 2018.05.11 -- [“印度世纪”预言下年轻人的愿望与焦虑](http://www.ifengweekly.com/detil.php?id=5761)
+* 2018.05.11 -- [人民日报评论员随笔：多一些“历史耐心” —— 文章本身没讲错](http://opinion.people.com.cn/n1/2018/0510/c1003-29975627.html)
+* 2018.05.10 -- [15岁的淘宝，中年危机](http://news.newseed.cn/p/1347177)
+* 2018.05.10 -- [[为什么要戒掉网络游戏]写出来，是为了帮助我自己，如果也能帮到其他人，算是功德一件](http://bbs.ngacn.cc/read.php?tid=4009093&rand=675)
+* 2018.05.10 -- [吸烟者的自画像](http://news.qq.com/cross/20161108/D4H19jO1.html)
+* 2018.05.10 -- [救救孩子们——怎样戒掉游戏瘾？－－ 也算是看看不同代的人如何看待这事](http://bbs.tianya.cn/post-develop-2249447-1.shtml#30794746)
+* 2018.05.10 -- [年轻人必读的书，或对未来特别有好处的书？](https://www.zhihu.com/question/275351176/answer/386906145)
+* 2018.05.10 -- [内部人深扒阿里新董事井贤栋，低调到尘埃里的男人](http://www.iceo.com.cn/renwu2013/2016/0825/301836.shtml)
+* 2018.05.08 -- [一美元的爱情](http://www.360doc.com/showadvice.aspx?id=305724)
+* 2018.05.08 -- [如何评价电影《让子弹飞》？—— 姬轩亦的回答](https://www.zhihu.com/question/19552578)
 * 2018.05.05 -- [评论也很有意思，看吧，没什么好得瑟的，别人也跟你想得一样：电影《黑豹》：黑人掌握外星科技，还是只能生活如原始部落？](https://zhuanlan.zhihu.com/p/34399838)
+
+
+### SQL
+
+* 2018.05.00 -- [菜鸟 SQL 教程](http://www.runoob.com/sql/sql-delete.html)
+* 2018.05.07 -- [mysql中如何复制一行数据](http://blog.sina.com.cn/s/blog_4586764e0100de58.html)
 
 
 ### Thinking 思考，业务、工作、技术方面的
@@ -50,3 +97,8 @@
 ### Web
 
 * 2018.05.03 -- [HTML5 播放器](https://webfe.kujiale.com/web-video-player/)
+
+
+### 外设
+
+* 2018.05.07 -- [tmp_keyboard](https://github.com/tmk/tmk_keyboard)
