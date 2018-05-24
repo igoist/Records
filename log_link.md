@@ -75,6 +75,11 @@
 * 2018.05.02 -- [sequelize-docs-Zh-CN](https://demopark.github.io/sequelize-docs-Zh-CN/)
 * 2018.05.04 -- [使用joi来验证数据模型](http://imweb.io/topic/572561798a0819f17b7d9d3e)
 
+### Web
+
+* 2018.05.22 -- [讨论：前后端渲染之争](https://github.com/dt-fe/weekly/issues/5)
+* 2018.05.03 -- [HTML5 播放器](https://webfe.kujiale.com/web-video-player/)
+
 
 ### Linus/Unix Shell
 
@@ -134,11 +139,6 @@
 ### Thinking 思考，业务、工作、技术方面的
 
 * 2018.05.03 -- [如何实现一个楼中楼的评论系统](http://www.cnblogs.com/xumengxuan/p/7461449.html)
-
-
-### Web
-
-* 2018.05.03 -- [HTML5 播放器](https://webfe.kujiale.com/web-video-player/)
 
 
 ### 外设
