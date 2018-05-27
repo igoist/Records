@@ -3,6 +3,7 @@
 
 ### Blog
 
+* 2018.05.25 -- [Jerry Qu](https://imququ.com/)
 * 2018.05.19 -- [magefox](http://note.codermagefox.com/blog/magefox)
 * 2018.05.18 -- [Jin](https://www.404forest.com/)
 * 2018.05.17 -- [Mohanson](http://accu.cc/content/pil/channel/#_3)
@@ -27,6 +28,7 @@
 
 ### Chrome
 
+* 2018.05.25 -- [Chrome中因存在fixed元素产生的滚动条BUG](https://www.web-tinker.com/article/20456.html)
 * 2018.05.11 -- [See Triggering built-in events](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events)
 * 2018.05.11 -- [JavaScript 模拟键盘事件和鼠标事件](https://blog.csdn.net/lovelyelfpop/article/details/52471878)
 
@@ -111,6 +113,9 @@
 
 ### Read
 
+* 2018.05.27 -- [结婚这件事](https://www.dutype.com/t/topic/481)
+* 2018.05.25 -- [被所有人尊重的小三](https://www.dutype.com/t/topic/1131)
+* 2018.05.25 -- [收到初恋男友的死讯](https://www.dutype.com/t/topic/1172)
 * 2018.05.15 -- [《乡土中国》在线阅读](https://yuedu.163.com/book_reader/da58e126d87c4817b4c2b0fe4d454c37_4)
 * 2018.05.15 -- [十年前高考考零分，他说并不后悔](https://mp.weixin.qq.com/s/6Bbf8-Thq2VDKm22WrXoFQ)
 * 2018.05.15 -- [花300万长租十年，万科的新项目谁会购买？](https://mp.weixin.qq.com/s/7Lbb5pYHqxmdHPnVJqKsUg)
