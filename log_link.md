@@ -3,6 +3,8 @@
 
 ### Blog
 
+* 2018.05.28 -- [React 滚动的那个](http://www.corol.me/)
+* 2018.05.28 -- [胡子大哈的 React 小书](http://huziketang.mangojuice.top/books/react/lesson20)
 * 2018.05.25 -- [Jerry Qu](https://imququ.com/)
 * 2018.05.19 -- [magefox](http://note.codermagefox.com/blog/magefox)
 * 2018.05.18 -- [Jin](https://www.404forest.com/)
@@ -35,6 +37,10 @@
 
 ### Chrome Plugin
 
+* 2018.05.31 -- [Developer Mozilla](https://developer.mozilla.org/zh-CN/Add-ons/WebExtensions/Your_first_WebExtension)
+* 2018.05.31 -- [Developer Chrome](https://developer.chrome.com/extensions/overview#pageComm)
+* 2018.05.31 -- [Chrome](https://developer.chrome.com/extensions/overview#pageComm)
+* 2018.05.31 -- [iBookmark 参考用](https://github.com/0326/iBookmark)
 * 2018.05.11 -- [chrome.tabs](https://developer.chrome.com/extensions/tabs)
 * 2018.05.11 -- [Sample Extensions](https://developer.chrome.com/extensions/samples#search:contextmenus)
 * 2018.05.10 -- [Getting Started Tutorial](https://developer.chrome.com/extensions/getstarted)
@@ -52,6 +58,7 @@
 
 ### JS
 
+* 2018.05.31 -- [JS 转 TS](https://www.tslang.cn/samples/index.html)
 * 2018.05.02 -- [unhandled promise rejection](http://www.liyaoli.com/2017-06-26/unhandled-promise-rejection.html)
 * 2018.05.02 -- [async await catch rejection](https://stackoverflow.com/questions/35090896/async-await-catch-rejected-promises)
 
@@ -59,6 +66,7 @@
 ### React
 
 
+* 2018.05.28 -- [React 之无限滚动](https://zhuanlan.zhihu.com/p/32075662)
 * 2018.05.16 -- [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
 * 2018.05.16 -- [Handling Events](https://reactjs.org/docs/handling-events.html)
 * 2018.05.16 -- [dangerouslySetInnerHTML](https://reactjs.org/docs/dom-elements.html#dangerouslysetinnerhtml)
@@ -72,19 +80,27 @@
 
 ### JS Lib
 
+* 2018.05.31 -- [rc-tools](https://github.com/react-component/rc-tools)
 * 2018.05.17 -- [React Notification System](http://igorprado.com/react-notification-system/)
 * 2018.05.14 -- [three.ar.js](https://github.com/google-ar/three.ar.js)
 * 2018.05.02 -- [sequelize-docs-Zh-CN](https://demopark.github.io/sequelize-docs-Zh-CN/)
 * 2018.05.04 -- [使用joi来验证数据模型](http://imweb.io/topic/572561798a0819f17b7d9d3e)
 
+
 ### Web
 
+* 2018.05.31 -- [伯玉：Web 研发模式演变](https://github.com/lifesinger/blog/issues/184)
+* 2018.05.31 -- [淘宝 FED：机器学习，Hello World from Javascript!](http://taobaofed.org/blog/2017/12/07/machine-learning/)
+* 2018.05.31 -- [通天塔之石——企业级前端组件库方案](http://www.cnblogs.com/sskyy/p/7002404.html)
+* 2018.05.31 -- [前端服务化——页面搭建工具的死与生](http://www.cnblogs.com/sskyy/p/6496287.html)
+* 2018.05.30 -- [基于 HTML5 的 WebGL 3D 版俄罗斯方块 - CarrieYung的文章 - 知乎](https://zhuanlan.zhihu.com/p/37367014)
 * 2018.05.22 -- [讨论：前后端渲染之争](https://github.com/dt-fe/weekly/issues/5)
 * 2018.05.03 -- [HTML5 播放器](https://webfe.kujiale.com/web-video-player/)
 
 
 ### Linus/Unix Shell
 
+* 2018.05.31 -- [每天一个linux命令（30）: chown命令](http://www.cnblogs.com/peida/archive/2012/12/04/2800684.html)
 * 2018.05.04 -- [grep查找字符串所在文件和行号，find查找文件所在目录即路径](https://blog.csdn.net/devwang_com/article/details/52587884)
 
 
@@ -96,6 +112,10 @@
 
 ### Other
 
+* 2018.05.31 -- [OLED 和 LCD 什么区别？ - 知乎](https://www.zhihu.com/question/22263252/answer/119854016)
+* 2018.05.30 -- [90后的你们现在是什么状态？ - 上弦风](https://www.zhihu.com/question/270836742/answer/365361424)
+* 2018.05.30 -- [历史上的名人们在27岁的时候都在干什么？ - 上弦风](https://www.zhihu.com/question/278100836/answer/404293937)
+* 2018.05.28 -- [杂志在线阅读：视野](http://mall.cnki.net/magazine/magalist/SYTY.htm)
 * 2018.05.19 -- [纽约时报都急了：特朗普，你到底是不是中国的卧底？](http://bbs.tiexue.net/post2_12611924_1.html)
 * 2018.05.18 -- [为什么魔道祖师这么火？这本耽美小说好看在哪？](https://www.zhihu.com/question/41742800)
 * 2018.05.11 -- [什么背景颜色 + 字体颜色 + 字体 + 字号组合最适合屏幕阅读？—— 我的回答](https://www.zhihu.com/question/19814227)
@@ -113,6 +133,13 @@
 
 ### Read
 
+* 2018.05.30 -- [史玉柱是一个怎样的人？ - 飞鸟冰河的回答 - 知乎](https://www.zhihu.com/question/19579323/answer/16654358)
+* 2018.05.30 -- [纹身女孩的短暂情人](https://www.dutype.com/t/topic/416)
+* 2018.05.30 -- [黄益平：吹泡沫的宽松货币政策像吸鸦片](http://view.news.qq.com/a/20101018/000037.htm)
+* 2018.05.30 -- [马光远：历史性巨变前夜的中国房地产](http://opinion.jrj.com.cn/2017/12/29083523869344.shtml)
+* 2018.05.29 -- [中国房价涨跌的源头竟是美国 看完顿悟](http://finance.jrj.com.cn/2017/11/23101123683630.shtml)
+* 2018.05.29 -- [知乎：中国房价涨成这样，为何没有任何经济危机的征兆](https://www.letscorp.net/archives/117669)
+* 2018.05.29 -- [先富真的能带动后富吗？](http://finance.sina.com.cn/zl/china/20151221/073724049750.shtml)
 * 2018.05.27 -- [结婚这件事](https://www.dutype.com/t/topic/481)
 * 2018.05.25 -- [被所有人尊重的小三](https://www.dutype.com/t/topic/1131)
 * 2018.05.25 -- [收到初恋男友的死讯](https://www.dutype.com/t/topic/1172)
