@@ -30,6 +30,7 @@
 
 ### Chrome
 
+* 2018.06.01 -- [new in 66](https://developers.google.com/web/updates/2018/02/devtools)
 * 2018.05.25 -- [Chrome中因存在fixed元素产生的滚动条BUG](https://www.web-tinker.com/article/20456.html)
 * 2018.05.11 -- [See Triggering built-in events](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events)
 * 2018.05.11 -- [JavaScript 模拟键盘事件和鼠标事件](https://blog.csdn.net/lovelyelfpop/article/details/52471878)
@@ -127,6 +128,7 @@
 * 2018.05.03 -- [awk & sed ，一个老派系统管理员的基本素养](https://linux.cn/article-6881-1.html)
 * 2018.05.03 -- [online tone generator](http://www.szynalski.com/tone-generator/)
 * 2018.05.14 -- [The Crown Season 1 & 2](http://www.dysfz.cc/movie14573.html)
+* 2018.06.01 -- [Darling in the franxx 在线观看](http://www.edddh.com/vod-detail-id-2621.html)
 * 2018.05.09 -- [喰种 RE 资源定期更新](http://52movieba.com/forum/thread-1864.htm)
 * 2018.05.03 -- [喰种 RE 在线观看](http://www.pipigui.cc/rbdm/dongjingshishiguidisanji2018/)
 
