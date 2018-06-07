@@ -135,6 +135,8 @@
 
 ### Read
 
+* 2018.06.07 -- [为什么底层出身的很多年轻人不能端正自己，珍惜自己比父辈进步的东西，反而心比天高，至少充满怨气？ - 观明](https://www.zhihu.com/question/268221577/answer/360561283)
+* 2018.06.06 -- [打得一手好广告/手动滑稽](https://mp.weixin.qq.com/s/kvf9ewo0BMgWzYe-v2Rp8Q)
 * 2018.05.30 -- [史玉柱是一个怎样的人？ - 飞鸟冰河的回答 - 知乎](https://www.zhihu.com/question/19579323/answer/16654358)
 * 2018.05.30 -- [纹身女孩的短暂情人](https://www.dutype.com/t/topic/416)
 * 2018.05.30 -- [黄益平：吹泡沫的宽松货币政策像吸鸦片](http://view.news.qq.com/a/20101018/000037.htm)
