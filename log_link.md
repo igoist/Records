@@ -59,6 +59,7 @@
 
 ### JS
 
+* 2018.06.08 -- [胡子大哈：会进化的字符串](https://github.com/huzidaha/home)
 * 2018.05.31 -- [JS 转 TS](https://www.tslang.cn/samples/index.html)
 * 2018.05.02 -- [unhandled promise rejection](http://www.liyaoli.com/2017-06-26/unhandled-promise-rejection.html)
 * 2018.05.02 -- [async await catch rejection](https://stackoverflow.com/questions/35090896/async-await-catch-rejected-promises)
