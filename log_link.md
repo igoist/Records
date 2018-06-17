@@ -3,6 +3,8 @@
 
 ### Blog
 
+* 2018.06.12 -- [奇舞团博客](https://75team.com/)
+* 2018.06.12 -- [十年踪迹](https://www.h5jun.com/)
 * 2018.05.28 -- [React 滚动的那个](http://www.corol.me/)
 * 2018.05.28 -- [胡子大哈的 React 小书](http://huziketang.mangojuice.top/books/react/lesson20)
 * 2018.05.25 -- [Jerry Qu](https://imququ.com/)
@@ -59,6 +61,8 @@
 
 ### JS
 
+* 2018.06.11 -- [WebGL 桌球](http://www.heyzxz.me/pcol/)
+* 2018.06.10 -- [ConsoleCanvas](https://github.com/youngdro/ConsoleCanvas)
 * 2018.06.08 -- [胡子大哈：会进化的字符串](https://github.com/huzidaha/home)
 * 2018.05.31 -- [JS 转 TS](https://www.tslang.cn/samples/index.html)
 * 2018.05.02 -- [unhandled promise rejection](http://www.liyaoli.com/2017-06-26/unhandled-promise-rejection.html)
@@ -114,6 +118,13 @@
 
 ### Other
 
+* 2018.06.15 -- [美国盛产“克莱登大学”吗?](http://www.infzm.com/content/47883)
+* 2018.06.15 -- [美国“克莱登”大学入侵中国](http://www.xys.org/xys/netters/Fang-Zhouzi/science/clayton.txt)
+* 2018.06.14 -- [房子其实有的是](https://www.douban.com/group/search?start=50&cat=1013&group=340633&sort=relevance&q=%E6%96%87%E6%96%B0)
+* 2018.06.14 -- [文新这边星洲，格局看来差不多](https://www.douban.com/group/topic/117476682/)
+* 2018.06.14 -- [loft 反面教材](https://www.douban.com/group/topic/109295807/)
+* 2018.06.14 -- [租房内部条件当如是之 loft](https://www.douban.com/group/topic/118521629/)
+* 2018.06.14 -- [租房内部条件当如是](https://www.douban.com/group/topic/118576761/)
 * 2018.05.31 -- [OLED 和 LCD 什么区别？ - 知乎](https://www.zhihu.com/question/22263252/answer/119854016)
 * 2018.05.30 -- [90后的你们现在是什么状态？ - 上弦风](https://www.zhihu.com/question/270836742/answer/365361424)
 * 2018.05.30 -- [历史上的名人们在27岁的时候都在干什么？ - 上弦风](https://www.zhihu.com/question/278100836/answer/404293937)
@@ -136,6 +147,8 @@
 
 ### Read
 
+* 2018.06.15 -- [南方周末：为什么你不爱背课文？](https://mp.weixin.qq.com/s/Oa-uMsF1FqGj5dp18Fsarw)
+* 2018.06.12 -- [工作六年的前端开发在想什么](https://juejin.im/entry/5955b5c06fb9a06ba82d07eb)
 * 2018.06.07 -- [为什么底层出身的很多年轻人不能端正自己，珍惜自己比父辈进步的东西，反而心比天高，至少充满怨气？ - 观明](https://www.zhihu.com/question/268221577/answer/360561283)
 * 2018.06.06 -- [打得一手好广告/手动滑稽](https://mp.weixin.qq.com/s/kvf9ewo0BMgWzYe-v2Rp8Q)
 * 2018.05.30 -- [史玉柱是一个怎样的人？ - 飞鸟冰河的回答 - 知乎](https://www.zhihu.com/question/19579323/answer/16654358)
