@@ -3,6 +3,7 @@
 
 ### Blog
 
+* 2018.06.12 -- [承玉老哥早年博客](http://yiminghe.iteye.com/blog)
 * 2018.06.12 -- [奇舞团博客](https://75team.com/)
 * 2018.06.12 -- [十年踪迹](https://www.h5jun.com/)
 * 2018.05.28 -- [React 滚动的那个](http://www.corol.me/)
@@ -72,6 +73,7 @@
 ### React
 
 
+* 2018.06.22 -- [基于webpack实现react组件的按需加载](https://zhuanlan.zhihu.com/p/26555032)
 * 2018.05.28 -- [React 之无限滚动](https://zhuanlan.zhihu.com/p/32075662)
 * 2018.05.16 -- [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
 * 2018.05.16 -- [Handling Events](https://reactjs.org/docs/handling-events.html)
@@ -118,6 +120,9 @@
 
 ### Other
 
+* 2018.06.21 -- [冰冻世界1](https://www.youtube.com/watch?v=z7do8-WoPwg)
+* 2018.06.21 -- [吴亮：虎鲸的智商到底有多高？他们有什么样的性情？该如何评价人类驯化虎鲸的现象？](https://www.zhihu.com/question/28819186/answer/42404952)
+* 2018.06.19 -- [如何打造公司级公共前端团队](https://github.com/DDFE/DDFE-blog/issues/2)
 * 2018.06.15 -- [美国盛产“克莱登大学”吗?](http://www.infzm.com/content/47883)
 * 2018.06.15 -- [美国“克莱登”大学入侵中国](http://www.xys.org/xys/netters/Fang-Zhouzi/science/clayton.txt)
 * 2018.06.14 -- [房子其实有的是](https://www.douban.com/group/search?start=50&cat=1013&group=340633&sort=relevance&q=%E6%96%87%E6%96%B0)
@@ -140,6 +145,7 @@
 * 2018.05.03 -- [awk & sed ，一个老派系统管理员的基本素养](https://linux.cn/article-6881-1.html)
 * 2018.05.03 -- [online tone generator](http://www.szynalski.com/tone-generator/)
 * 2018.05.14 -- [The Crown Season 1 & 2](http://www.dysfz.cc/movie14573.html)
+* 2018.06.19 -- [Darling in the franxx 资源定期更新](http://share10086.com/ac/8414.html)
 * 2018.06.01 -- [Darling in the franxx 在线观看](http://www.edddh.com/vod-detail-id-2621.html)
 * 2018.05.09 -- [喰种 RE 资源定期更新](http://52movieba.com/forum/thread-1864.htm)
 * 2018.05.03 -- [喰种 RE 在线观看](http://www.pipigui.cc/rbdm/dongjingshishiguidisanji2018/)
@@ -147,6 +153,9 @@
 
 ### Read
 
+* 2018.06.22 -- [谁抬高了那些小县城的房价？](https://36kr.com/p/5139919.html)
+* 2018.06.21 -- [话痨、高智商、最强杀手、深海霸主，这些词都不足以形容虎鲸](http://blog.sciencenet.cn/blog-2966991-1081279.html)
+* 2018.06.21 -- [颜晓川：家里在一二线城市有很多套房是怎么的一种体验？](https://www.zhihu.com/question/32315601/answer/419896928)
 * 2018.06.15 -- [南方周末：为什么你不爱背课文？](https://mp.weixin.qq.com/s/Oa-uMsF1FqGj5dp18Fsarw)
 * 2018.06.12 -- [工作六年的前端开发在想什么](https://juejin.im/entry/5955b5c06fb9a06ba82d07eb)
 * 2018.06.07 -- [为什么底层出身的很多年轻人不能端正自己，珍惜自己比父辈进步的东西，反而心比天高，至少充满怨气？ - 观明](https://www.zhihu.com/question/268221577/answer/360561283)
