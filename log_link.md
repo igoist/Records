@@ -3,6 +3,8 @@
 
 ### Blog
 
+* 2018.06.30 -- [卡瓦邦噶！](https://www.kawabangga.com/)
+* 2018.06.28 -- [atian25/blog](https://github.com/atian25/blog/issues)
 * 2018.06.12 -- [承玉老哥早年博客](http://yiminghe.iteye.com/blog)
 * 2018.06.12 -- [奇舞团博客](https://75team.com/)
 * 2018.06.12 -- [十年踪迹](https://www.h5jun.com/)
@@ -41,6 +43,8 @@
 
 ### Chrome Plugin
 
+* 2018.06.27 -- [widgets](https://huaban.com/js/widgets.min.js)
+* 2018.06.27 -- [captureVisibleTab](captureVisibleTab)
 * 2018.05.31 -- [Developer Mozilla](https://developer.mozilla.org/zh-CN/Add-ons/WebExtensions/Your_first_WebExtension)
 * 2018.05.31 -- [Developer Chrome](https://developer.chrome.com/extensions/overview#pageComm)
 * 2018.05.31 -- [Chrome](https://developer.chrome.com/extensions/overview#pageComm)
@@ -62,6 +66,8 @@
 
 ### JS
 
+* 2018.06.28 -- [getBoundingClientRect 小tips: 滚动容器尺寸变化子元素视觉上位置不变JS实现](https://www.zhangxinxu.com/wordpress/2018/02/container-scroll-position-hold/)
+* 2018.06.26 -- [劳里林：一款围棋软件，程序如何判断是否吃子？](https://www.zhihu.com/question/48280969/answer/110249542 + https://github.com/lll9p/JSweiqi)
 * 2018.06.11 -- [WebGL 桌球](http://www.heyzxz.me/pcol/)
 * 2018.06.10 -- [ConsoleCanvas](https://github.com/youngdro/ConsoleCanvas)
 * 2018.06.08 -- [胡子大哈：会进化的字符串](https://github.com/huzidaha/home)
@@ -73,6 +79,8 @@
 ### React
 
 
+* 2018.06.28 -- [知乎某专栏：react-typescript](https://zhuanlan.zhihu.com/react-typescript)
+* 2018.06.27 -- [下季度内容：awesome-react](https://github.com/enaqx/awesome-react)
 * 2018.06.22 -- [基于webpack实现react组件的按需加载](https://zhuanlan.zhihu.com/p/26555032)
 * 2018.05.28 -- [React 之无限滚动](https://zhuanlan.zhihu.com/p/32075662)
 * 2018.05.16 -- [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
@@ -120,6 +128,11 @@
 
 ### Other
 
+* 2018.06.29 -- [选择不同的专业，是否就选择了不同的未来](https://www.zhihu.com/special/20206138?utm_campaign=gaokao&utm_division=04)
+* 2018.06.28 -- [npm link](https://github.com/atian25/blog/issues/17)
+* 2018.06.26 -- [https://github.com/you-dont-need](https://codepen.io/anon/pen/MXqEEp)
+* 2018.06.26 -- [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
+* 2018.06.26 -- [好惭愧，我也不知道 git revert](https://www.cnblogs.com/0616--ataozhijia/p/3709917.html)
 * 2018.06.21 -- [冰冻世界1](https://www.youtube.com/watch?v=z7do8-WoPwg)
 * 2018.06.21 -- [吴亮：虎鲸的智商到底有多高？他们有什么样的性情？该如何评价人类驯化虎鲸的现象？](https://www.zhihu.com/question/28819186/answer/42404952)
 * 2018.06.19 -- [如何打造公司级公共前端团队](https://github.com/DDFE/DDFE-blog/issues/2)
@@ -145,6 +158,7 @@
 * 2018.05.03 -- [awk & sed ，一个老派系统管理员的基本素养](https://linux.cn/article-6881-1.html)
 * 2018.05.03 -- [online tone generator](http://www.szynalski.com/tone-generator/)
 * 2018.05.14 -- [The Crown Season 1 & 2](http://www.dysfz.cc/movie14573.html)
+* 2018.06.26 -- [Darling in the franxx 资源定期更新](https://m.776dm.com/kehuan/28921/)
 * 2018.06.19 -- [Darling in the franxx 资源定期更新](http://share10086.com/ac/8414.html)
 * 2018.06.01 -- [Darling in the franxx 在线观看](http://www.edddh.com/vod-detail-id-2621.html)
 * 2018.05.09 -- [喰种 RE 资源定期更新](http://52movieba.com/forum/thread-1864.htm)
@@ -153,6 +167,15 @@
 
 ### Read
 
+* 2018.06.29 -- [邵天兰的文章：TOP 1‰有多牛？“普通的成功”可能远远比你想象中的稀有](https://zhuanlan.zhihu.com/p/38456560)
+* 2018.06.29 -- [移动端AR交互设计探索](https://m.zcool.com.cn/article/ZNzE4NDcy.html)
+* 2018.06.29 -- [胡乃军：历史上有哪些把死棋下活的人？](https://www.zhihu.com/question/279580739/answer/429297687)
+* 2018.06.29 -- [half life：中国怎样才能提高生育率？](https://www.zhihu.com/question/50077611/answer/425413555)
+* 2018.06.28 -- [程序算法与人生选择](https://coolshell.cn/articles/8790.html)
+* 2018.06.26 -- [dva issue#01：介绍](https://github.com/dvajs/dva/issues/1#issuecomment-231114061)
+* 2018.06.26 -- [15 年的评价：连校园90后都开始嫌弃的人人网：没落、没人、错误商业化](http://www.tmtpost.com/190678.html)
+* 2018.06.25 -- [橙路的评价](https://zhuanlan.zhihu.com/p/34049593)
+* 2018.06.25 -- [蛮有意思的：工作记忆是一种能力](http://www.bjqx.org.cn/qxweb/n64754c712.aspx)
 * 2018.06.22 -- [谁抬高了那些小县城的房价？](https://36kr.com/p/5139919.html)
 * 2018.06.21 -- [话痨、高智商、最强杀手、深海霸主，这些词都不足以形容虎鲸](http://blog.sciencenet.cn/blog-2966991-1081279.html)
 * 2018.06.21 -- [颜晓川：家里在一二线城市有很多套房是怎么的一种体验？](https://www.zhihu.com/question/32315601/answer/419896928)
