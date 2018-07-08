@@ -3,6 +3,7 @@
 
 ### Blog
 
+* 2018.07.02 -- [猫哥_kaiye | 编程笔记](https://www.cnblogs.com/)
 * 2018.06.30 -- [卡瓦邦噶！](https://www.kawabangga.com/)
 * 2018.06.28 -- [atian25/blog](https://github.com/atian25/blog/issues)
 * 2018.06.12 -- [承玉老哥早年博客](http://yiminghe.iteye.com/blog)
@@ -66,6 +67,7 @@
 
 ### JS
 
+* 2018.07.04 -- [hyper](https://hyper.is/#installation)
 * 2018.06.28 -- [getBoundingClientRect 小tips: 滚动容器尺寸变化子元素视觉上位置不变JS实现](https://www.zhangxinxu.com/wordpress/2018/02/container-scroll-position-hold/)
 * 2018.06.26 -- [劳里林：一款围棋软件，程序如何判断是否吃子？](https://www.zhihu.com/question/48280969/answer/110249542 + https://github.com/lll9p/JSweiqi)
 * 2018.06.11 -- [WebGL 桌球](http://www.heyzxz.me/pcol/)
@@ -105,6 +107,7 @@
 
 ### Web
 
+* 2018.07.05 -- [zan-proxy](https://youzan.github.io/zan-proxy/book/plugin/code.html)
 * 2018.05.31 -- [伯玉：Web 研发模式演变](https://github.com/lifesinger/blog/issues/184)
 * 2018.05.31 -- [淘宝 FED：机器学习，Hello World from Javascript!](http://taobaofed.org/blog/2017/12/07/machine-learning/)
 * 2018.05.31 -- [通天塔之石——企业级前端组件库方案](http://www.cnblogs.com/sskyy/p/7002404.html)
@@ -116,6 +119,7 @@
 
 ### Linus/Unix Shell
 
+* 2018.07.02 -- [十分钟学会 tmux](https://www.cnblogs.com/kaiye/p/6275207.html)
 * 2018.05.31 -- [每天一个linux命令（30）: chown命令](http://www.cnblogs.com/peida/archive/2012/12/04/2800684.html)
 * 2018.05.04 -- [grep查找字符串所在文件和行号，find查找文件所在目录即路径](https://blog.csdn.net/devwang_com/article/details/52587884)
 
@@ -128,6 +132,7 @@
 
 ### Other
 
+* 2018.07.04 -- [有赞技术开放日第一期录播](https://tech.youzan.com/fe-open-day-2018/)
 * 2018.06.29 -- [选择不同的专业，是否就选择了不同的未来](https://www.zhihu.com/special/20206138?utm_campaign=gaokao&utm_division=04)
 * 2018.06.28 -- [npm link](https://github.com/atian25/blog/issues/17)
 * 2018.06.26 -- [https://github.com/you-dont-need](https://codepen.io/anon/pen/MXqEEp)
@@ -167,6 +172,7 @@
 
 ### Read
 
+* 2018.07.04 -- [Node 在有赞的实践](https://tech.youzan.com/youzan-node/)
 * 2018.06.29 -- [邵天兰的文章：TOP 1‰有多牛？“普通的成功”可能远远比你想象中的稀有](https://zhuanlan.zhihu.com/p/38456560)
 * 2018.06.29 -- [移动端AR交互设计探索](https://m.zcool.com.cn/article/ZNzE4NDcy.html)
 * 2018.06.29 -- [胡乃军：历史上有哪些把死棋下活的人？](https://www.zhihu.com/question/279580739/answer/429297687)
