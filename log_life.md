@@ -1,6 +1,159 @@
 ## Log of my daily life 讲生活，谈心情 2018 年 7 月
 
 
+# 2018.07.15
+
+<blockquote>
+
+得意忘形的我，第二次试着在信里放了照片寄出去，然后这次，只有两封回信
+
+...
+
+知道琦玉老师为什么这么强吗？因为光头强啊！
+</blockquote>
+
+
+# 2018.07.13
+
+<blockquote>
+
+I understand. Real love is always worth waiting for.
+
+...
+
+My father used to say that only boring people get bored.
+
+Mine, too.
+
+I used to think it's only boring people who don't feel boredom, so cannot conceive of it in others.
+
+I'm taking a walk. You're welcome to join me if you'd like.
+</blockquote>
+
+
+# 2018.07.12
+
+<blockquote>
+
+...但你也可能生在后世，所以我要说给你知道 —— 假如有样东西人人都说好，那它一定不好，这是一定之理。
+</blockquote>
+
+
+# 2018.07.11
+
+<blockquote>
+
+这当然是一种很荒诞的表现，但却相当明确地告诉读者：生活要由人自己来选择。这是人的独立性和尊严所在。
+
+...
+
+罗素有句话，“Diversity is essential to happiness, and in Utopia there is hardly any.”
+
+人生的参差多态，是幸福的本源。
+
+要有趣，不要单一，这是王小波比较核心的价值观。
+
+...
+
+“《黄金时代》是槌不动的牛，满是叛逆与热血的青春。
+
+而《白银时代》，牛已经被槌了，失去了一腔热血与梦想。
+
+人没有自我，没有感情，一切都按部就班。
+
+哪怕是荒唐至极的东西，只要大家都这样做，你就必须这样做，不然你就是犯了错误。
+
+每次看到小波用平淡幽默的口吻叙说一件荒诞不经的事，都会觉得心颤。
+
+小波一定是受了很多不得了的委屈，才写出这样的作品。
+
+同时，他的心又是那么好，以至于生活再怎么辜负他，他也宁愿成为处处蒙冤的老大哥，而不是坐享其成的数盲。
+
+小波的文章不可读的太肤浅，也不该过分解读。如同他人一般，简单又深刻。
+
+你只需要静下心来，跟着他的思路，看看他笔下的世界是怎样的，就懂了。
+
+无论如何，他总能逗你笑。”
+
+...
+
+像王二，从小野到大，上学、工作一路走来，全不需要家里安排，而从心们却一路安排下来，劝没有选择的余地
+
+</blockquote>
+
+
+# 2018.07.10
+
+<blockquote>
+
+“微信团队郑重提示：res.err_msg将在用户支付成功后返回 ok，但并不保证它绝对可靠”
+
+...
+
+Whether it's good or bad, time will tell.
+
+—— 干，这不是当年特斯拉的句式吗！
+
+...
+
+I read this comment saying that "I've never seen anyone write <div className='a' />". Well, here's someone 👋
+
+...
+
+I would also like to say that this seems to be a blocker for my project.
+
+I really think it's stupid to let me give up just because such a stupid reason.
+
+I don't think this really is the so called 'opinioned'.
+
+Or maybe this really is 'opinioned'.
+
+...
+
+“您好，男生可以租么，爱干净，外企码农，生活规律，会做饭。”
+
+—— 有过类似经历，再看到别人就非常同情，而这种经历，可能是亲身经历的，也可能是听来的、书上看来的，甚至有时候（凭空）突然想到的
+</blockquote>
+
+
+# 2018.07.09
+
+<blockquote>
+
+A contented mind is the greatest blessing a man can enjoy in this world.
+
+...
+
+后来所有的外国女人和这日本人一起上街前，都在身上挂个牌子，上书“我不是王二”
+
+...
+
+如果顾客忘了给，我就揪住他衣服不放，连他的衣兜都扯掉 ... 因为工作过于积极，我很快就被开除掉
+
+...
+
+早几年，还可以用我设计的防毒面具，后来吓死过小孩子，不让用了
+
+...
+
+当然，你还可以说，取下消声器，省了你的油，吵了大家，所以应该安上
+
+他则认为安上消声器，大家安静，却费了他的油，所以应当取下
+
+归根结底，假如消声器能省油，谁也不回不安它
+
+如果说到了这儿，所有的人都会同意：
+
+也不知是哪个王八蛋设计的这种破机器
+
+只有我不同意，因为这个王八蛋就是我
+
+...
+
+书册的读者，我们下级单位的同行经常给我们寄子弹头，说再把书写得这样不着边际，就要把我们都杀掉
+</blockquote>
+
+
 # 2018.07.08
 
 <blockquote>

@@ -3,6 +3,9 @@
 
 ### Blog
 
+* 2018.07.12 -- [豪情老大哥的那个群站](https://www.kancloud.cn/jikeytang/qq/87646)
+* 2018.07.12 -- [醉牛前端](http://f2er.club/)
+* 2018.07.11 -- [React China](http://react-china.org/)
 * 2018.07.02 -- [猫哥_kaiye | 编程笔记](https://www.cnblogs.com/)
 * 2018.06.30 -- [卡瓦邦噶！](https://www.kawabangga.com/)
 * 2018.06.28 -- [atian25/blog](https://github.com/atian25/blog/issues)
@@ -67,6 +70,9 @@
 
 ### JS
 
+* 2018.07.12 -- [Yeoma  n CI](https://github.com/yeoman/yo/blob/master/lib/cli.js)
+* 2018.07.12 -- [electronjs](https://electronjs.org/docs/tutorial/first-app)
+* 2018.07.09 -- [Start VSCode Plugin](https://code.visualstudio.com/docs/extensions/example-hello-world)
 * 2018.07.04 -- [hyper](https://hyper.is/#installation)
 * 2018.06.28 -- [getBoundingClientRect 小tips: 滚动容器尺寸变化子元素视觉上位置不变JS实现](https://www.zhangxinxu.com/wordpress/2018/02/container-scroll-position-hold/)
 * 2018.06.26 -- [劳里林：一款围棋软件，程序如何判断是否吃子？](https://www.zhihu.com/question/48280969/answer/110249542 + https://github.com/lll9p/JSweiqi)
@@ -81,6 +87,11 @@
 ### React
 
 
+* 2018.07.12 -- [React Router](https://reacttraining.com/react-router/web/example/basic)
+* 2018.07.12 -- [React事件初探](https://ivweb.io/topic/58227d0a0fea59e31b98bb5f)
+* 2018.07.12 -- [React Portals](https://doc.react-china.org/docs/portals.html)
+* 2018.07.12 -- [React Fragments](https://doc.react-china.org/docs/fragments.html)
+* 2018.07.12 -- [《React源码解析》系列完结！](https://juejin.im/post/5a84682ef265da4e83266cc4)
 * 2018.06.28 -- [知乎某专栏：react-typescript](https://zhuanlan.zhihu.com/react-typescript)
 * 2018.06.27 -- [下季度内容：awesome-react](https://github.com/enaqx/awesome-react)
 * 2018.06.22 -- [基于webpack实现react组件的按需加载](https://zhuanlan.zhihu.com/p/26555032)
@@ -98,6 +109,7 @@
 
 ### JS Lib
 
+* 2018.05.31 -- [add-dom-event-listener](https://github.com/yiminghe/add-dom-event-listener/blob/master/src/index.js)
 * 2018.05.31 -- [rc-tools](https://github.com/react-component/rc-tools)
 * 2018.05.17 -- [React Notification System](http://igorprado.com/react-notification-system/)
 * 2018.05.14 -- [three.ar.js](https://github.com/google-ar/three.ar.js)
@@ -132,6 +144,12 @@
 
 ### Other
 
+* 2018.07.13 -- [GraphQL 搭配 Koa 最佳入门实践](https://segmentfault.com/a/1190000012720317)
+* 2018.07.12 -- [codepen: ...](https://codepen.io/waldo/project/editor/DYwanN)
+* 2018.07.12 -- [字体渲染详解](http://blog.jobbole.com/21671/)
+* 2018.07.10 -- [紫金港附近有什么好吃的？](https://www.zhihu.com/question/36518997)
+* 2018.07.10 -- [多人实时对战网络同步方式研究](https://blog.csdn.net/qq_28498681/article/details/70140731)
+* 2018.07.10 -- [解密：腾讯如何打造一款实时对战手游](http://gad.qq.com/article/detail/17399)
 * 2018.07.04 -- [有赞技术开放日第一期录播](https://tech.youzan.com/fe-open-day-2018/)
 * 2018.06.29 -- [选择不同的专业，是否就选择了不同的未来](https://www.zhihu.com/special/20206138?utm_campaign=gaokao&utm_division=04)
 * 2018.06.28 -- [npm link](https://github.com/atian25/blog/issues/17)
@@ -162,6 +180,8 @@
 * 2018.05.03 -- [regexer](https://regexr.com/)
 * 2018.05.03 -- [awk & sed ，一个老派系统管理员的基本素养](https://linux.cn/article-6881-1.html)
 * 2018.05.03 -- [online tone generator](http://www.szynalski.com/tone-generator/)
+* 2018.07.13 -- [西部世界第二季](https://www.tiantangbt.org/juji/2018-04-28/9073.html)
+* 2018.07.09 -- [西部世界第二季](http://www.dysfz.cc/movie22946.html)
 * 2018.05.14 -- [The Crown Season 1 & 2](http://www.dysfz.cc/movie14573.html)
 * 2018.06.26 -- [Darling in the franxx 资源定期更新](https://m.776dm.com/kehuan/28921/)
 * 2018.06.19 -- [Darling in the franxx 资源定期更新](http://share10086.com/ac/8414.html)
@@ -172,6 +192,9 @@
 
 ### Read
 
+* 2018.07.12 -- [Console](https://developer.mozilla.org/zh-CN/docs/Web/API/Console)
+* 2018.07.10 -- [Provide way to use single quotes in jsx #1080](https://github.com/prettier/prettier/issues/1080)
+* 2018.07.09 -- [[译] A Prettier JavaScript Formatter](https://segmentfault.com/a/1190000008861384)
 * 2018.07.04 -- [Node 在有赞的实践](https://tech.youzan.com/youzan-node/)
 * 2018.06.29 -- [邵天兰的文章：TOP 1‰有多牛？“普通的成功”可能远远比你想象中的稀有](https://zhuanlan.zhihu.com/p/38456560)
 * 2018.06.29 -- [移动端AR交互设计探索](https://m.zcool.com.cn/article/ZNzE4NDcy.html)
