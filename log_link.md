@@ -3,6 +3,8 @@
 
 ### Blog
 
+* 2018.07.20 -- [飞龙 + electron](https://wizardforcel.gitbooks.io/electron-doc/content/api/remote.html)
+* 2018.07.12 -- [tympanus.net codrops](https://tympanus.net/codrops/)
 * 2018.07.12 -- [豪情老大哥的那个群站](https://www.kancloud.cn/jikeytang/qq/87646)
 * 2018.07.12 -- [醉牛前端](http://f2er.club/)
 * 2018.07.11 -- [React China](http://react-china.org/)
@@ -61,6 +63,7 @@
 
 ### CSS
 
+* 2018.07.16 -- [PageLoadingEffects](https://tympanus.net/Development/PageLoadingEffects/index2.html)
 * 2018.05.18 -- [CSS 画小猪佩奇 border-radius](https://www.v2ex.com/t/455807)
 * 2018.05.09 -- [overflow:hidden 影响inline-block元素周围元素下移](http://www.cnblogs.com/AliceX-J/p/5731755.html)
 * 2018.05.09 -- [css中的baseline](https://blog.csdn.net/zp1996323/article/details/51457836)
@@ -119,6 +122,7 @@
 
 ### Web
 
+* 2018.07.20 -- [Loading 效果，总算实现了回](https://www.jianshu.com/p/629ce1f9253f, https://www.jianshu.com/p/1a24e480ec1a)
 * 2018.07.05 -- [zan-proxy](https://youzan.github.io/zan-proxy/book/plugin/code.html)
 * 2018.05.31 -- [伯玉：Web 研发模式演变](https://github.com/lifesinger/blog/issues/184)
 * 2018.05.31 -- [淘宝 FED：机器学习，Hello World from Javascript!](http://taobaofed.org/blog/2017/12/07/machine-learning/)
@@ -144,6 +148,8 @@
 
 ### Other
 
+* 2018.07.19 -- [cn.eagle](https://cn.eagle.cool/)
+* 2018.07.17 -- [黑铁时代在线阅读](http://www.sto.cc/book-1515-19.html)
 * 2018.07.13 -- [GraphQL 搭配 Koa 最佳入门实践](https://segmentfault.com/a/1190000012720317)
 * 2018.07.12 -- [codepen: ...](https://codepen.io/waldo/project/editor/DYwanN)
 * 2018.07.12 -- [字体渲染详解](http://blog.jobbole.com/21671/)
@@ -192,6 +198,9 @@
 
 ### Read
 
+* 2018.07.18 -- [真相 · 生命在于运动还是静止？](https://dxy.com/column/2053)
+* 2018.07.18 -- [Chrome 67](https://developers.google.com/web/updates/2018/04/devtools)
+* 2018.07.17 -- [module-resolution 看到 baseUrl 解决目前问题](https://www.typescriptlang.org/docs/handbook/module-resolution.html)
 * 2018.07.12 -- [Console](https://developer.mozilla.org/zh-CN/docs/Web/API/Console)
 * 2018.07.10 -- [Provide way to use single quotes in jsx #1080](https://github.com/prettier/prettier/issues/1080)
 * 2018.07.09 -- [[译] A Prettier JavaScript Formatter](https://segmentfault.com/a/1190000008861384)
