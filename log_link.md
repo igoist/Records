@@ -3,6 +3,7 @@
 
 ### Blog
 
+* 2018.07.26 -- [分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
 * 2018.07.20 -- [飞龙 + electron](https://wizardforcel.gitbooks.io/electron-doc/content/api/remote.html)
 * 2018.07.12 -- [tympanus.net codrops](https://tympanus.net/codrops/)
 * 2018.07.12 -- [豪情老大哥的那个群站](https://www.kancloud.cn/jikeytang/qq/87646)
@@ -63,6 +64,7 @@
 
 ### CSS
 
+* 2018.07.25 -- [Top 30 Most Captivating Preloaders](https://medium.muz.li/top-30-most-captivating-preloaders-for-your-website-95ed1beff99d)
 * 2018.07.16 -- [PageLoadingEffects](https://tympanus.net/Development/PageLoadingEffects/index2.html)
 * 2018.05.18 -- [CSS 画小猪佩奇 border-radius](https://www.v2ex.com/t/455807)
 * 2018.05.09 -- [overflow:hidden 影响inline-block元素周围元素下移](http://www.cnblogs.com/AliceX-J/p/5731755.html)
@@ -73,7 +75,9 @@
 
 ### JS
 
-* 2018.07.12 -- [Yeoma  n CI](https://github.com/yeoman/yo/blob/master/lib/cli.js)
+* 2018.07.24 -- [前端水印生成方案](https://juejin.im/entry/5b55db355188251b11097366)
+* 2018.07.24 -- [七天学不会nodejs——流](https://juejin.im/post/5b54a7f95188251afc257dac)
+* 2018.07.12 -- [Yeoman CI](https://github.com/yeoman/yo/blob/master/lib/cli.js)
 * 2018.07.12 -- [electronjs](https://electronjs.org/docs/tutorial/first-app)
 * 2018.07.09 -- [Start VSCode Plugin](https://code.visualstudio.com/docs/extensions/example-hello-world)
 * 2018.07.04 -- [hyper](https://hyper.is/#installation)
@@ -112,6 +116,7 @@
 
 ### JS Lib
 
+* 2018.07.23 -- [spin.js](https://spin.js.org/)
 * 2018.05.31 -- [add-dom-event-listener](https://github.com/yiminghe/add-dom-event-listener/blob/master/src/index.js)
 * 2018.05.31 -- [rc-tools](https://github.com/react-component/rc-tools)
 * 2018.05.17 -- [React Notification System](http://igorprado.com/react-notification-system/)
@@ -148,6 +153,13 @@
 
 ### Other
 
+* 2018.07.27 -- [神探张亨特](https://v.youku.com/v_show/id_XNDM5NzM2MjIw.html?spm=a2h1n.8261147.0.0&s=871430a28f6011e1b52a)
+* 2018.07.26 -- [狄仁杰之神都龙王](https://v.qq.com/x/cover/9xmc61a1o3okc4b/w00132rckgn.html)
+* 2018.07.26 -- [webpack hot module replacement without webpack dev server?](https://stackoverflow.com/questions/36091689/webpack-hot-module-replacement-without-webpack-dev-server?rq=1)
+* 2018.07.25 -- [ImageAI](https://github.com/OlafenwaMoses/ImageAI/blob/master/imageai/Detection/README.md#firstdetection)
+* 2018.07.25 -- [keras-retinanet](https://github.com/fizyr/keras-retinanet)
+* 2018.07.23 -- [webpack 4正式发布，速度最高可提升98%](http://web.jobbole.com/94012/)
+* 2018.07.23 -- [webpack 生产环境构建](https://webpack.docschina.org/guides/production/)
 * 2018.07.19 -- [cn.eagle](https://cn.eagle.cool/)
 * 2018.07.17 -- [黑铁时代在线阅读](http://www.sto.cc/book-1515-19.html)
 * 2018.07.13 -- [GraphQL 搭配 Koa 最佳入门实践](https://segmentfault.com/a/1190000012720317)
@@ -198,6 +210,8 @@
 
 ### Read
 
+* 2018.07.24 -- [大牛给计算机专业学生的7个建议](https://blog.csdn.net/BigLeo/article/details/75633501)
+* 2018.07.23 -- [移动端尺寸基础知识](https://colachan.com/post/3435)
 * 2018.07.18 -- [真相 · 生命在于运动还是静止？](https://dxy.com/column/2053)
 * 2018.07.18 -- [Chrome 67](https://developers.google.com/web/updates/2018/04/devtools)
 * 2018.07.17 -- [module-resolution 看到 baseUrl 解决目前问题](https://www.typescriptlang.org/docs/handbook/module-resolution.html)
