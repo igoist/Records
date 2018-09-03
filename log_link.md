@@ -3,6 +3,7 @@
 
 ### Blog
 
+* 2018.08.28 -- [React Dev Conf](https://react.w3ctech.com/)
 * 2018.08.20 -- [从零开始 nodejs 系列](http://blog.fens.me/series-nodejs/)
 * 2018.08.17 -- [fundebug](https://blog.fundebug.com/2017/04/04/nodejs-async-await/)
 * 2018.08.17 -- [jstips](http://www.jstips.co/en/javascript/)
@@ -18,7 +19,15 @@
 
 ### CSS
 
+* 2018.08.31 -- [张鑫旭：深入理解CSS中的层叠上下文和层叠顺序](https://www.zhangxinxu.com/wordpress/2016/01/understand-css-stacking-context-order-z-index/)
+* 2018.08.31 -- [张鑫旭：CSS3 transform对普通元素的N多渲染影响](https://www.zhangxinxu.com/wordpress/2015/05/css3-transform-affect/)
+* 2018.08.27 -- [W3C Plus: sass @mixin % @function](https://www.w3cplus.com/preprocessor/sass-mixins-function-placeholder.html)
 * 2018.08.13 -- [CSS技巧：逐帧动画抖动解决方案](https://aotu.io/notes/2017/08/14/fix-sprite-anim/)
+
+
+### Electron
+
+* 2018.08.13 -- [electron如何将app加入macos右上角的图栏](https://segmentfault.com/q/1010000009973560/a-1020000009974703)
 
 
 ### JS
@@ -60,6 +69,7 @@
 
 ### Spider
 
+* 2018.08.28 -- [博客爬虫技术分享(9.26日更新书籍爬取实例）](https://cnodejs.org/topic/541ab155bb5cb03b0100275b)
 * 2018.08.03 -- [Node.js实现简易爬虫](https://segmentfault.com/a/1190000008745531)
 
 
@@ -70,6 +80,7 @@
 * 2018.08.23 -- [匹配问题：使用 grep/sed/awk 提取字符串](http://curryhuang.com/2015/07/18/extract-string-by-grep-sed-awk/)
 * 2018.08.23 -- [github 那篇 awk 教程](https://github.com/mylxsw/growing-up/blob/master/doc/%E4%B8%89%E5%8D%81%E5%88%86%E9%92%9F%E5%AD%A6%E4%BC%9AAWK.md)
 * 2018.08.03 -- [awk 经典用法](http://blog.sina.com.cn/s/blog_5340d1800101jhzn.html)
+* 2018.08.28 -- [Tmux 使用手册](http://louiszhai.github.io/2017/09/30/tmux/)
 * 2018.08.01 -- [十分钟学会 tmux](https://www.cnblogs.com/kaiye/p/6275207.html)
 * 2018.08.01 -- [iTerm2 Documentation](https://www.iterm2.com/documentation.html)
 * 2018.08.01 -- [超簡單！十分鐘打造漂亮又好用的 zsh command line 環境 －－ 还行，虽然最后都是自己在配](https://medium.com/statementdog-engineering/prettify-your-zsh-command-line-prompt-3ca2acc967f)
@@ -85,6 +96,7 @@
 
 ### Other
 
+* 2018.08.28 -- [GraphQL apollo-server 迎来史上最大更新](https://cnodejs.org/topic/5b7cd014a210553a0cde2b12)
 * 2018.08.24 -- [Google: database or data base]()
 * 2018.08.20 -- [通过目标显示器模式将 iMac 用作显示器](https://support.apple.com/zh-cn/HT204592#requirements)
 * 2018.08.10 -- [Some Notes on the Fourth Dimension](http://www.math.union.edu/~dpvc/math/4d/welcome.html)
@@ -94,6 +106,8 @@
 
 ### Read
 
+* 2018.08.30 -- [豆瓣读书：《约翰克里斯朵夫》](https://book.douban.com/subject/1186392/)
+* 2018.08.29 -- [用例是真是假？](https://www.dutype.com/t/topic/126)
 * 2018.08.24 -- [天涯的帖子](http://bbs.tianya.cn/post-house-252774-1.shtml#3967219)
 * 2018.08.24 -- [你见过最抠的人是什么样的？](https://www.dutype.com/t/topic/282/3)
 * 2018.08.23 -- [幼儿园“小学化”，怎么治？](https://mp.weixin.qq.com/s/TSkjeX25YCEXPOKPc0An7g)
@@ -115,14 +129,22 @@
 * 2018.08.08 -- [马家辉 大叔 在线阅读](https://new-read.readmoo.com/mooreader/210022998000101/preview)
 * 2018.08.08 -- [梁文道 常识 在线阅读](https://read.douban.com/ebook/326421/)
 * 2018.08.07 -- [王小波 我的精神家园 在线阅读](https://www.yooread.com/8/1735/)
+* 2018.08.28 -- [漫画：进击的巨人](https://manhua.fzdm.com/39/)
 
 
 ### SQL
 
 ### Thinking 思考，业务、工作、技术方面的
 
-### VSCode
+### cVim
 
+* 2018.08.30 -- [cVim 指南](https://github.com/acehjm/cVim-help)
+
+
+### VSCode & Sublime
+
+* 2018.08.27 -- [Sublime Text Color Scheme: Monokai Pro](https://github.com/Monokai/monokai-pro-sublime-text)
+* 2018.08.27 -- [Sublime Text: 不同类型文档指定不同语法高亮](https://placeless.net/2014/01/14/sublime-text-specific-syntax.html)
 * 2018.08.24 -- [Google: vscode switch to the terminal](https://github.com/Microsoft/vscode/issues/12054)
 * 2018.08.24 -- [Google: mac vscode open file in explore with keyboard](https://stackoverflow.com/questions/35157786/vscode-open-file-from-file-explorer-with-enter-key-on-mac-osx)
 
