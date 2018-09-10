@@ -19,6 +19,8 @@
 
 ### CSS
 
+* 2018.09.06 -- [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
+* 2018.09.06 -- [坚持仅合成器的属性和管理层计数](https://developers.google.com/web/fundamentals/performance/rendering/stick-to-compositor-only-properties-and-manage-layer-count?hl=zh-cn)
 * 2018.08.31 -- [张鑫旭：深入理解CSS中的层叠上下文和层叠顺序](https://www.zhangxinxu.com/wordpress/2016/01/understand-css-stacking-context-order-z-index/)
 * 2018.08.31 -- [张鑫旭：CSS3 transform对普通元素的N多渲染影响](https://www.zhangxinxu.com/wordpress/2015/05/css3-transform-affect/)
 * 2018.08.27 -- [W3C Plus: sass @mixin % @function](https://www.w3cplus.com/preprocessor/sass-mixins-function-placeholder.html)
@@ -30,6 +32,15 @@
 * 2018.08.13 -- [electron如何将app加入macos右上角的图栏](https://segmentfault.com/q/1010000009973560/a-1020000009974703)
 
 
+### NodeJS
+
+* 2018.09.05 -- [minimist](https://github.com/substack/minimist)
+* 2018.09.05 -- [cli-color](https://github.com/medikoo/cli-color)
+* 2018.09.05 -- [node-fzf](https://github.com/talmobi/node-fzf#readme)
+* 2018.09.04 -- [《Node.js 调试指南》](https://github.com/nswbmw/node-in-debugging)
+* 2018.09.04 -- [Node.js Color 模块实现入门浅析](https://zhuanlan.zhihu.com/p/27308276)
+
+
 ### JS
 
 * 2018.08.13 -- [jstips 仅用一行生成`[0, 1, ..., N-1]`数列](http://www.jstips.co/zh_cn/javascript/create-range-0...n-easily-using-one-line/)
@@ -37,6 +48,7 @@
 
 ### TypeScript
 
+* 2018.09.05 -- [property does not exists on type '{}'](https://stackoverflow.com/questions/34274487/property-does-not-exists-on-type)
 * 2018.08.09 -- [Cannot assign to 'state' because it is a constant or a read-only property](https://stackoverflow.com/questions/51074355/cannot-assign-to-state-because-it-is-a-constant-or-a-read-only-property)
 
 
@@ -48,6 +60,9 @@
 
 ### JS Lib
 
+* 2018.09.04 -- [自己写一个类似知乎编辑器的编辑器（2）](https://www.jianshu.com/p/84334ddb6974)
+* 2018.09.04 -- [Draft.js](https://github.com/facebook/draft-js)
+* 2018.09.04 -- [Draft.js 在知乎的实践](https://zhuanlan.zhihu.com/p/24951621)
 * 2018.08.22 -- [Splitting: Are we good?](https://codepen.io/shshaw/pen/NzQKyr)
 * 2018.08.22 -- [Splitting.html with Vue](https://codepen.io/shshaw/pen/XVwBpe)
 * 2018.08.22 -- [Splitting: Divide an Image with CSS Vars](https://codepen.io/shshaw/pen/PQbQgE)
@@ -77,6 +92,8 @@
 
 ### Linus/Unix Shell
 
+* 2018.09.03 -- [fzf](https://github.com/junegunn/fzf#building-fzf)
+* 2018.09.03 -- [bat](https://github.com/sharkdp/bat#installation)
 * 2018.08.23 -- [匹配问题：使用 grep/sed/awk 提取字符串](http://curryhuang.com/2015/07/18/extract-string-by-grep-sed-awk/)
 * 2018.08.23 -- [github 那篇 awk 教程](https://github.com/mylxsw/growing-up/blob/master/doc/%E4%B8%89%E5%8D%81%E5%88%86%E9%92%9F%E5%AD%A6%E4%BC%9AAWK.md)
 * 2018.08.03 -- [awk 经典用法](http://blog.sina.com.cn/s/blog_5340d1800101jhzn.html)
@@ -84,6 +101,8 @@
 * 2018.08.01 -- [十分钟学会 tmux](https://www.cnblogs.com/kaiye/p/6275207.html)
 * 2018.08.01 -- [iTerm2 Documentation](https://www.iterm2.com/documentation.html)
 * 2018.08.01 -- [超簡單！十分鐘打造漂亮又好用的 zsh command line 環境 －－ 还行，虽然最后都是自己在配](https://medium.com/statementdog-engineering/prettify-your-zsh-command-line-prompt-3ca2acc967f)
+* 2018.09.03 -- [一些命令行工具的增强版](https://www.kawabangga.com/posts/3084)
+
 
 ### Game
 
@@ -96,6 +115,7 @@
 
 ### Other
 
+* 2018.09.04 -- [联合早报中文网](http://www.uzbzw.com/)
 * 2018.08.28 -- [GraphQL apollo-server 迎来史上最大更新](https://cnodejs.org/topic/5b7cd014a210553a0cde2b12)
 * 2018.08.24 -- [Google: database or data base]()
 * 2018.08.20 -- [通过目标显示器模式将 iMac 用作显示器](https://support.apple.com/zh-cn/HT204592#requirements)
@@ -106,6 +126,11 @@
 
 ### Read
 
+* 2018.09.07 -- [你知道翻白眼是什么意思么？](http://blog.sina.com.cn/s/blog_134e1a9990102wr82.html)
+* 2018.09.04 -- [人民日报海外版环球热点：警惕日本借“威胁”之名威胁世界](http://opinion.people.com.cn/n1/2018/0901/c1003-30265370.html)
+* 2018.09.04 -- [社评：耍狠的“龙哥”装睡的自如](http://www.uzbzw.com/mon/keji/20180904/48510.html)
+* 2018.09.04 -- [社评：中国需要一场亲子关系的革命](http://www.uzbzw.com/mon/keji/20180903/48493.html)
+* 2018.09.03 -- [超强记忆力是个邪道功夫：高人、奇人、病人和知识的高低贵贱](http://daily.zhihu.com/story/8107284)
 * 2018.08.30 -- [豆瓣读书：《约翰克里斯朵夫》](https://book.douban.com/subject/1186392/)
 * 2018.08.29 -- [用例是真是假？](https://www.dutype.com/t/topic/126)
 * 2018.08.24 -- [天涯的帖子](http://bbs.tianya.cn/post-house-252774-1.shtml#3967219)
@@ -132,6 +157,11 @@
 * 2018.08.28 -- [漫画：进击的巨人](https://manhua.fzdm.com/39/)
 
 
+### Shell
+
+* 2018.08.28 -- [漫画：进击的巨人]()
+
+
 ### SQL
 
 ### Thinking 思考，业务、工作、技术方面的
@@ -141,8 +171,9 @@
 * 2018.08.30 -- [cVim 指南](https://github.com/acehjm/cVim-help)
 
 
-### VSCode & Sublime
+### VSCode & Sublime & Vim
 
+* 2018.09.03 -- [kawabangga：Vim系列教程](https://www.kawabangga.com/vim%E7%B3%BB%E5%88%97)
 * 2018.08.27 -- [Sublime Text Color Scheme: Monokai Pro](https://github.com/Monokai/monokai-pro-sublime-text)
 * 2018.08.27 -- [Sublime Text: 不同类型文档指定不同语法高亮](https://placeless.net/2014/01/14/sublime-text-specific-syntax.html)
 * 2018.08.24 -- [Google: vscode switch to the terminal](https://github.com/Microsoft/vscode/issues/12054)
@@ -150,3 +181,5 @@
 
 
 ### 外设
+
+* 2018.09.03 -- [Mac 外接显示器 hdpi](https://www.kawabangga.com/posts/2250)
