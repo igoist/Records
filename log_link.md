@@ -3,6 +3,7 @@
 
 ### Blog
 
+* 2018.09.10 -- [MARKSZのBlog](https://molunerfinn.com/)
 * 2018.08.28 -- [React Dev Conf](https://react.w3ctech.com/)
 * 2018.08.20 -- [从零开始 nodejs 系列](http://blog.fens.me/series-nodejs/)
 * 2018.08.17 -- [fundebug](https://blog.fundebug.com/2017/04/04/nodejs-async-await/)
@@ -14,6 +15,7 @@
 
 ### Chrome
 
+* 2018.09.11 -- [history 相关](https://developer.mozilla.org/zh-CN/docs/Web/Events/popstate)
 * 2018.08.13 -- [狙杀页面卡顿 —— Performance 工具指北](https://zhuanlan.zhihu.com/p/41017888)
 
 
@@ -34,6 +36,10 @@
 
 ### NodeJS
 
+* 2018.09.07 -- [深入浅出 Node.js](http://www.infoq.com/cn/search.action?queryString=%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js&page=1&searchOrder=)
+* 2018.09.07 -- [深入浅出Node.js游戏服务器开发--分布式聊天服务器搭建](http://www.infoq.com/cn/articles/game-server-development-2)
+* 2018.09.07 -- [单枪匹马撸个聊天室 fiora](https://github.com/yinxin630/blog/issues/3)
+* 2018.09.07 -- [Node.js中的全局对象之process进程对象](https://itbilu.com/nodejs/core/EyEJTxF8.html)
 * 2018.09.05 -- [minimist](https://github.com/substack/minimist)
 * 2018.09.05 -- [cli-color](https://github.com/medikoo/cli-color)
 * 2018.09.05 -- [node-fzf](https://github.com/talmobi/node-fzf#readme)
@@ -43,6 +49,9 @@
 
 ### JS
 
+* 2018.09.13 -- [vue-router history hash 部分代码](https://github.com/vuejs/vue-router/blob/dev/src/history/hash.js)
+* 2018.09.11 -- [省时省力的ES6 -- js hack](https://www.liayal.com/article/5b8dfc9c7368ac07250bd11a)
+* 2018.09.10 -- [onTouchMove!!](https://motion.ant.design/exhibition/demo/list-anim)
 * 2018.08.13 -- [jstips 仅用一行生成`[0, 1, ..., N-1]`数列](http://www.jstips.co/zh_cn/javascript/create-range-0...n-easily-using-one-line/)
 
 
@@ -54,6 +63,16 @@
 
 ### React
 
+* 2018.09.13 -- [蛋头 Redux](https://egghead.io/browse/libraries/redux)
+* 2018.09.13 -- [react-redux API](https://github.com/reduxjs/react-redux/blob/master/docs/api.md#connectmapstatetoprops-mapdispatchtoprops-mergeprops-options)
+* 2018.09.13 -- [React 实践心得：react-redux 之 connect 方法详解](http://taobaofed.org/blog/2016/08/18/react-redux-connect/)
+* 2018.09.13 -- [Redux org](https://redux.js.org/)
+* 2018.09.13 -- [github redux](https://github.com/reduxjs/redux/blob/master/README.md)
+* 2018.09.13 -- [react-redux: connects your redux store with ReactComponents](https://stackoverflow.com/questions/38405571/what-are-differences-between-redux-react-redux-redux-thunk)
+* 2018.09.07 -- [React Router Transition Demo](http://maisano.github.io/react-router-transition/animated-route)
+* 2018.09.07 -- [React Router Transition](https://github.com/maisano/react-router-transition)
+* 2018.09.07 -- [精读《React Router4.0 进阶概念》](https://zhuanlan.zhihu.com/p/31178105)
+* 2018.09.07 -- [react-router example](https://reacttraining.com/react-router/web/example/route-config)
 * 2018.08.07 -- [RcTrigger simple usecase](http://react-component.github.io/trigger/examples/simple.html)
 * 2018.08.07 -- [meaning of the Route exact](https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path)
 
@@ -90,6 +109,11 @@
 
 ### Webpack
 
+* 2018.09.12 -- [webpack-dev-middleware](https://github.com/webpack/webpack-dev-middleware)
+* 2018.09.12 -- [Running a node express server using webpack-dev-server](https://stackoverflow.com/questions/35233291/running-a-node-express-server-using-webpack-dev-server)
+* 2018.09.11 -- [启动本地开发环境更快! webpack 动态入口构建的实现](https://webfe.kujiale.com/webpack-dong-tai-ru-kou-da-bao-de-shi-xian/)
+
+
 ### Linus/Unix Shell
 
 * 2018.09.03 -- [fzf](https://github.com/junegunn/fzf#building-fzf)
@@ -115,6 +139,7 @@
 
 ### Other
 
+* 2018.09.12 -- [被埋没的宜家神级产品，很多人只是不知道它到底有多神](https://zhuanlan.zhihu.com/p/44295341)
 * 2018.09.04 -- [联合早报中文网](http://www.uzbzw.com/)
 * 2018.08.28 -- [GraphQL apollo-server 迎来史上最大更新](https://cnodejs.org/topic/5b7cd014a210553a0cde2b12)
 * 2018.08.24 -- [Google: database or data base]()
@@ -122,10 +147,12 @@
 * 2018.08.10 -- [Some Notes on the Fourth Dimension](http://www.math.union.edu/~dpvc/math/4d/welcome.html)
 * 2018.08.10 -- [如何想象诸如超立方体之类的四维空间物体？](https://www.zhihu.com/question/34629230)
 * 2018.08.10 -- [为什么现在的90后都喜欢熬夜？](https://know.baidu.com/question/a5ce8226a9732cb7ee158cf96df6e0be29749b1)
+* 2018.09.12 -- [Rick and Morty](https://www.youtube.com/watch?v=h_MLkRy5ePk&index=117&list=PLELGd0AepsKLfBbm7kkTGNjhvd2rkRPwI)
 
 
 ### Read
 
+* 2018.09.11 -- [建个“隔断门”，一个校园就能容下两个小学吗？](https://mp.weixin.qq.com/s/bqjwLBQQLwkqWBVSFv1-LA)
 * 2018.09.07 -- [你知道翻白眼是什么意思么？](http://blog.sina.com.cn/s/blog_134e1a9990102wr82.html)
 * 2018.09.04 -- [人民日报海外版环球热点：警惕日本借“威胁”之名威胁世界](http://opinion.people.com.cn/n1/2018/0901/c1003-30265370.html)
 * 2018.09.04 -- [社评：耍狠的“龙哥”装睡的自如](http://www.uzbzw.com/mon/keji/20180904/48510.html)
