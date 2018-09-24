@@ -3,6 +3,7 @@
 
 ### Blog
 
+* 2018.09.20 -- [flutter](https://flutterchina.club/)
 * 2018.09.10 -- [MARKSZのBlog](https://molunerfinn.com/)
 * 2018.08.28 -- [React Dev Conf](https://react.w3ctech.com/)
 * 2018.08.20 -- [从零开始 nodejs 系列](http://blog.fens.me/series-nodejs/)
@@ -21,6 +22,11 @@
 
 ### CSS
 
+* 2018.09.20 -- [SVG Ripples](https://tympanus.net/Tutorials/SVGRipples/index3.html)
+* 2018.09.20 -- [Animated Opening Type](https://tympanus.net/Tutorials/AnimatedOpeningType/)
+* 2018.09.19 -- [Micro Code Editor in the Browser!](https://codepen.io/kazzkiq/pen/xGXaKR)
+* 2018.09.19 -- [Vue Markdown Editor](https://codepen.io/Paolo-Duzioni/pen/EwYooo)
+* 2018.09.19 -- [Animography's Mobilo Text Editor in SVG](https://codepen.io/airnan/pen/JbOrbV)
 * 2018.09.06 -- [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 * 2018.09.06 -- [坚持仅合成器的属性和管理层计数](https://developers.google.com/web/fundamentals/performance/rendering/stick-to-compositor-only-properties-and-manage-layer-count?hl=zh-cn)
 * 2018.08.31 -- [张鑫旭：深入理解CSS中的层叠上下文和层叠顺序](https://www.zhangxinxu.com/wordpress/2016/01/understand-css-stacking-context-order-z-index/)
@@ -49,6 +55,7 @@
 
 ### JS
 
+* 2018.09.18 -- [Detecting scroll direction](https://stackoverflow.com/questions/31223341/detecting-scroll-direction#answer-31223774)
 * 2018.09.13 -- [vue-router history hash 部分代码](https://github.com/vuejs/vue-router/blob/dev/src/history/hash.js)
 * 2018.09.11 -- [省时省力的ES6 -- js hack](https://www.liayal.com/article/5b8dfc9c7368ac07250bd11a)
 * 2018.09.10 -- [onTouchMove!!](https://motion.ant.design/exhibition/demo/list-anim)
@@ -63,6 +70,7 @@
 
 ### React
 
+* 2018.09.18 -- [connected-react-router](https://github.com/supasate/connected-react-router)
 * 2018.09.13 -- [蛋头 Redux](https://egghead.io/browse/libraries/redux)
 * 2018.09.13 -- [react-redux API](https://github.com/reduxjs/react-redux/blob/master/docs/api.md#connectmapstatetoprops-mapdispatchtoprops-mergeprops-options)
 * 2018.09.13 -- [React 实践心得：react-redux 之 connect 方法详解](http://taobaofed.org/blog/2016/08/18/react-redux-connect/)
@@ -79,6 +87,8 @@
 
 ### JS Lib
 
+* 2018.09.20 -- [ace](https://github.com/ajaxorg/ace/)
+* 2018.09.19 -- [marked](https://github.com/markedjs/marked)
 * 2018.09.04 -- [自己写一个类似知乎编辑器的编辑器（2）](https://www.jianshu.com/p/84334ddb6974)
 * 2018.09.04 -- [Draft.js](https://github.com/facebook/draft-js)
 * 2018.09.04 -- [Draft.js 在知乎的实践](https://zhuanlan.zhihu.com/p/24951621)
@@ -100,6 +110,7 @@
 * 2018.08.06 -- [跨域资源下载可更改文件名称方法 相当于说，别忖了](https://z-950.github.io/2017/12/01/%E8%B7%A8%E5%9F%9F%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%8F%AF%E6%9B%B4%E6%94%B9%E6%96%87%E4%BB%B6%E5%90%8D%E7%A7%B0%E6%96%B9%E6%B3%95/)
 * 2018.08.06 -- [文件下载 FileSaver](https://github.com/eligrey/FileSaver.js/)
 * 2018.08.03 -- [文件下载](https://juejin.im/entry/5779d2e60a2b5839375ac162)
+
 
 ### Spider
 
@@ -139,6 +150,12 @@
 
 ### Other
 
+* 2018.09.20 -- [小米 6 刷机 Android 9](http://bbs.xiaomi.cn/t-32386367)
+* 2018.09.19 -- [表弟欠下高利贷，已经丧失偿还能力了，该怎么办。](https://www.v2ex.com/t/490711?p=1#r_6196374)
+* 2018.09.19 -- [从业者视角浅谈网络博彩利益链条](https://zhuanlan.zhihu.com/p/26864192)
+* 2018.09.19 -- [网络赌博有哪些内幕？](https://www.zhihu.com/question/31357977)
+* 2018.09.18 -- [155：“既视感”到底是什么？！](https://www.ximalaya.com/keji/keji/246622/32874817)
+* 2018.09.17 -- [又拍云动态做图：高斯模糊](https://help.upyun.com/knowledge-base/image/#e9ab98e696afe6a8a1e7b38a)
 * 2018.09.12 -- [被埋没的宜家神级产品，很多人只是不知道它到底有多神](https://zhuanlan.zhihu.com/p/44295341)
 * 2018.09.04 -- [联合早报中文网](http://www.uzbzw.com/)
 * 2018.08.28 -- [GraphQL apollo-server 迎来史上最大更新](https://cnodejs.org/topic/5b7cd014a210553a0cde2b12)
@@ -147,11 +164,24 @@
 * 2018.08.10 -- [Some Notes on the Fourth Dimension](http://www.math.union.edu/~dpvc/math/4d/welcome.html)
 * 2018.08.10 -- [如何想象诸如超立方体之类的四维空间物体？](https://www.zhihu.com/question/34629230)
 * 2018.08.10 -- [为什么现在的90后都喜欢熬夜？](https://know.baidu.com/question/a5ce8226a9732cb7ee158cf96df6e0be29749b1)
+* 2018.09.19 -- [Rick and Morty SEASON 2 下载](https://www.gscq.me/thread-2158.htm)
+* 2018.09.17 -- [Rick and Morty SEASON 2](https://www.dailymotion.com/video/x5rrvp5)
 * 2018.09.12 -- [Rick and Morty](https://www.youtube.com/watch?v=h_MLkRy5ePk&index=117&list=PLELGd0AepsKLfBbm7kkTGNjhvd2rkRPwI)
 
 
 ### Read
 
+* 2018.09.18 -- [德国人在中国农村](http://tv.cntv.cn/video/C10359/6f39b2b32a5e4868bc8d8d88337be7b2)
+* 2018.09.18 -- [男友的前女友](https://www.dutype.com/t/topic/116)
+* 2018.09.18 -- [等我们长大就享福了](https://www.dutype.com/t/topic/385/4)
+* 2018.09.18 -- [陪酒女孩请我陪了一次酒](https://www.dutype.com/t/topic/827)
+* 2018.09.18 -- [令我土崩瓦解的采访](https://www.dutype.com/t/topic/239)
+* 2018.09.18 -- [考上北大的农村孩子，过得怎么样？原标题《考上北大，然后呢》](https://www.dutype.com/t/topic/1223/3)
+* 2018.09.18 -- [在一场宿醉里抵达故乡](https://www.dutype.com/t/topic/1102)
+* 2018.09.18 -- [约会（二）](https://www.dutype.com/t/topic/1230/2)
+* 2018.09.18 -- [24周岁零一个月，我开始了一个人的生活。](https://www.dutype.com/t/topic/1220)
+* 2018.09.18 -- [所有人都没多问一句](https://www.dutype.com/t/topic/399)
+* 2018.09.17 -- [如何看待 2017 年 1 月中国外汇储备跌破 3 万亿美元？ - 刘品杰](https://www.zhihu.com/question/55520728/answer/145040164)
 * 2018.09.11 -- [建个“隔断门”，一个校园就能容下两个小学吗？](https://mp.weixin.qq.com/s/bqjwLBQQLwkqWBVSFv1-LA)
 * 2018.09.07 -- [你知道翻白眼是什么意思么？](http://blog.sina.com.cn/s/blog_134e1a9990102wr82.html)
 * 2018.09.04 -- [人民日报海外版环球热点：警惕日本借“威胁”之名威胁世界](http://opinion.people.com.cn/n1/2018/0901/c1003-30265370.html)
@@ -186,12 +216,18 @@
 
 ### Shell
 
-* 2018.08.28 -- [漫画：进击的巨人]()
+* 2018.09.18 -- [一文详解 Linux 系统常用监控工具](https://www.v2ex.com/t/490287#reply34)
 
 
 ### SQL
 
 ### Thinking 思考，业务、工作、技术方面的
+
+### Videos
+
+* 2018.09.19 -- [Step on me to go up the stair](https://gfycat.com/gifs/detail/wholegrotesqueflyingfish)
+* 2018.09.19 -- [When you're the always the cold one in the relationship](https://www.reddit.com/r/aww/comments/9h0728/when_youre_the_always_the_cold_one_in_the/)
+
 
 ### cVim
 
