@@ -37,11 +37,13 @@
 
 ### Electron
 
+* 2018.09.26 -- [Create a simple cross-platform desktop game with Go](https://sausheong.github.io/posts/cross-platform-games-with-go/)
 * 2018.08.13 -- [electron如何将app加入macos右上角的图栏](https://segmentfault.com/q/1010000009973560/a-1020000009974703)
 
 
 ### NodeJS
 
+* 2018.09.25 -- [简单的接收文件上传下载（Express+Multer）](https://www.jianshu.com/p/15423d1b6243)
 * 2018.09.07 -- [深入浅出 Node.js](http://www.infoq.com/cn/search.action?queryString=%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js&page=1&searchOrder=)
 * 2018.09.07 -- [深入浅出Node.js游戏服务器开发--分布式聊天服务器搭建](http://www.infoq.com/cn/articles/game-server-development-2)
 * 2018.09.07 -- [单枪匹马撸个聊天室 fiora](https://github.com/yinxin630/blog/issues/3)
@@ -101,6 +103,10 @@
 
 ### Web
 
+* 2018.09.26 -- [文件上传的渐进式增强](http://www.ruanyifeng.com/blog/2012/08/file_upload.html)
+* 2018.09.26 -- [algolia](https://community.algolia.com/docsearch/)
+* 2018.09.26 -- [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
+* 2018.09.26 -- [跨域 credentials include](https://github.com/pod4g/tool/wiki/%E4%BD%BF%E7%94%A8fetch%E6%97%B6%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98)
 * 2018.08.22 -- [Svg Path Inspector](https://codepen.io/mutoo/pen/JaoMKR)
 * 2018.08.22 -- [Dynamic 3D City](https://codepen.io/joshbader/pen/qMEbQV)
 * 2018.08.13 -- [Github 上一篇 Google Analytics 介绍](https://github.com/sysuzhyupeng/gtm-blog)
@@ -150,6 +156,9 @@
 
 ### Other
 
+* 2018.09.27 -- [牙齿矫正的原理，原来牙套是这样移动的！](https://www.haodf.com/zhuanjiaguandian/zhangshuzhendr_5919310411.htm)
+* 2018.09.26 -- [Building your own CDN for Fun and Profit](https://pasztor.at/blog/building-your-own-cdn)
+* 2018.09.25 -- [角色列表](https://zh.wikipedia.org/wiki/%E7%91%9E%E5%85%8B%E5%92%8C%E8%8E%AB%E8%92%82%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)
 * 2018.09.20 -- [小米 6 刷机 Android 9](http://bbs.xiaomi.cn/t-32386367)
 * 2018.09.19 -- [表弟欠下高利贷，已经丧失偿还能力了，该怎么办。](https://www.v2ex.com/t/490711?p=1#r_6196374)
 * 2018.09.19 -- [从业者视角浅谈网络博彩利益链条](https://zhuanlan.zhihu.com/p/26864192)
@@ -164,9 +173,7 @@
 * 2018.08.10 -- [Some Notes on the Fourth Dimension](http://www.math.union.edu/~dpvc/math/4d/welcome.html)
 * 2018.08.10 -- [如何想象诸如超立方体之类的四维空间物体？](https://www.zhihu.com/question/34629230)
 * 2018.08.10 -- [为什么现在的90后都喜欢熬夜？](https://know.baidu.com/question/a5ce8226a9732cb7ee158cf96df6e0be29749b1)
-* 2018.09.19 -- [Rick and Morty SEASON 2 下载](https://www.gscq.me/thread-2158.htm)
-* 2018.09.17 -- [Rick and Morty SEASON 2](https://www.dailymotion.com/video/x5rrvp5)
-* 2018.09.12 -- [Rick and Morty](https://www.youtube.com/watch?v=h_MLkRy5ePk&index=117&list=PLELGd0AepsKLfBbm7kkTGNjhvd2rkRPwI)
+* 2018.09.25 -- [电波字幕组：Rick and Morty 三季全](http://dbfansub.com/?s=Rick)
 
 
 ### Read
