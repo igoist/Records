@@ -1,4 +1,12 @@
-## Log of my daily life 讲生活，谈心情 2018 年 8 月
+## Log of my daily life 讲生活，谈心情 2018 年 8 月至 2018 年 10 月初
+
+
+# 2018.10.06
+
+<blockquote>
+
+辛苦的时候是辛苦，舒服的时候也舒服
+</blockquote>
 
 
 # 2018.09.28
