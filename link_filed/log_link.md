@@ -41,12 +41,19 @@
 
 ### Webpack
 
+* 2018.10.22 -- [webpack代码分离 ensure 看了还不懂，你打我](https://cnodejs.org/topic/586823335eac96bb04d3e305)
+
+
 ### Linus/Unix Shell
 
 ### Game
 
 ### Other
 
+* 2018.10.24 -- [高度自律是种怎样的体验？](https://www.zhihu.com/question/31170586/answer/486016609)
+* 2018.10.24 -- [层高8米！在北京买这种房子赚翻了，45㎡变出3层楼！](https://zhuanlan.zhihu.com/p/45395824)
+* 2018.10.24 -- [原素系列实木餐桌 胡桃木色售罄。。。](https://you.163.com/item/detail?id=1160001&_stat_area=mod_3_item_62&_stat_id=1005000&_stat_referer=itemList)
+* 2018.10.23 -- [北欧全实木茶几现代简约茶几黑胡桃家具小户型创意茶几](https://item.taobao.com/item.htm?spm=a230r.1.14.275.3c277e00OImgPx&id=528096776139&ns=1&abbucket=19#detail)
 * 2018.10.22 -- [老外用这方法将两块木板拼接，完全看不到接痕，做成桌子超惊艳！](https://3g.163.com/v/video/VC8D691HO.html)
 * 2018.10.19 -- [《女神异闻录5》最强义经合成攻略](http://www.a9vg.com/201704/92329127568.html)
 * 2018.10.19 -- [究极奥义！九艘跳！](http://dq.tieba.com/p/5067534936?pn=1)
@@ -68,6 +75,7 @@
 * 2018.10.11 -- [谈判角力持续，滴滴与ofo的终局何时到来？](http://www.nbd.com.cn/articles/2018-10-11/1261775.html)
 * 2018.10.10 -- [南周知道：年轻人何止不想结婚，有人连恋爱都不想谈了](https://mp.weixin.qq.com/s/5ltAshBwzypiOjOoaw32gQ)
 * 2018.10.22 -- [努努：加西亚·马尔克斯作品集](https://www.kanunu8.com/files/writer/7093.html)
+* 2018.10.26 -- [网易云阅读：马克·吐温作品集 英文原本](https://yuedu.163.com/source/115792816e80464e860a326b0bfad21e_4)
 * 2018.10.22 -- [亦凡公益图书馆：马克·吐温作品集](http://www.shuku.net/novels/foreign/maketuwenzpj/mktw.html)
 * 2018.10.22 -- [梦远书城：欧·亨利作品集](http://www.my285.com/wgwx/zpj/hengli/index.htm)
 
@@ -82,6 +90,19 @@
 
 ### cVim
 
-### VSCode & Sublime & Vim
+### VSCode & Sublime & Vim & Emacs & Spacemacs
+
+* 2018.10.23 -- [emacs 新手必看: undo-tree](https://linuxtoy.org/archives/emacs-undo-tree.html)
+* 2018.10.23 -- [Spacemacs: How do you fold your code?](https://www.reddit.com/r/spacemacs/comments/5nvsty/how_do_you_fold_your_code/)
+* 2018.10.23 -- [Spacemacs](https://github.com/syl20bnr/spacemacs/blob/master/doc/DOCUMENTATION.org)
+
+
+### Clojure & Cljs
+
+* 2018.10.24 -- [clojure docs](https://clojuredocs.org/clojure.core/defn-)
+* 2018.10.24 -- [cljs.info: cheatsheet](http://cljs.info/cheatsheet/)
+* 2018.10.24 -- [cljs.github.io: syntax](https://cljs.github.io/api/syntax/var)
+* 2018.10.24 -- [cljs.github.io: api(http://cljs.github.io/api/)
+
 
 ### 外设
