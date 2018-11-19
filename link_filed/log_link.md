@@ -54,6 +54,8 @@
 
 ### Other
 
+* 2018.11.16 -- [请谨慎打开，这可能是史上最全的Switch LABO骨灰级玩法和脑洞集合（老父亲们需孩子陪同下观看）](https://zhuanlan.zhihu.com/p/47460057)
+* 2018.11.12 -- [美国大兵中的“美国队长”，一分钟54个引体向上创吉尼斯纪录！](https://baijiahao.baidu.com/s?id=1587082926914044619&wfr=spider&for=pc)
 * 2018.11.06 -- [豆瓣小组：无偿献脑](https://www.douban.com/group/autoread/?ref=sidebar)
 * 2018.11.02 -- [一千多？看上去不错嘛：西溪银泰城附近，整租单身公寓，一室一厨一卫。带](https://www.douban.com/group/topic/127153193/)
 * 2018.10.30 -- [Charles 从入门到精通](https://blog.devtang.com/2015/11/14/charles-introduction/)
@@ -69,11 +71,18 @@
 * 2018.10.09 -- [猫鼠游戏](https://www.bilibili.com/read/cv1296953/?spm_id_from=333.334.chief_recommend.1)
 * 2018.11.02 -- [买凶拍人 下载](https://www.dytt789.com/Xijudianying/MXPR/)
 * 2018.10.09 -- [jojo 星尘斗士](http://www.dilidili.wang/watch/9975/)
+* 2018.11.14 -- [有妖气漫画在线：超合金社团](http://www.u17.com/chapter/304451.html#image_id=2180567)
 * 2018.10.08 -- [silisili 进击第三季](http://www.silisili.co/play/1796-13.html)
 
 
 ### Read
 
+* 2018.11.16 -- [“肥宅文化元年”开启：有一种快乐，只属于肥宅](https://www.huxiu.com/article/244327.html?rec=similar)
+* 2018.11.16 -- [为什么秋叶原能在互联网时代“活得更好”？](https://www.huxiu.com/article/246005.html)
+* 2018.11.15 -- [铁打的福原爱，流水的大魔王！爱酱太萌太可爱！](http://blog.sina.com.cn/s/blog_15674d96a0102wlih.html?tj=1)
+* 2018.11.14 -- [房地产下半场，利润从哪里来](https://www.huxiu.com/article/271418.html)
+* 2018.11.14 -- [虎嗅：囤卫生纸的最佳日子](https://www.huxiu.com/article/271500.html)
+* 2018.11.13 -- [世间再无斯坦·李，但超级英雄永存](https://baike.baidu.com/tashuo/browse/content?id=67941b7cbed274e17d42a46f&fr=qingtian&lemmaId=730566)
 * 2018.11.09 -- [儿子，你给我考个零分](https://www.douban.com/group/topic/50909906/)
 * 2018.11.09 -- [韩国前总统卢武铉为什么会自杀？](https://www.zhihu.com/question/20476354/answer/93691924)
 * 2018.11.09 -- [好人是不能在这条路上跑的——草根为王的悲剧](https://www.douban.com/group/topic/61694970/)
@@ -121,6 +130,8 @@
 
 ### VSCode & Sublime & Vim & Emacs & Spacemacs
 
+* 2018.11.13 -- [How can I use Clojurescript to interact with the html DOM?](https://stackoverflow.com/questions/45228474/how-can-i-use-clojurescript-to-interact-with-the-html-dom)
+* 2018.11.13 -- [How to jump from cider-error buffer to the repl buffer?](https://stackoverflow.com/questions/33582524/how-to-jump-from-cider-error-buffer-to-the-repl-buffer)
 * 2018.10.23 -- [emacs 新手必看: undo-tree](https://linuxtoy.org/archives/emacs-undo-tree.html)
 * 2018.10.23 -- [Spacemacs: How do you fold your code?](https://www.reddit.com/r/spacemacs/comments/5nvsty/how_do_you_fold_your_code/)
 * 2018.10.23 -- [Spacemacs](https://github.com/syl20bnr/spacemacs/blob/master/doc/DOCUMENTATION.org)
