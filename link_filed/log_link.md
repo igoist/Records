@@ -19,24 +19,48 @@
 
 ### Electron
 
+* 2018.11.29 -- [electron-react-boilerplate 非 TS，还得自己写，到时候参考下他们](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+* 2018.11.28 -- [Send sync message from IpcMain to IpcRenderer - Electron](https://stackoverflow.com/questions/47597982/send-sync-message-from-ipcmain-to-ipcrenderer-electron#)
+* 2018.11.26 -- [Show and Hide Main Window on Electron](https://stackoverflow.com/questions/42988166/show-and-hide-main-window-on-electron)
+* 2018.11.26 -- [electron-builder](https://github.com/electron-userland/electron-builder#MacOptions-extendInfo)
+* 2018.11.26 -- [Add ability to hide dock icon immediately](https://github.com/electron-userland/electron-builder/issues/1456#issuecomment-293518692)
+* 2018.11.26 -- [Hide dock icon?](https://github.com/electron/electron/issues/422)
+* 2018.11.21 -- [How to re-size electron main window dynamically?](https://discuss.atom.io/t/how-to-re-size-electron-main-window-dynamically/48183)
+
+
 ### NodeJS
+
+* 2018.11.29 -- [如何实现一个 Git Diff 解析器](http://taobaofed.org/blog/2017/05/18/how-to-display-git-diff/)
+* 2018.11.21 -- [readline no end event but close](https://stackoverflow.com/questions/22915794/node-readline-module-does-not-have-an-end-event-how-can-i-do-something-whe)
+
 
 ### JS
 
+* 2018.11.23 -- [js 使用console计算代码运行时间](https://blog.csdn.net/qq_30100043/article/details/77509087)
+* 2018.11.21 -- [js正则匹配小括号中的内容](https://segmentfault.com/q/1010000010032843)
 * 2018.10.08 -- [为jQuery.ajax添加onprogress事件](https://www.cnblogs.com/yiyide266/p/6932250.html)
 
 
 ### TypeScript
 
+* 2018.11.30 -- [Why not use HMR](https://www.npmjs.com/package/react-hot-loader#user-content-typescript)
+
+
 ### React
+
+* 2018.11.29 -- [React 中常见的动画实现方式](https://tech.youzan.com/react-animations/)
+
 
 ### JS Lib
 
 ### Web
 
+* 2018.11.29 -- [Page Transition with Loader](https://codepen.io/johnheiner/pen/JdRybK)
+* 2018.11.28 -- [js 获取页面上选中的文字](https://www.cnblogs.com/silence516/archive/2009/11/03/1595592.html)
+* 2018.11.21 -- [弹幕，是怎样练成的？](https://juejin.im/post/5be54a286fb9a049ae07641b)
+* 2018.11.20 -- [Turn.js: The page flip effect in HTML5](http://www.turnjs.com/#)
 * 2018.11.07 -- [js转义和反转义html](http://www.cnblogs.com/daysme/p/7100553.html)
 * 2018.11.01 -- [H5 直播避坑指南](https://zhuanlan.zhihu.com/p/27690199)
-* 2018.10.23 -- [cljs cheatsheet](http://cljs.info/cheatsheet/)
 * 2018.10.08 -- [XMLHttpRequest.response](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/response)
 * 2018.10.08 -- [file upload with progress bar, client-side image resizing and multiple runtimes](http://christopher5106.github.io/web/2015/12/13/HTML5-file-image-upload-and-resizing-javascript-with-progress-bar.html)
 
@@ -54,6 +78,18 @@
 
 ### Other
 
+* 2018.11.30 -- [动画《血界战线》大量精彩的特效参考](http://bbs.cgwell.com/thread-88779-1-1.html)
+* 2018.11.30 -- [cleardusk/3DDFA](https://github.com/cleardusk/3DDFA)
+* 2018.11.28 -- [有哪些影响力被严重低估的历史事件？ - 司承帅的回答 - 知乎](https://www.zhihu.com/question/35266109/answer/224355290)
+* 2018.11.28 -- [使用百度翻译的API接口](https://www.cnblogs.com/wlphp/p/8406983.html)
+* 2018.11.28 -- [有道翻译API说明文档](http://ai.youdao.com/docs/api.html)
+* 2018.11.28 -- [百度翻译开放平台：管理控制台](http://api.fanyi.baidu.com/api/trans/product/desktop?req=developer)
+* 2018.11.27 -- [有哪些影响力被严重低估的历史事件？](https://www.zhihu.com/question/35266109)
+* 2018.11.27 -- [《如何编写无法维护的代码》](http://blog.jobbole.com/80241/)
+* 2018.11.26 -- [地球档案 —— 世界上最早一批彩色照片](https://zhuanlan.zhihu.com/p/24966691)
+* 2018.11.23 -- [高晶山水画的博客：2017年7月习作](http://blog.sina.com.cn/s/blog_92e1cbc90102yp2a.html)
+* 2018.11.22 -- [豆瓣：黄青蕉读过的书](https://book.douban.com/people/sakimay/collect?start=0&sort=time&rating=all&filter=all&mode=grid)
+* 2018.11.22 -- [豆瓣：头号玩家 Ready Player One (2018)）](https://movie.douban.com/subject/4920389/?from=subject-page)
 * 2018.11.16 -- [请谨慎打开，这可能是史上最全的Switch LABO骨灰级玩法和脑洞集合（老父亲们需孩子陪同下观看）](https://zhuanlan.zhihu.com/p/47460057)
 * 2018.11.12 -- [美国大兵中的“美国队长”，一分钟54个引体向上创吉尼斯纪录！](https://baijiahao.baidu.com/s?id=1587082926914044619&wfr=spider&for=pc)
 * 2018.11.06 -- [豆瓣小组：无偿献脑](https://www.douban.com/group/autoread/?ref=sidebar)
@@ -77,6 +113,14 @@
 
 ### Read
 
+* 2018.12.01 -- [30岁以后为什么很难再交到好朋友？](https://www.sohu.com/a/144728965_696292)
+* 2018.11.28 -- [解谜英语语法](http://www.yinwang.org/blog-cn/2018/11/23/grammar)
+* 2018.11.28 -- [小程序的老祖宗PWA为什么没有火起来？](http://www.sohu.com/a/256913654_108964)
+* 2018.11.27 -- [它们是危机的真正源头，十年后却更大而不倒](https://mp.weixin.qq.com/s/5Z6kdGUGHNSERs-LRjezFQ)
+* 2018.11.26 -- [《炉石传说》主美Ben Thompson分享设计过程](https://mp.weixin.qq.com/s?__biz=MjM5NzM0MTAzMg==&mid=200042760&idx=1&sn=1e16afa0a35b780ed53c90e93b383f67&scene=2&from=timeline&isappinstalled=0#rd)
+* 2018.11.23 -- [我今年大一，可我一点都不慌](https://www.jianshu.com/p/2b7592a0bc00?utm_campaign=maleskine&utm_content=note&utm_medium=pc_all_hots&utm_source=recommendation)
+* 2018.11.23 -- [昔日神童今何在——一次二十八年后的网络搜索实验](https://zhuanlan.zhihu.com/p/26122316)
+* 2018.11.23 -- [见到了一个很有数学才华的小孩](https://zhuanlan.zhihu.com/p/23046662)
 * 2018.11.16 -- [“肥宅文化元年”开启：有一种快乐，只属于肥宅](https://www.huxiu.com/article/244327.html?rec=similar)
 * 2018.11.16 -- [为什么秋叶原能在互联网时代“活得更好”？](https://www.huxiu.com/article/246005.html)
 * 2018.11.15 -- [铁打的福原爱，流水的大魔王！爱酱太萌太可爱！](http://blog.sina.com.cn/s/blog_15674d96a0102wlih.html?tj=1)
@@ -100,6 +144,7 @@
 * 2018.10.11 -- [ofo 的最后时刻](https://www.ifanr.com/1099653)
 * 2018.10.11 -- [谈判角力持续，滴滴与ofo的终局何时到来？](http://www.nbd.com.cn/articles/2018-10-11/1261775.html)
 * 2018.10.10 -- [南周知道：年轻人何止不想结婚，有人连恋爱都不想谈了](https://mp.weixin.qq.com/s/5ltAshBwzypiOjOoaw32gQ)
+* 2018.11.30 -- [青春猪头少年](http://www.shencou.com/books/read_878.html)
 * 2018.10.22 -- [努努：加西亚·马尔克斯作品集](https://www.kanunu8.com/files/writer/7093.html)
 * 2018.10.26 -- [网易云阅读：马克·吐温作品集 英文原本](https://yuedu.163.com/source/115792816e80464e860a326b0bfad21e_4)
 * 2018.10.22 -- [亦凡公益图书馆：马克·吐温作品集](http://www.shuku.net/novels/foreign/maketuwenzpj/mktw.html)
@@ -130,7 +175,6 @@
 
 ### VSCode & Sublime & Vim & Emacs & Spacemacs
 
-* 2018.11.13 -- [How can I use Clojurescript to interact with the html DOM?](https://stackoverflow.com/questions/45228474/how-can-i-use-clojurescript-to-interact-with-the-html-dom)
 * 2018.11.13 -- [How to jump from cider-error buffer to the repl buffer?](https://stackoverflow.com/questions/33582524/how-to-jump-from-cider-error-buffer-to-the-repl-buffer)
 * 2018.10.23 -- [emacs 新手必看: undo-tree](https://linuxtoy.org/archives/emacs-undo-tree.html)
 * 2018.10.23 -- [Spacemacs: How do you fold your code?](https://www.reddit.com/r/spacemacs/comments/5nvsty/how_do_you_fold_your_code/)
@@ -139,6 +183,10 @@
 
 ### Clojure & Cljs
 
+* 2018.11.28 -- [TRANSLATIONS FROM JAVASCRIPT](https://kanaka.github.io/clojurescript/web/synonym.html)
+* 2018.11.28 -- [[译]ClojureScript 中的 JavaScript 互操作](https://segmentfault.com/a/1190000004315183#articleHeader5)
+* 2018.11.28 -- [ClojureScript 入门指南](https://www.bookstack.cn/read/cljs-book/equality.md)
+* 2018.11.13 -- [How can I use Clojurescript to interact with the html DOM?](https://stackoverflow.com/questions/45228474/how-can-i-use-clojurescript-to-interact-with-the-html-dom)
 * 2018.10.24 -- [clojure docs](https://clojuredocs.org/clojure.core/defn-)
 * 2018.10.24 -- [cljs.info: cheatsheet](http://cljs.info/cheatsheet/)
 * 2018.10.24 -- [cljs.github.io: syntax](https://cljs.github.io/api/syntax/var)
