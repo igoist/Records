@@ -1,7 +1,10 @@
-## Record links 2018.10 ~ 2018.0~
+## Record links 2018.10 ~ 2018.12
 
 
 ### Blog
+
+* 2018.12.05 -- [柳智宇博客](http://blog.sina.com.cn/s/blog_66fa33f2010310pd.html)
+
 
 ### Chrome
 
@@ -43,11 +46,16 @@
 
 ### TypeScript
 
+* 2018.12.07 -- [Typescript HMR #89: Cannot find name 'module'](https://github.com/webpack-contrib/webpack-hot-middleware/issues/89)
+* 2018.12.05 -- [Hello React and Typescript](https://charleslbryant.gitbooks.io/hello-react-and-typescript/content/Samples/ComponentBasic.html)
+* 2018.12.03 -- [XXX only refers to a type, but is being used as a value here](https://stackoverflow.com/questions/46703364/why-does-instanceof-in-typescript-give-me-the-error-foo-only-refers-to-a-ty)
+* 2018.11.30 -- [chunliu/typescript-react-hot-reload](https://github.com/chunliu/typescript-react-hot-reload/blob/master/webpack.config.js)
 * 2018.11.30 -- [Why not use HMR](https://www.npmjs.com/package/react-hot-loader#user-content-typescript)
 
 
 ### React
 
+* 2018.12.07 -- [探秘 React Hot Loader](https://zhuanlan.zhihu.com/p/34193549)
 * 2018.11.29 -- [React 中常见的动画实现方式](https://tech.youzan.com/react-animations/)
 
 
@@ -55,6 +63,12 @@
 
 ### Web
 
+* 2018.12.07 -- [前端调试利器 Whistle](https://zhuanlan.zhihu.com/p/47029559)
+* 2018.12.04 -- [Web全屏模式轻松掌握[局部元素全屏展示]](https://juejin.im/post/5c024ea951882548e937f6f5)
+* 2018.12.04 -- [网易云音乐 API](https://zhuanlan.zhihu.com/p/30246788)
+* 2018.12.04 -- [网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)
+* 2018.12.04 -- [Vue全家桶打造自适应 web 音乐播放器](https://juejin.im/post/5afcdc73518825428630b216)
+* 2018.12.04 -- [mmPlayer在线音乐播放器](http://music.mtnhao.com/#/music/search)
 * 2018.11.29 -- [Page Transition with Loader](https://codepen.io/johnheiner/pen/JdRybK)
 * 2018.11.28 -- [js 获取页面上选中的文字](https://www.cnblogs.com/silence516/archive/2009/11/03/1595592.html)
 * 2018.11.21 -- [弹幕，是怎样练成的？](https://juejin.im/post/5be54a286fb9a049ae07641b)
@@ -69,6 +83,7 @@
 
 ### Webpack
 
+* 2018.12.07 -- [babel 升级到7.X采坑总结](https://segmentfault.com/a/1190000016458913)
 * 2018.10.22 -- [webpack代码分离 ensure 看了还不懂，你打我](https://cnodejs.org/topic/586823335eac96bb04d3e305)
 
 
@@ -78,6 +93,9 @@
 
 ### Other
 
+* 2018.12.05 -- [南國哀歌/賴和](https://github.com/handlino/More/blob/master/corpus/laihe.txt)
+* 2018.12.03 -- [Macbook外接2K显示器时，如何开启HiDPI?](https://zhuanlan.zhihu.com/p/36913571)
+* 2018.12.03 -- [把 iPad 变成第二显示器丨Lunna Display](https://zhuanlan.zhihu.com/p/51100616)
 * 2018.11.30 -- [动画《血界战线》大量精彩的特效参考](http://bbs.cgwell.com/thread-88779-1-1.html)
 * 2018.11.30 -- [cleardusk/3DDFA](https://github.com/cleardusk/3DDFA)
 * 2018.11.28 -- [有哪些影响力被严重低估的历史事件？ - 司承帅的回答 - 知乎](https://www.zhihu.com/question/35266109/answer/224355290)
@@ -109,10 +127,17 @@
 * 2018.10.09 -- [jojo 星尘斗士](http://www.dilidili.wang/watch/9975/)
 * 2018.11.14 -- [有妖气漫画在线：超合金社团](http://www.u17.com/chapter/304451.html#image_id=2180567)
 * 2018.10.08 -- [silisili 进击第三季](http://www.silisili.co/play/1796-13.html)
+* 2018.10.08 -- [6wvs](https://pan  baidu.com/share/init?surl=eSe3VJO)
 
 
 ### Read
 
+* 2018.12.10 -- [豆瓣：骆驼祥子](https://book.douban.com/subject/1028693/)
+* 2018.12.07 -- [杭州养犬整顿的谣言与真相](https://mp.weixin.qq.com/s/fcVeGpyun2-7UWfYtAIShA)
+* 2018.12.07 -- [年轻人，不必被“相亲鄙视链”吓坏了](https://mp.weixin.qq.com/s?__biz=MzAxMzA3NDY1OA==&mid=2651656455&idx=1&sn=b81e76270f843d313f843eacf297c7a2&chksm=8051988ab726119c8c30ef7de4fb5c08f44e4d464da0fa6178471454b10ae4c54afa2d0cf9fe&scene=21#wechat_redirect)
+* 2018.12.05 -- [蒋方舟和柳智宇：“天才少年”的两种走向](https://www.douban.com/note/686888287/)
+* 2018.12.05 -- [柳智宇下山](https://mp.weixin.qq.com/s/iJ4COXm-yrhkPJJ6PBGTkg)
+* 2018.12.03 -- [翻滚吧，水瓶君！全日本高中机器人大赛，画风中二，操作高燃](https://zhuanlan.zhihu.com/p/51363170)
 * 2018.12.01 -- [30岁以后为什么很难再交到好朋友？](https://www.sohu.com/a/144728965_696292)
 * 2018.11.28 -- [解谜英语语法](http://www.yinwang.org/blog-cn/2018/11/23/grammar)
 * 2018.11.28 -- [小程序的老祖宗PWA为什么没有火起来？](http://www.sohu.com/a/256913654_108964)
