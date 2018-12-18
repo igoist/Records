@@ -89,10 +89,19 @@
 
 ### Linus/Unix Shell
 
+* 2018.12.13 -- [pbpaste & pbcopy in Mac OS X (or: Terminal + Clipboard = Fun!)](https://langui.sh/2010/11/14/pbpaste-pbcopy-in-mac-os-x-or-terminal-clipboard-fun/detected)
+
+
 ### Game
 
 ### Other
 
+* 2018.12.17 -- [连接美洲和亚洲之间容量最大的海底光缆预计今年完工，由Google和Facebook联手铺设](https://zhuanlan.zhihu.com/p/32675532)
+* 2018.12.14 -- [你从什么时候开始不看《读者》《青年文摘》这类杂志的？ - 欲三更的回答 - 知乎](https://www.zhihu.com/question/55623094/answer/145642446)
+* 2018.12.14 -- [豆瓣：《废都》](https://book.douban.com/subject/1417905/)
+* 2018.12.14 -- [广州馆长掉包亿元名画被捕拘留所里写百余首诗](https://new.qq.com/omn/20181212/20181212A08JHD.html)
+* 2018.12.14 -- [杂志的衰败并不是读者的浅薄，恰恰是年轻人变得深刻了 - 离线的文章 - 知乎](https://zhuanlan.zhihu.com/p/24520763)
+* 2018.12.12 -- [国外最好的Top 10 VPN](https://zhihu.page.tl/)
 * 2018.12.05 -- [南國哀歌/賴和](https://github.com/handlino/More/blob/master/corpus/laihe.txt)
 * 2018.12.03 -- [Macbook外接2K显示器时，如何开启HiDPI?](https://zhuanlan.zhihu.com/p/36913571)
 * 2018.12.03 -- [把 iPad 变成第二显示器丨Lunna Display](https://zhuanlan.zhihu.com/p/51100616)
@@ -132,6 +141,16 @@
 
 ### Read
 
+* 2018.12.17 -- [中产家长焦虑症：你真的敢对孩子说一句"不成功也没关系"？—— 然后去看了《零零后》](http://opinion.jrj.com.cn/2017/01/24063023995119.shtml)
+* 2018.12.17 -- [中国人口面临不可逆转的“三大趋势”](https://wallstreetcn.com/articles/3377953)
+* 2018.12.17 -- [中国出生人口雪崩 大多数人却根本没想太多…… －－ 标题党？](http://opinion.jrj.com.cn/2018/01/24093623996570.shtml)
+* 2018.12.17 -- [从三星“退”与“进”管窥中国产业转型：“人口红利”渐退 “工程师红利”兴起](http://www.xinhuanet.com/fortune/2018-12/17/c_1123861350.htm)
+* 2018.12.14 -- [她吻住我的时候，我笑场了](https://www.dutype.com/t/topic/1264)
+* 2018.12.14 -- [唐太宗李世民死后，儿子李治是如何对待老爹的15位漂亮妃子的？](https://www.wukong.com/question/6627806580924481796/)
+* 2018.12.14 -- [25倍稀释股权，蘑菇街员工“财富自由梦”破灭](https://www.jiemian.com/article/2703824.html)
+* 2018.12.14 -- [央视解读12岁少年弑母案：送到工读学校是最好的选择](https://www.jiemian.com/article/2706209.html)
+* 2018.12.12 -- [蘑菇街被指稀释股权，老员工期权不如别人年终奖，已有员工提离职](https://36kr.com/p/5166590.html)
+* 2018.12.11 -- [拍好四大名著有多难？87版红楼梦曾险被叫停](https://mp.weixin.qq.com/s/vNhE-rLuCYaBKe9drUA-HQ)
 * 2018.12.10 -- [豆瓣：骆驼祥子](https://book.douban.com/subject/1028693/)
 * 2018.12.07 -- [杭州养犬整顿的谣言与真相](https://mp.weixin.qq.com/s/fcVeGpyun2-7UWfYtAIShA)
 * 2018.12.07 -- [年轻人，不必被“相亲鄙视链”吓坏了](https://mp.weixin.qq.com/s?__biz=MzAxMzA3NDY1OA==&mid=2651656455&idx=1&sn=b81e76270f843d313f843eacf297c7a2&chksm=8051988ab726119c8c30ef7de4fb5c08f44e4d464da0fa6178471454b10ae4c54afa2d0cf9fe&scene=21#wechat_redirect)
