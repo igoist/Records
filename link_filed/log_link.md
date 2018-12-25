@@ -16,6 +16,9 @@
 
 ### CSS
 
+* 2018.12.19 -- [管理Sass项目文件结构](https://www.w3cplus.com/preprocessor/architecture-sass-project.html)
+* 2018.12.19 -- [组织你的Sass文件](https://www.w3cplus.com/preprocessor/organize-your-sass-files.html)
+* 2018.12.19 -- [sass揭秘之变量](https://www.w3cplus.com/preprocessor/sass-basic-variable.html)
 * 2018.10.16 -- [深入了解CSS字体度量，行高和vertical-align](https://www.w3cplus.com/css/css-font-metrics-line-height-and-vertical-align.html)
 * 2018.10.16 -- [字号与行高](https://zhuanlan.zhihu.com/p/27381252)
 
@@ -33,6 +36,8 @@
 
 ### NodeJS
 
+* 2018.12.20 -- [Execute a command line binary with Node.js](https://stackoverflow.com/questions/20643470/execute-a-command-line-binary-with-node-js)
+* 2018.12.20 -- [Copy to clipboard in Node.js?](https://stackoverflow.com/questions/7778539/copy-to-clipboard-in-node-js)
 * 2018.11.29 -- [如何实现一个 Git Diff 解析器](http://taobaofed.org/blog/2017/05/18/how-to-display-git-diff/)
 * 2018.11.21 -- [readline no end event but close](https://stackoverflow.com/questions/22915794/node-readline-module-does-not-have-an-end-event-how-can-i-do-something-whe)
 
@@ -46,6 +51,7 @@
 
 ### TypeScript
 
+* 2018.12.19 -- [Webpack resolve.alias does not work with typescript?](https://stackoverflow.com/questions/40443806/webpack-resolve-alias-does-not-work-with-typescript)
 * 2018.12.07 -- [Typescript HMR #89: Cannot find name 'module'](https://github.com/webpack-contrib/webpack-hot-middleware/issues/89)
 * 2018.12.05 -- [Hello React and Typescript](https://charleslbryant.gitbooks.io/hello-react-and-typescript/content/Samples/ComponentBasic.html)
 * 2018.12.03 -- [XXX only refers to a type, but is being used as a value here](https://stackoverflow.com/questions/46703364/why-does-instanceof-in-typescript-give-me-the-error-foo-only-refers-to-a-ty)
@@ -55,6 +61,7 @@
 
 ### React
 
+* 2018.12.24 -- [打造高可靠与高性能的React同构解决方案](http://www.aliued.com/?p=4139)
 * 2018.12.07 -- [探秘 React Hot Loader](https://zhuanlan.zhihu.com/p/34193549)
 * 2018.11.29 -- [React 中常见的动画实现方式](https://tech.youzan.com/react-animations/)
 
@@ -96,6 +103,7 @@
 
 ### Other
 
+* 2018.12.21 -- [美剧《迷失》（Lost）到底讲的是什么？](https://www.zhihu.com/question/19614614/answer/36115701)
 * 2018.12.17 -- [连接美洲和亚洲之间容量最大的海底光缆预计今年完工，由Google和Facebook联手铺设](https://zhuanlan.zhihu.com/p/32675532)
 * 2018.12.14 -- [你从什么时候开始不看《读者》《青年文摘》这类杂志的？ - 欲三更的回答 - 知乎](https://www.zhihu.com/question/55623094/answer/145642446)
 * 2018.12.14 -- [豆瓣：《废都》](https://book.douban.com/subject/1417905/)
@@ -136,11 +144,20 @@
 * 2018.10.09 -- [jojo 星尘斗士](http://www.dilidili.wang/watch/9975/)
 * 2018.11.14 -- [有妖气漫画在线：超合金社团](http://www.u17.com/chapter/304451.html#image_id=2180567)
 * 2018.10.08 -- [silisili 进击第三季](http://www.silisili.co/play/1796-13.html)
+* 2018.12.22 -- [刀剑神域第二季480P](https://www.dytt789.com/Anime/DJSYDEJ/)
+* 2018.12.20 -- [幻界战线 Only A Paper Moon](http://fifthmoon.lofter.com/post/1d067983_8920fd7)
+* 2018.12.20 -- [幻界战线 Only A Paper Moon](https://jump2.bdimg.com/p/4118562728)
 * 2018.10.08 -- [6wvs](https://pan  baidu.com/share/init?surl=eSe3VJO)
 
 
 ### Read
 
+* 2018.12.24 -- [初恋的初恋](https://www.dutype.com/t/topic/847/2)
+* 2018.12.24 -- [董洁微博里的潘粤明，其实她只是这样的女孩](https://zhuanlan.zhihu.com/p/32415257)
+* 2018.12.20 -- [不会算账的赛车手不是好戴威](https://wallstreetcn.com/articles/3453827)
+* 2018.12.19 -- [迟到五年，它依然是中国最锋利的青春片](https://mp.weixin.qq.com/s/cafqK8CT-8NAQEiPZg-fxw)
+* 2018.12.19 -- [上线一年，如何评价知乎 Live 这个产品？](https://www.qdaily.com/articles/40592.html)
+* 2018.12.18 -- [ofo前员工复盘：戴威和他的“死亡推论”](https://m.pedaily.cn/news/438326)
 * 2018.12.17 -- [中产家长焦虑症：你真的敢对孩子说一句"不成功也没关系"？—— 然后去看了《零零后》](http://opinion.jrj.com.cn/2017/01/24063023995119.shtml)
 * 2018.12.17 -- [中国人口面临不可逆转的“三大趋势”](https://wallstreetcn.com/articles/3377953)
 * 2018.12.17 -- [中国出生人口雪崩 大多数人却根本没想太多…… －－ 标题党？](http://opinion.jrj.com.cn/2018/01/24093623996570.shtml)
@@ -206,6 +223,9 @@
 
 ### Shell
 
+* 2018.12.18 -- [每天一个linux命令（61）：wget命令](http://www.cnblogs.com/peida/archive/2013/03/18/2965369.html)
+* 2018.12.18 -- [wc 统计指定文件中的行数、字数、字节数 -lcw](https://www.cnblogs.com/blogoflee/archive/2012/02/10/2344939.html)
+* 2018.12.18 -- [find ./src -name '*.rs' | xargs cat | wc -l 一句shell命令搞定代码行数统计](https://hittyt.iteye.com/blog/1700584)
 * 2018.11.01 -- [手把手教你使用nodejs编写cli(命令行)](https://juejin.im/post/5bd90d3ce51d4579362b0390)
 
 
