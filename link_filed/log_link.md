@@ -16,6 +16,7 @@
 
 ### CSS
 
+* 2018.12.25 -- [CSS媒体查询](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Media_queries)
 * 2018.12.19 -- [管理Sass项目文件结构](https://www.w3cplus.com/preprocessor/architecture-sass-project.html)
 * 2018.12.19 -- [组织你的Sass文件](https://www.w3cplus.com/preprocessor/organize-your-sass-files.html)
 * 2018.12.19 -- [sass揭秘之变量](https://www.w3cplus.com/preprocessor/sass-basic-variable.html)
@@ -103,6 +104,8 @@
 
 ### Other
 
+* 2018.12.29 -- [全国各省同学眼中的中国地图，太形象太扎心了](https://wallstreetcn.com/articles/3393952)
+* 2018.12.25 -- [Christmas easter egg 偏右还是谁造成的翻车？](https://github.com/ant-design/ant-design/issues/13098)
 * 2018.12.21 -- [美剧《迷失》（Lost）到底讲的是什么？](https://www.zhihu.com/question/19614614/answer/36115701)
 * 2018.12.17 -- [连接美洲和亚洲之间容量最大的海底光缆预计今年完工，由Google和Facebook联手铺设](https://zhuanlan.zhihu.com/p/32675532)
 * 2018.12.14 -- [你从什么时候开始不看《读者》《青年文摘》这类杂志的？ - 欲三更的回答 - 知乎](https://www.zhihu.com/question/55623094/answer/145642446)
@@ -152,6 +155,18 @@
 
 ### Read
 
+* 2018.12.29 -- [被拐真的逃不出来！与人贩子村的真实经历！女生注意！－－ 转自天涯](https://tieba.baidu.com/p/4835915706?pn=1)
+* 2018.12.26 -- [很多人对中国经济的判断过于悲观了 －－ 马光远老师？](http://www.sohu.com/a/284539368_114988?scm=0.0.0.0)
+* 2018.12.26 -- [娶一个特别漂亮的老婆是什么体验？网友：天天怕被戴了绿帽子](https://baijiahao.baidu.com/s?id=1608289885929554472&wfr=spider&for=pc)
+* 2018.12.26 -- [转《台湾一高人精辟分析中美博弈：美国大局已定！》－－ 总归还是很有道理吧](https://weibo.com/ttarticle/p/show?id=2309404315978933603706#related)
+* 2018.12.26 -- [美媒：中国经济体量增加，美将首次面对同等经济超级大国](http://www.sohu.com/a/216664828_788379)
+* 2018.12.26 -- [特朗普为何对贸易战前景有着迷之自信？](https://weibo.com/ttarticle/p/show?id=2309404286045981169758#related)
+* 2018.12.26 -- [美国大学教授：清华、北大、浙大是三流大学 －－ 说得挺好的](https://weibo.com/ttarticle/p/show?id=2309404293961551344488#related)
+* 2018.12.26 -- [才没几个字，好短啊：一名大学毕业生的反思](http://hongdou.gxnews.com.cn/viewthread-16216136.html?page=1)
+* 2018.12.26 -- [高琨：教育就要培养敢于挑战权威，能够独立思考的年轻人](https://weibo.com/ttarticle/p/show?id=2309404290947495114751#related)
+* 2018.12.26 -- [张五常：最近的一点想法](https://weibo.com/ttarticle/p/show?id=2309352000054314258170093947&u=1980337107&m=4314260010294605&cu=3655689037)
+* 2018.12.25 -- [狗娃子天一被判十年事件的一些感想](https://zhuanlan.zhihu.com/p/50720973)
+* 2018.12.25 -- [2018年重庆万州公交车坠江事故 —— 特地看了下后续](https://zh.wikipedia.org/wiki/2018%E5%B9%B4%E9%87%8D%E5%BA%86%E4%B8%87%E5%B7%9E%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%9D%A0%E6%B1%9F%E4%BA%8B%E6%95%85)
 * 2018.12.24 -- [初恋的初恋](https://www.dutype.com/t/topic/847/2)
 * 2018.12.24 -- [董洁微博里的潘粤明，其实她只是这样的女孩](https://zhuanlan.zhihu.com/p/32415257)
 * 2018.12.20 -- [不会算账的赛车手不是好戴威](https://wallstreetcn.com/articles/3453827)
