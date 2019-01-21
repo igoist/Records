@@ -1,13 +1,29 @@
 ## Record links 2018.10 ~ 2018.12
 
 
+### Specical
+
+* 2019.01.16 -- [electron 的一个截图插件工具](https://cnodejs.org/topic/5a60b106afa0a121784a8d72)
+* 2019.01.16 -- [用electron开发了一个屏幕截图工具](https://juejin.im/post/59fddda56fb9a0452a3bb182)
+* 2019.01.16 -- [利用 Electron 开发快速截图工具（一）](https://github.com/YIXUNFE/blog/issues/64)
+* 2019.01.16 -- [设计导航](https://www.seeseed.com/)
+* 2019.01.16 -- [设计导航](http://eua.design/)
+* 2019.01.16 -- [关键字：拾](https://segmentfault.com/a/1190000005994196)
+* 2019.01.17 -- [Mac中的Shadowsocks客户端](https://crifan.github.io/scientific_network_summary/website/server_client_mode/ss_client/client_mac.html)
+
+
 ### Blog
 
+* 2019.01.16 -- [某运维的知识库](https://wiki2.xbits.net:4430/)
+* 2019.01.15 -- [Randy Lu](https://lutaonan.com/)
+* 2019.01.15 -- [大概就是国外的“v2”吧?](https://news.ycombinator.com/)
 * 2018.12.05 -- [柳智宇博客](http://blog.sina.com.cn/s/blog_66fa33f2010310pd.html)
 
 
 ### Chrome
 
+* 2019.01.02 -- [Change Placeholder Color](https://www.w3schools.com/howto/howto_css_placeholder.asp)
+* 2019.01.02 -- [<textarea>标签怎么控制只能上下拖动不能左右拖动？](https://segmentfault.com/q/1010000008610627/a-1020000008611627)
 * 2018.11.05 -- [Tell Chrome Developer Tools to use a dark theme](https://howchoo.com/g/mtu3mwu5mdg/tell-chrome-developer-tools-to-use-a-dark-theme)
 * 2018.10.31 -- [Remove margin in Chrome browser action popup](https://stackoverflow.com/questions/8393227/remove-margin-in-chrome-browser-action-popup)
 * 2018.10.19 -- [Chrome Extension Privacy](https://developer.chrome.com/webstore/program_policies)
@@ -16,6 +32,9 @@
 
 ### CSS
 
+* 2019.01.15 -- [thanks to ButtonConcept](http://localhost/~egoist/Web/goods/SplitingDemos/ButtonConcept/)
+* 2019.01.04 -- [Can the :not() pseudo-class have multiple arguments?](https://stackoverflow.com/questions/5684160/can-the-not-pseudo-class-have-multiple-arguments)
+* 2019.01.04 -- [:not(s/selector)](https://css-tricks.com/almanac/selectors/n/not/)
 * 2018.12.25 -- [CSS媒体查询](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Media_queries)
 * 2018.12.19 -- [管理Sass项目文件结构](https://www.w3cplus.com/preprocessor/architecture-sass-project.html)
 * 2018.12.19 -- [组织你的Sass文件](https://www.w3cplus.com/preprocessor/organize-your-sass-files.html)
@@ -37,6 +56,8 @@
 
 ### NodeJS
 
+* 2019.01.15 -- [单枪匹马撸个聊天室, 支持Web/Android/iOS三端](https://github.com/yinxin630/blog/issues/3)
+* 2019.01.11 -- [robotjs](https://www.npmjs.com/package/robotjs)
 * 2018.12.20 -- [Execute a command line binary with Node.js](https://stackoverflow.com/questions/20643470/execute-a-command-line-binary-with-node-js)
 * 2018.12.20 -- [Copy to clipboard in Node.js?](https://stackoverflow.com/questions/7778539/copy-to-clipboard-in-node-js)
 * 2018.11.29 -- [如何实现一个 Git Diff 解析器](http://taobaofed.org/blog/2017/05/18/how-to-display-git-diff/)
@@ -62,6 +83,8 @@
 
 ### React
 
+* 2019.01.10 -- [react-router-dom 的 HashRouter 也就这么回事儿](https://juejin.im/post/5ac6f4a7f265da237314b08c)
+* 2019.01.02 -- [怎样将props传递给{this.props.children}](http://webfuse.cn/2016/04/26/%E6%80%8E%E6%A0%B7%E5%B0%86props%E4%BC%A0%E9%80%92%E7%BB%99-this-props-children/)
 * 2018.12.24 -- [打造高可靠与高性能的React同构解决方案](http://www.aliued.com/?p=4139)
 * 2018.12.07 -- [探秘 React Hot Loader](https://zhuanlan.zhihu.com/p/34193549)
 * 2018.11.29 -- [React 中常见的动画实现方式](https://tech.youzan.com/react-animations/)
@@ -91,12 +114,20 @@
 
 ### Webpack
 
+* 2019.01.14 -- [Cannot use chunkhash for chunk in '[name].[chunkhash].js'](https://stackoverflow.com/questions/50217480/cannot-use-chunkhash-or-contenthash-for-chunk-in-name-chunkhash-js-us)
+* 2019.01.11 -- [Webpack 4 配置最佳实践](https://zxc0328.github.io/2018/06/19/webpack-4-config-best-practices/)
+* 2019.01.11 -- [webpack 4: Code Splitting, chunk graph and the splitChunks optimization](https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366)
+* 2019.01.11 -- [webpack配置详细注释](https://www.jianshu.com/p/0bd6d0df79fb)
+* 2019.01.11 -- [webpack增量打包多页应用](https://juejin.im/post/5a63f082f265da3e303c95cc)
 * 2018.12.07 -- [babel 升级到7.X采坑总结](https://segmentfault.com/a/1190000016458913)
 * 2018.10.22 -- [webpack代码分离 ensure 看了还不懂，你打我](https://cnodejs.org/topic/586823335eac96bb04d3e305)
 
 
 ### Linus/Unix Shell
 
+* 2019.01.11 -- [...](https://www.npmjs.com/package/robotjs)
+* 2019.01.11 -- [获得屏幕上的像素](http://www.cocoachina.com/industry/20130813/6781.html)
+* 2019.01.11 -- [How to read the Color of a Screen Pixel](https://stackoverflow.com/questions/1483928/how-to-read-the-color-of-a-screen-pixel)
 * 2018.12.13 -- [pbpaste & pbcopy in Mac OS X (or: Terminal + Clipboard = Fun!)](https://langui.sh/2010/11/14/pbpaste-pbcopy-in-mac-os-x-or-terminal-clipboard-fun/detected)
 
 
@@ -104,6 +135,16 @@
 
 ### Other
 
+* 2019.01.16 -- [拆迁维权，又多了一条途径！](https://zhuanlan.zhihu.com/p/36719040)
+* 2019.01.15 -- [GitLab Runner FAQ](https://docs.gitlab.com/runner/faq/README.html#what-does-coordinator-mean)
+* 2019.01.15 -- [docker 容器名称冲突问题解决](https://www.jianshu.com/p/26f10054af50)
+* 2019.01.14 -- [DNF春节副本白送一套95史诗？](https://kuaibao.qq.com/s/20190111A15D6Y00)
+* 2019.01.10 -- [一天一件艺术品：有大松树的圣维克多山·塞尚](http://onearteveryday.com/blog/mont-sainte-victoire-by-paul-cezanne/)
+* 2019.01.10 -- [伦勃朗经典作品高清全集（269张）](http://art.ifeng.com/2015/1217/2653079.shtml)
+* 2019.01.10 -- [跟老外们的笑点估计很多时候还是不大一样](https://www.reddit.com/r/funny/comments/aebp7d/perfectly_calculated/)
+* 2019.01.07 -- [DNF：超时空团本大改版，即将变成普通地图](https://kknews.cc/zh-cn/game/pk96mlz.html)
+* 2019.01.07 -- [DNF：超时空团本大改版，即将变成普通地图](http://bbs.17173.com/thread-11058087-1-1.html)
+* 2019.01.07 -- [DNF：制作A套不迷路，分析帝国竞技场的副本设定与机制- 哔哩哔哩](https://www.bilibili.com/read/cv1330363/)
 * 2018.12.29 -- [全国各省同学眼中的中国地图，太形象太扎心了](https://wallstreetcn.com/articles/3393952)
 * 2018.12.25 -- [Christmas easter egg 偏右还是谁造成的翻车？](https://github.com/ant-design/ant-design/issues/13098)
 * 2018.12.21 -- [美剧《迷失》（Lost）到底讲的是什么？](https://www.zhihu.com/question/19614614/answer/36115701)
@@ -155,6 +196,10 @@
 
 ### Read
 
+* 2019.01.15 -- [科学的方法， 公正的态度，果断的决心——竺可桢](https://www.jianshu.com/p/37e022fa5f34)
+* 2019.01.10 -- [爱情，或者八千里路云和月](https://zhuanlan.zhihu.com/p/52938566)
+* 2019.01.10 -- [不总结2018，不许愿2019，你本来就可以很快乐呀！](https://zhuanlan.zhihu.com/p/53726527)
+* 2019.01.07 -- [大二被父母逼谈恋爱，我毕业直接裸婚，他们知道后给我打来2000块](http://wemedia.ifeng.com/74175171/wemedia.shtml)
 * 2018.12.29 -- [被拐真的逃不出来！与人贩子村的真实经历！女生注意！－－ 转自天涯](https://tieba.baidu.com/p/4835915706?pn=1)
 * 2018.12.26 -- [很多人对中国经济的判断过于悲观了 －－ 马光远老师？](http://www.sohu.com/a/284539368_114988?scm=0.0.0.0)
 * 2018.12.26 -- [娶一个特别漂亮的老婆是什么体验？网友：天天怕被戴了绿帽子](https://baijiahao.baidu.com/s?id=1608289885929554472&wfr=spider&for=pc)
