@@ -22,6 +22,7 @@
 
 ### Blog
 
+* 2019.06.06 -- [goreliu: Zsh 开发指南](https://github.com/goreliu/zshguide)
 * 2019.03.01 -- [唐霜](https://www.tangshuang.net/)
 
 
@@ -33,6 +34,7 @@
 
 ### CSS
 
+* 2019.05.24 -- [Combine :after with :hover](https://stackoverflow.com/questions/13233991/combine-after-with-hover)
 * 2019.03.13 -- [怎麽把＂滚动条＂隐藏？](https://juejin.im/post/5a6046dbf265da3e253c3534)
 * 2019.03.13 -- [css scrollbar样式设置](https://segmentfault.com/a/1190000012800450)
 
@@ -44,11 +46,13 @@
 
 ### NodeJS
 
+* 2019.05.13 -- [doT 模板](https://zhuanlan.zhihu.com/p/26097047)
 * 2019.02.20 -- [Apple System: Error: ENFILE: file table overflow](https://www.jianshu.com/p/45926a52fce8)
 
 
 ### JS
 
+* 2019.05.15 -- [deepcopy](https://www.npmjs.com/package/deepcopy)
 * 2019.04.18 -- [Understanding save() and restore() for the Canvas Context](https://html5.litten.com/understanding-save-and-restore-for-the-canvas-context/)
 * 2019.03.25 -- [拯救尴尬：鉴黄神器 NSFW JS 开源了！](https://www.infoq.cn/article/Ie-5phk7ZWJC2IY0Or1J)
 * 2019.03.21 -- [如何自动搞定全站图片的 alt 属性？](https://www.infoq.cn/article/5TWBvB1GaPIKttQTs-fg)
@@ -82,9 +86,20 @@
 
 ### Game
 
-http://pinban.com/pins/1326873645/event
+* 2019.06.06 -- [游戏达人比价网](https://www.yxdr.com/)
+* 2019.06.04 -- [过 DNF TP 驱动保护（一）](https://www.cnblogs.com/BoyXiao/archive/2012/06/09/2542831.html)
+* 2019.05.24 -- [剑鬼輸出思路](https://kknews.cc/zh-hk/game/mjl4ba2.html)
+* 2019.05.23 -- [剑鬼加点](http://dnf.duowan.com/1905/422484057677.html)
+* 2019.05.21 -- [塞尔达气宗盾反](https://www.bilibili.com/video/av23668636/?spm_id_from=333.788.videocard.18)
+* 2019.05.13 -- [塞尔达御树飞行，圈养人马](https://www.bilibili.com/video/av20608112/?share_source=copy_link&ts=1522156765&share_medium=iphone&bbid=ee8c62510ffa37c478330fd60b0d4932)
+* 2019.04.10 -- [《塞尔达传说：旷野之息》新手入门的不完全攻略（下）](https://www.bilibili.com/read/cv196898/)
+
+
 ### Other
 
+* 2019.06.05 -- [在线 dos 游戏](https://dos.zczc.cz/)
+* 2019.05.27 -- [徐锦江回应撞脸海王：我们很像但他身材更好](http://ent.163.com/18/1217/09/E37IDQN000038FO9.html)
+* 2019.05.23 -- [王境泽、为所欲为、窃格拉瓦动图在线生成器](https://fabiaoqing.com/generator/wangjingze)
 * 2019.05.10 -- [【AI换脸】典明穿品如衣吃樱桃，卖鱼强说出你好骚啊！](https://www.bilibili.com/video/av50507648?from=search&seid=670217901893586504)
 * 2019.05.09 -- [有人用定格动画为蔬果们做了一次“核磁”](https://www.gcores.com/articles/106882)
 * 2019.05.09 -- [鸡你太美，他用800张照片做了一个会唱、跳、打篮球的高达](https://www.gcores.com/articles/108871)
@@ -111,12 +126,16 @@ http://pinban.com/pins/1326873645/event
 * 2019.02.11 -- [大伟哥：我要圆梦！米哈游宣布新作将是PS4游戏](http://www.gamelook.com.cn/2019/01/348022)
 * 2019.02.11 -- [Nexon收购战升温 腾讯领先，对韩游戏行业影响力渐增](http://tech.ifeng.com/a/20190202/45305462_0.shtml)
 * 2019.03.06 -- [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg/)
-* 2019.04.10 -- [《塞尔达传说：旷野之息》新手入门的不完全攻略（下）](https://www.bilibili.com/read/cv196898/)
+* 2019.05.27 -- [信号 langiS](https://yun.baidu.com/s/1o86hIoa?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=#list/path=%2Fsharelink369384723-1124673857293841%2F%E4%BF%A1%E5%8F%B7%20%E9%9F%A9%E5%89%A7&parentPath=%2Fsharelink369384723-1124673857293841)
+* 2019.05.27 -- [Youtube 半泽直树](https://www.youtube.com/watch?v=E6SffWDt4wk&list=PLD_tzx_5cFP8riOk5ESfhYbe6Oitl0c5A&index=4)
+* 2019.05.16 -- [游戏王GX合集](https://www.bilibili.com/video/av45011499?spm_id_from=333.334.b_62696c695f62616e67756d69.66)
 * 2019.04.30 -- [权利的游戏第八季](https://www.ttkmj.net/a/6526)
 
 
 ### Read
 
+* 2019.06.05 -- [北大弑母案](http://news.chinaxiaokang.com/dujiazhuangao/20190514/687161_1.html)
+* 2019.05.17 -- [怎么评价姜文参与的这两集《圆桌讲究派》尤其第二集？](https://www.zhihu.com/question/285024198)
 * 2019.03.29 -- [[电影评论]论阿纳金如何堕入黑暗势力](https://movie.douban.com/review/1790136/)
 * 2019.03.25 -- [尤雨溪回应：Vue 与 TypeScript 为什么相性特别差？](https://www.infoq.cn/article/yP1D_fUMo5vmIm55g2xO)
 * 2019.03.21 -- [狼叔：2019 年大前端技术趋势深度解读](https://www.infoq.cn/article/K_RFbwfff5MugJXixYDQ)
