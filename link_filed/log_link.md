@@ -22,18 +22,25 @@
 
 ### Blog
 
+* 2019.06.20 -- [姜小白](https://www.douban.com/people/bdleizi/)
+* 2019.06.17 -- [岁月如歌](https://lifesinger.wordpress.com/)
 * 2019.06.06 -- [goreliu: Zsh 开发指南](https://github.com/goreliu/zshguide)
 * 2019.03.01 -- [唐霜](https://www.tangshuang.net/)
 
 
 ### Chrome
 
+* 2019.06.17 -- [以用户为中心的性能指标](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics?hl=zh-cn)
+* 2019.06.17 -- [How do DCL and FCP affect SEO? | Web performance metrics](https://www.cloudflare.com/learning/performance/how-dcl-and-fcp-affect-seo/)
 * 2019.04.24 -- [oh-my-cookie](https://github.com/llqi/oh-my-cookie)
 * 2019.04.10 -- [Chrome 屏幕分享：Screen capture in Google Chrome](https://www.twilio.com/blog/2017/10/screen-capture-in-google-chrome.html)
 
 
 ### CSS
 
+* 2019.06.11 -- [sass](https://sass-lang.com/documentation/at-rules/mixin)
+* 2019.06.11 -- [less 中文网](http://lesscss.cn/)
+* 2019.06.11 -- [谈谈CSS预处理器](https://segmentfault.com/a/1190000007703309)
 * 2019.05.24 -- [Combine :after with :hover](https://stackoverflow.com/questions/13233991/combine-after-with-hover)
 * 2019.03.13 -- [怎麽把＂滚动条＂隐藏？](https://juejin.im/post/5a6046dbf265da3e253c3534)
 * 2019.03.13 -- [css scrollbar样式设置](https://segmentfault.com/a/1190000012800450)
@@ -44,14 +51,20 @@
 * 2019.04.12 -- [使用Electron开发桌面吸色工具的心路历程](https://zhuanlan.zhihu.com/p/61661313)
 * 2019.04.09 -- [Electron调用原生模块-截图方案优化](https://www.jianshu.com/p/ce177ca6a43a)
 
+
 ### NodeJS
 
+* 2019.06.18 -- [How do I move files in node.js?](https://stackoverflow.com/questions/8579055/how-do-i-move-files-in-node-js)
+* 2019.06.14 -- [koa + socket.io 制作简易聊天室](http://www.alloyteam.com/2015/04/koa-socket-io-zhi-zuo-jian-yi-liao-tian-shi/)
+* 2019.06.13 -- [stateofjs](https://2018.stateofjs.com/back-end-frameworks/overview/)
+* 2019.06.13 -- [全面理解 koa-router#38](https://github.com/zhangxiang958/zhangxiang958.github.io/issues/38)
 * 2019.05.13 -- [doT 模板](https://zhuanlan.zhihu.com/p/26097047)
 * 2019.02.20 -- [Apple System: Error: ENFILE: file table overflow](https://www.jianshu.com/p/45926a52fce8)
 
 
 ### JS
 
+* 2019.06.20 -- [Regex](https://regexr.com/39o0i)
 * 2019.05.15 -- [deepcopy](https://www.npmjs.com/package/deepcopy)
 * 2019.04.18 -- [Understanding save() and restore() for the Canvas Context](https://html5.litten.com/understanding-save-and-restore-for-the-canvas-context/)
 * 2019.03.25 -- [拯救尴尬：鉴黄神器 NSFW JS 开源了！](https://www.infoq.cn/article/Ie-5phk7ZWJC2IY0Or1J)
@@ -64,8 +77,17 @@
 
 ### TypeScript
 
+* 2019.06.14 -- [旧项目TypeScript改造问题与解决方案记](https://segmentfault.com/a/1190000015747038)
+
 
 ### React
+
+* 2019.06.17 -- [Sandbox](https://codesandbox.io/s/romantic-lamport-ej5zp)
+* 2019.06.21 -- [Replace lifecycle with hooks in React](https://dev.to/trentyang/replace-lifecycle-with-hooks-in-react-3d4n)
+* 2019.06.14 -- [React hooks实践](https://juejin.im/post/5c4d7122e51d4556940c15cb)
+* 2019.06.14 -- [Hooks 时代的 React 状态管理方案](https://zhuanlan.zhihu.com/p/68434464)
+* 2019.06.14 -- [React Hooks 自去年 10 月发布以来，社区和国内外团队的接受程度如何？](https://www.zhihu.com/question/327685582)
+* 2019.06.11 -- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 
 
 ### JS Lib
@@ -73,12 +95,16 @@
 
 ### Web
 
+* 2019.06.11 -- [前端路由跳转基本原理](https://juejin.im/post/5c52da9ee51d45221f242804)
 * 2019.02.20 -- [PV、UV、IP区别](https://www.jianshu.com/p/2d713fea5d15)
+
 
 ### Spider
 
 
 ### Webpack
+
+* 2019.06.11 -- [我是如何用webpack对项目进行性能优化的](http://shangchengshuai.cn/articleDetail?article_id=5c88c671d7a05643d4b83cc0)
 
 
 ### Linus/Unix Shell
@@ -97,6 +123,9 @@
 
 ### Other
 
+* 2019.06.19 -- [红眼打桩顺序参考](https://bbs.colg.cn/thread-7561052-1-1.html)
+* 2019.06.14 -- [关键词：Alan Kay](https://www.youtube.com/watch?v=NdSD07U5uBs)
+* 2019.06.13 -- [JoJo 漫画在线](https://tw.manhuagui.com/comic/1668/191961.html#p=11)
 * 2019.06.05 -- [在线 dos 游戏](https://dos.zczc.cz/)
 * 2019.05.27 -- [徐锦江回应撞脸海王：我们很像但他身材更好](http://ent.163.com/18/1217/09/E37IDQN000038FO9.html)
 * 2019.05.23 -- [王境泽、为所欲为、窃格拉瓦动图在线生成器](https://fabiaoqing.com/generator/wangjingze)
@@ -134,6 +163,8 @@
 
 ### Read
 
+* 2019.06.20 -- [姜小白：邂逅不会在当下就被你察觉](https://www.douban.com/note/722456626/)
+* 2019.06.17 -- [那些年的体验技术部](https://zhuanlan.zhihu.com/p/64214581)
 * 2019.06.05 -- [北大弑母案](http://news.chinaxiaokang.com/dujiazhuangao/20190514/687161_1.html)
 * 2019.05.17 -- [怎么评价姜文参与的这两集《圆桌讲究派》尤其第二集？](https://www.zhihu.com/question/285024198)
 * 2019.03.29 -- [[电影评论]论阿纳金如何堕入黑暗势力](https://movie.douban.com/review/1790136/)
@@ -163,6 +194,8 @@
 
 ### SQL
 
+* 2019.06.14 -- [How to find Schema of a Collection in MongoDB](https://medium.com/@ahsan.ayaz/how-to-find-schema-of-a-collection-in-mongodb-d9a91839d992)
+* 2019.06.14 -- [mongodb 官方文档](https://docs.mongodb.com/manual/tutorial/query-documents/)
 * 2019.04.10 -- [EXPORT AND IMPORT MYSQL DATABASES](https://mediatemple.net/community/products/dv/204403864/export-and-import-mysql-databases)
 
 
@@ -176,6 +209,8 @@
 
 
 ### VSCode & Sublime & Vim & Emacs & Spacemacs
+
+* 2019.06.11 -- [How can I convert tabs to spaces and vice versa in an existing file](https://stackoverflow.com/questions/33974681/how-can-i-convert-tabs-to-spaces-and-vice-versa-in-an-existing-file?rq=1)
 
 
 ### Clojure & Cljs
