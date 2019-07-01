@@ -48,6 +48,9 @@
 
 ### Electron
 
+* 2019.06.25 -- [Color](http://colorizer.org/)
+* 2019.06.25 -- [原生js实现拾色器插件](https://segmentfault.com/a/1190000013653408)
+* 2019.06.24 -- [BaiduPCS-Go -- 用 electron 封装下？](https://github.com/iikira/BaiduPCS-Go)
 * 2019.04.12 -- [使用Electron开发桌面吸色工具的心路历程](https://zhuanlan.zhihu.com/p/61661313)
 * 2019.04.09 -- [Electron调用原生模块-截图方案优化](https://www.jianshu.com/p/ce177ca6a43a)
 
@@ -64,6 +67,7 @@
 
 ### JS
 
+* 2019.06.26 -- [JS：指定FPS帧频，requestAnimationFrame播放动画](https://www.cnblogs.com/kenkofox/p/3849067.html)
 * 2019.06.20 -- [Regex](https://regexr.com/39o0i)
 * 2019.05.15 -- [deepcopy](https://www.npmjs.com/package/deepcopy)
 * 2019.04.18 -- [Understanding save() and restore() for the Canvas Context](https://html5.litten.com/understanding-save-and-restore-for-the-canvas-context/)
@@ -77,6 +81,7 @@
 
 ### TypeScript
 
+* 2019.07.01 -- [TypeScript ESLint](https://github.com/typescript-eslint/typescript-eslint#typescript-eslint)
 * 2019.06.14 -- [旧项目TypeScript改造问题与解决方案记](https://segmentfault.com/a/1190000015747038)
 
 
@@ -95,6 +100,7 @@
 
 ### Web
 
+* 2019.06.25 -- [前端路由跳转基本原Using Google Analytics in Extensions](https://blog.mozilla.org/addons/2016/05/31/using-google-analytics-in-extensions/)
 * 2019.06.11 -- [前端路由跳转基本原理](https://juejin.im/post/5c52da9ee51d45221f242804)
 * 2019.02.20 -- [PV、UV、IP区别](https://www.jianshu.com/p/2d713fea5d15)
 
@@ -104,6 +110,8 @@
 
 ### Webpack
 
+* 2019.06.27 -- [利用webpack搭建mock API服务](https://www.imqianduan.com/webpack/90.html)
+* 2019.06.27 -- [Nginx，Charles与Webpack配置前端API代理教程(超详细)](https://juejin.im/post/5bb0e6b55188255c6e707237)
 * 2019.06.11 -- [我是如何用webpack对项目进行性能优化的](http://shangchengshuai.cn/articleDetail?article_id=5c88c671d7a05643d4b83cc0)
 
 
@@ -112,7 +120,7 @@
 
 ### Game
 
-* 2019.06.06 -- [游戏达人比价网](https://www.yxdr.com/)
+* 2019.06.06 -- [游戏币、游戏达人比价网](https://www.yxdr.com/)
 * 2019.06.04 -- [过 DNF TP 驱动保护（一）](https://www.cnblogs.com/BoyXiao/archive/2012/06/09/2542831.html)
 * 2019.05.24 -- [剑鬼輸出思路](https://kknews.cc/zh-hk/game/mjl4ba2.html)
 * 2019.05.23 -- [剑鬼加点](http://dnf.duowan.com/1905/422484057677.html)
@@ -155,7 +163,7 @@
 * 2019.02.11 -- [大伟哥：我要圆梦！米哈游宣布新作将是PS4游戏](http://www.gamelook.com.cn/2019/01/348022)
 * 2019.02.11 -- [Nexon收购战升温 腾讯领先，对韩游戏行业影响力渐增](http://tech.ifeng.com/a/20190202/45305462_0.shtml)
 * 2019.03.06 -- [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg/)
-* 2019.05.27 -- [信号 langiS](https://yun.baidu.com/s/1o86hIoa?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=#list/path=%2Fsharelink369384723-1124673857293841%2F%E4%BF%A1%E5%8F%B7%20%E9%9F%A9%E5%89%A7&parentPath=%2Fsharelink369384723-1124673857293841)
+* 2019.06.25 -- [吊带袜天使](http://www.dilidili.name/watch3/44143/)
 * 2019.05.27 -- [Youtube 半泽直树](https://www.youtube.com/watch?v=E6SffWDt4wk&list=PLD_tzx_5cFP8riOk5ESfhYbe6Oitl0c5A&index=4)
 * 2019.05.16 -- [游戏王GX合集](https://www.bilibili.com/video/av45011499?spm_id_from=333.334.b_62696c695f62616e67756d69.66)
 * 2019.04.30 -- [权利的游戏第八季](https://www.ttkmj.net/a/6526)
@@ -163,6 +171,7 @@
 
 ### Read
 
+* 2019.06.28 -- [鬼谷子博客：沉默是金](http://www.guigzi.com/32.html)
 * 2019.06.20 -- [姜小白：邂逅不会在当下就被你察觉](https://www.douban.com/note/722456626/)
 * 2019.06.17 -- [那些年的体验技术部](https://zhuanlan.zhihu.com/p/64214581)
 * 2019.06.05 -- [北大弑母案](http://news.chinaxiaokang.com/dujiazhuangao/20190514/687161_1.html)
