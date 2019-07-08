@@ -87,6 +87,7 @@
 
 ### React
 
+* 2019.06.17 -- [Virtual DOM is pure overhead](https://news.ycombinator.com/item?id=19950253)
 * 2019.06.17 -- [Sandbox](https://codesandbox.io/s/romantic-lamport-ej5zp)
 * 2019.06.21 -- [Replace lifecycle with hooks in React](https://dev.to/trentyang/replace-lifecycle-with-hooks-in-react-3d4n)
 * 2019.06.14 -- [React hooks实践](https://juejin.im/post/5c4d7122e51d4556940c15cb)
@@ -131,6 +132,9 @@
 
 ### Other
 
+* 2019.07.03 -- [改造7平米INS风卧室](https://www.youtube.com/watch?v=P0JqWL-FVbg)
+* 2019.07.03 -- [数字音乐平台现“霸王条款”，音乐人竟然连“包身工”都不如？](https://www.yicai.com/news/100202659.html)
+* 2019.07.03 -- [对手上市了，你们爱的网易云音乐还好吗？](https://www.yicai.com/news/100082969.html)
 * 2019.06.19 -- [红眼打桩顺序参考](https://bbs.colg.cn/thread-7561052-1-1.html)
 * 2019.06.14 -- [关键词：Alan Kay](https://www.youtube.com/watch?v=NdSD07U5uBs)
 * 2019.06.13 -- [JoJo 漫画在线](https://tw.manhuagui.com/comic/1668/191961.html#p=11)
@@ -163,6 +167,7 @@
 * 2019.02.11 -- [大伟哥：我要圆梦！米哈游宣布新作将是PS4游戏](http://www.gamelook.com.cn/2019/01/348022)
 * 2019.02.11 -- [Nexon收购战升温 腾讯领先，对韩游戏行业影响力渐增](http://tech.ifeng.com/a/20190202/45305462_0.shtml)
 * 2019.03.06 -- [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg/)
+* 2019.07.05 -- [进击的巨人第三季](https://www.8btbtt.com/thread-index-fid-981-tid-4488013.htm)
 * 2019.06.25 -- [吊带袜天使](http://www.dilidili.name/watch3/44143/)
 * 2019.05.27 -- [Youtube 半泽直树](https://www.youtube.com/watch?v=E6SffWDt4wk&list=PLD_tzx_5cFP8riOk5ESfhYbe6Oitl0c5A&index=4)
 * 2019.05.16 -- [游戏王GX合集](https://www.bilibili.com/video/av45011499?spm_id_from=333.334.b_62696c695f62616e67756d69.66)
