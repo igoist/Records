@@ -38,6 +38,7 @@
 
 ### CSS
 
+* 2019.06.11 -- [十分钟实现灭霸打响指灰飞烟灭的效果](https://github.com/hoc2019/blog)
 * 2019.06.11 -- [sass](https://sass-lang.com/documentation/at-rules/mixin)
 * 2019.06.11 -- [less 中文网](http://lesscss.cn/)
 * 2019.06.11 -- [谈谈CSS预处理器](https://segmentfault.com/a/1190000007703309)
@@ -81,12 +82,15 @@
 
 ### TypeScript
 
+* 2019.07.11 -- [如何在TypeScript中获得全局变量？](https://cloud.tencent.com/developer/ask/174198)
 * 2019.07.01 -- [TypeScript ESLint](https://github.com/typescript-eslint/typescript-eslint#typescript-eslint)
 * 2019.06.14 -- [旧项目TypeScript改造问题与解决方案记](https://segmentfault.com/a/1190000015747038)
 
 
 ### React
 
+* 2019.07.09 -- [精读《Function Component 入门》](https://juejin.im/post/5ceb36dd51882530be7b1585#heading-8)
+* 2019.06.17 -- [download the min file by wget the url](https://react-cn.github.io/react/downloads.html)
 * 2019.06.17 -- [Virtual DOM is pure overhead](https://news.ycombinator.com/item?id=19950253)
 * 2019.06.17 -- [Sandbox](https://codesandbox.io/s/romantic-lamport-ej5zp)
 * 2019.06.21 -- [Replace lifecycle with hooks in React](https://dev.to/trentyang/replace-lifecycle-with-hooks-in-react-3d4n)
@@ -101,6 +105,8 @@
 
 ### Web
 
+* 2019.07.10 -- [前端技术总结](https://juejin.im/post/5cc1da82f265da036023b628)
+* 2019.07.10 -- [为什么视频网站的视频链接地址是blob？](https://juejin.im/post/5d1ea7a8e51d454fd8057bea)
 * 2019.06.25 -- [前端路由跳转基本原Using Google Analytics in Extensions](https://blog.mozilla.org/addons/2016/05/31/using-google-analytics-in-extensions/)
 * 2019.06.11 -- [前端路由跳转基本原理](https://juejin.im/post/5c52da9ee51d45221f242804)
 * 2019.02.20 -- [PV、UV、IP区别](https://www.jianshu.com/p/2d713fea5d15)
@@ -121,7 +127,7 @@
 
 ### Game
 
-* 2019.06.06 -- [游戏币、游戏达人比价网](https://www.yxdr.com/)
+* 2019.06.06 -- [游戏币、游戏达人比价网dnf](https://www.yxdr.com/)
 * 2019.06.04 -- [过 DNF TP 驱动保护（一）](https://www.cnblogs.com/BoyXiao/archive/2012/06/09/2542831.html)
 * 2019.05.24 -- [剑鬼輸出思路](https://kknews.cc/zh-hk/game/mjl4ba2.html)
 * 2019.05.23 -- [剑鬼加点](http://dnf.duowan.com/1905/422484057677.html)
@@ -176,6 +182,7 @@
 
 ### Read
 
+* 2019.07.10 -- [写作的激情，是一种细水长流的存在](http://m.lishen.net.cn/view.php?aid=72106)
 * 2019.06.28 -- [鬼谷子博客：沉默是金](http://www.guigzi.com/32.html)
 * 2019.06.20 -- [姜小白：邂逅不会在当下就被你察觉](https://www.douban.com/note/722456626/)
 * 2019.06.17 -- [那些年的体验技术部](https://zhuanlan.zhihu.com/p/64214581)
@@ -203,6 +210,7 @@
 
 ### Shell
 
+* 2019.07.12 -- [yabai 这东西折腾了挺久 brew services start yabai](https://github.com/koekeishiya/yabai/wiki/Configuration)
 * 2019.02.20 -- [Linux: grep多个关键字“与”和“或”](https://blog.csdn.net/mmbbz/article/details/51035401)
 
 
