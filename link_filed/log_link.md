@@ -138,6 +138,7 @@
 
 ### Other
 
+* 2019.07.22 -- [Help KyoAni Heal](https://www.gofundme.com/f/help-kyoani-heal)
 * 2019.07.03 -- [改造7平米INS风卧室](https://www.youtube.com/watch?v=P0JqWL-FVbg)
 * 2019.07.03 -- [数字音乐平台现“霸王条款”，音乐人竟然连“包身工”都不如？](https://www.yicai.com/news/100202659.html)
 * 2019.07.03 -- [对手上市了，你们爱的网易云音乐还好吗？](https://www.yicai.com/news/100082969.html)
@@ -173,6 +174,7 @@
 * 2019.02.11 -- [大伟哥：我要圆梦！米哈游宣布新作将是PS4游戏](http://www.gamelook.com.cn/2019/01/348022)
 * 2019.02.11 -- [Nexon收购战升温 腾讯领先，对韩游戏行业影响力渐增](http://tech.ifeng.com/a/20190202/45305462_0.shtml)
 * 2019.03.06 -- [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg/)
+* 2019.07.16 -- [吃货最终季](https://donghua.agefans.com/play/20180129?playid=3_8)
 * 2019.07.05 -- [进击的巨人第三季](https://www.8btbtt.com/thread-index-fid-981-tid-4488013.htm)
 * 2019.06.25 -- [吊带袜天使](http://www.dilidili.name/watch3/44143/)
 * 2019.05.27 -- [Youtube 半泽直树](https://www.youtube.com/watch?v=E6SffWDt4wk&list=PLD_tzx_5cFP8riOk5ESfhYbe6Oitl0c5A&index=4)
