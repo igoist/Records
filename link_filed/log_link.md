@@ -49,6 +49,7 @@
 
 ### Electron
 
+* 2019.07.24 -- [Electron require() is not defined](https://stackoverflow.com/questions/44391448/electron-require-is-not-defined)
 * 2019.06.25 -- [Color](http://colorizer.org/)
 * 2019.06.25 -- [原生js实现拾色器插件](https://segmentfault.com/a/1190000013653408)
 * 2019.06.24 -- [BaiduPCS-Go -- 用 electron 封装下？](https://github.com/iikira/BaiduPCS-Go)
@@ -82,6 +83,7 @@
 
 ### TypeScript
 
+* 2019.07.24 -- [Type 'Timer' is not assignable to type 'number'](https://github.com/Microsoft/TypeScript/issues/842)
 * 2019.07.11 -- [如何在TypeScript中获得全局变量？](https://cloud.tencent.com/developer/ask/174198)
 * 2019.07.01 -- [TypeScript ESLint](https://github.com/typescript-eslint/typescript-eslint#typescript-eslint)
 * 2019.06.14 -- [旧项目TypeScript改造问题与解决方案记](https://segmentfault.com/a/1190000015747038)
@@ -174,6 +176,7 @@
 * 2019.02.11 -- [大伟哥：我要圆梦！米哈游宣布新作将是PS4游戏](http://www.gamelook.com.cn/2019/01/348022)
 * 2019.02.11 -- [Nexon收购战升温 腾讯领先，对韩游戏行业影响力渐增](http://tech.ifeng.com/a/20190202/45305462_0.shtml)
 * 2019.03.06 -- [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg/)
+* 2019.07.29 -- [JOJO](http://www.dilidili.name/watch/8605)
 * 2019.07.16 -- [吃货最终季](https://donghua.agefans.com/play/20180129?playid=3_8)
 * 2019.07.05 -- [进击的巨人第三季](https://www.8btbtt.com/thread-index-fid-981-tid-4488013.htm)
 * 2019.06.25 -- [吊带袜天使](http://www.dilidili.name/watch3/44143/)
