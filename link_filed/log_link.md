@@ -38,6 +38,7 @@
 
 ### CSS
 
+* 2019.07.29 -- [Hide scroll bar, but while still being able to scroll](https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll)
 * 2019.06.11 -- [十分钟实现灭霸打响指灰飞烟灭的效果](https://github.com/hoc2019/blog)
 * 2019.06.11 -- [sass](https://sass-lang.com/documentation/at-rules/mixin)
 * 2019.06.11 -- [less 中文网](http://lesscss.cn/)
@@ -69,6 +70,7 @@
 
 ### JS
 
+* 2019.07.31 -- [ES6 写法报错regeneratorRuntime is not defined](https://segmentfault.com/q/1010000006801859)
 * 2019.06.26 -- [JS：指定FPS帧频，requestAnimationFrame播放动画](https://www.cnblogs.com/kenkofox/p/3849067.html)
 * 2019.06.20 -- [Regex](https://regexr.com/39o0i)
 * 2019.05.15 -- [deepcopy](https://www.npmjs.com/package/deepcopy)
@@ -83,6 +85,7 @@
 
 ### TypeScript
 
+* 2019.08.01 -- [Typescript 中的 interface 和 type 到底有什么区别](https://juejin.im/post/5c2723635188252d1d34dc7d)
 * 2019.07.24 -- [Type 'Timer' is not assignable to type 'number'](https://github.com/Microsoft/TypeScript/issues/842)
 * 2019.07.11 -- [如何在TypeScript中获得全局变量？](https://cloud.tencent.com/developer/ask/174198)
 * 2019.07.01 -- [TypeScript ESLint](https://github.com/typescript-eslint/typescript-eslint#typescript-eslint)
@@ -91,6 +94,7 @@
 
 ### React
 
+* 2019.08.01 -- [使用react-hook 替代 react-redux](https://juejin.im/post/5bf991236fb9a049f570ce1c#heading-5)
 * 2019.07.09 -- [精读《Function Component 入门》](https://juejin.im/post/5ceb36dd51882530be7b1585#heading-8)
 * 2019.06.17 -- [download the min file by wget the url](https://react-cn.github.io/react/downloads.html)
 * 2019.06.17 -- [Virtual DOM is pure overhead](https://news.ycombinator.com/item?id=19950253)
@@ -116,6 +120,8 @@
 
 ### Spider
 
+* 2019.06.27 -- [开放一爬虫接口，各位 V 友按需取用～](https://www.v2ex.com/t/578957)
+
 
 ### Webpack
 
@@ -129,6 +135,7 @@
 
 ### Game
 
+* 2019.07.31 -- [普雷完全体下升级太阳&大地首饰的伤害提升对比以及普适性结论](https://bbs.colg.cn/thread-7552935-1-1.html)
 * 2019.06.06 -- [游戏币、游戏达人比价网dnf](https://www.yxdr.com/)
 * 2019.06.04 -- [过 DNF TP 驱动保护（一）](https://www.cnblogs.com/BoyXiao/archive/2012/06/09/2542831.html)
 * 2019.05.24 -- [剑鬼輸出思路](https://kknews.cc/zh-hk/game/mjl4ba2.html)
@@ -176,7 +183,7 @@
 * 2019.02.11 -- [大伟哥：我要圆梦！米哈游宣布新作将是PS4游戏](http://www.gamelook.com.cn/2019/01/348022)
 * 2019.02.11 -- [Nexon收购战升温 腾讯领先，对韩游戏行业影响力渐增](http://tech.ifeng.com/a/20190202/45305462_0.shtml)
 * 2019.03.06 -- [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg/)
-* 2019.07.29 -- [JOJO](http://www.dilidili.name/watch/8605)
+* 2019.07.29 -- [JOJO](http://www.dilidili.name/watch/8622)
 * 2019.07.16 -- [吃货最终季](https://donghua.agefans.com/play/20180129?playid=3_8)
 * 2019.07.05 -- [进击的巨人第三季](https://www.8btbtt.com/thread-index-fid-981-tid-4488013.htm)
 * 2019.06.25 -- [吊带袜天使](http://www.dilidili.name/watch3/44143/)
