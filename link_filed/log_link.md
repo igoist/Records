@@ -30,6 +30,7 @@
 
 ### Chrome
 
+* 2019.08.09 -- [将Chrome调试器里的JavaScript变量保存成本地JSON文件](https://blog.csdn.net/i042416/article/details/82556800)
 * 2019.06.17 -- [以用户为中心的性能指标](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics?hl=zh-cn)
 * 2019.06.17 -- [How do DCL and FCP affect SEO? | Web performance metrics](https://www.cloudflare.com/learning/performance/how-dcl-and-fcp-affect-seo/)
 * 2019.04.24 -- [oh-my-cookie](https://github.com/llqi/oh-my-cookie)
@@ -38,6 +39,7 @@
 
 ### CSS
 
+* 2019.08.08 -- [FlippinBurgers](http://localhost/Web/goods/Daily/180822/FlippinBurgers/)
 * 2019.07.29 -- [Hide scroll bar, but while still being able to scroll](https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll)
 * 2019.06.11 -- [十分钟实现灭霸打响指灰飞烟灭的效果](https://github.com/hoc2019/blog)
 * 2019.06.11 -- [sass](https://sass-lang.com/documentation/at-rules/mixin)
@@ -94,6 +96,10 @@
 
 ### React
 
+* 2019.08.09 -- [react-virtualized  set num cells 3000](https://bvaughn.github.io/react-virtualized/#/components/Collection)
+* 2019.08.09 -- [react-virtualized](https://github.com/bvaughn/react-virtualized)
+* 2019.08.09 -- [使用 React + Rxjs 实现一个虚拟滚动组件](https://zhuanlan.zhihu.com/p/54327805)
+* 2019.08.06 -- [Dan Abramov手把手教学React Hooks](https://www.bilibili.com/video/av56777929?from=search&seid=12559492270173672578)
 * 2019.08.01 -- [使用react-hook 替代 react-redux](https://juejin.im/post/5bf991236fb9a049f570ce1c#heading-5)
 * 2019.07.09 -- [精读《Function Component 入门》](https://juejin.im/post/5ceb36dd51882530be7b1585#heading-8)
 * 2019.06.17 -- [download the min file by wget the url](https://react-cn.github.io/react/downloads.html)
@@ -111,6 +117,7 @@
 
 ### Web
 
+* 2019.08.09 -- [利用摸鱼时间做的又一个摸鱼程序来啦，支持 PC、移动 Web、Chrome 插件和 PWA。](https://www.v2ex.com/t/588152#reply11)
 * 2019.07.10 -- [前端技术总结](https://juejin.im/post/5cc1da82f265da036023b628)
 * 2019.07.10 -- [为什么视频网站的视频链接地址是blob？](https://juejin.im/post/5d1ea7a8e51d454fd8057bea)
 * 2019.06.25 -- [前端路由跳转基本原Using Google Analytics in Extensions](https://blog.mozilla.org/addons/2016/05/31/using-google-analytics-in-extensions/)
@@ -147,6 +154,8 @@
 
 ### Other
 
+* 2019.08.06 -- [django-sspanel](https://github.com/Ehco1996)
+* 2019.08.05 -- [“老实人，风流人士和霸道总裁。”](https://www.douban.com/group/topic/147164444/)
 * 2019.07.22 -- [Help KyoAni Heal](https://www.gofundme.com/f/help-kyoani-heal)
 * 2019.07.03 -- [改造7平米INS风卧室](https://www.youtube.com/watch?v=P0JqWL-FVbg)
 * 2019.07.03 -- [数字音乐平台现“霸王条款”，音乐人竟然连“包身工”都不如？](https://www.yicai.com/news/100202659.html)
@@ -194,6 +203,7 @@
 
 ### Read
 
+* 2019.08.09 -- [穷人跨越阶级有多难？ - 七焱的回答 - 知乎](https://www.zhihu.com/question/278594044/answer/776926889)
 * 2019.07.10 -- [写作的激情，是一种细水长流的存在](http://m.lishen.net.cn/view.php?aid=72106)
 * 2019.06.28 -- [鬼谷子博客：沉默是金](http://www.guigzi.com/32.html)
 * 2019.06.20 -- [姜小白：邂逅不会在当下就被你察觉](https://www.douban.com/note/722456626/)
@@ -252,5 +262,10 @@
 * 2019.03.28 -- [BOOK](https://books.google.com.hk/books?id=EOHvCgAAQBAJ&pg=PA13&lpg=PA13&dq=dommy/sel1&source=bl&ots=unGo047EOu&sig=ACfU3U1_uwMSIB9ZdFzquT30NHlSQhICjw&hl=zh-CN&sa=X&ved=2ahUKEwj1ponZotjgAhV4yIsBHWGiBa4Q6AEwAnoECAIQAQ#v=onepage&q=dommy%2Fsel1&f=false)
 * 2019.02.14 -- [How many arguments does an anonymous function expect in clojure?](https://stackoverflow.com/questions/7841643/how-many-arguments-does-an-anonymous-function-expect-in-clojure)
 * 2019.02.12 -- [ClojureScript Unraveled](https://funcool.github.io/clojurescript-unraveled/#functions-with-multiple-arities)
+
+### Mac
+
+* 2019.08.09 -- [[求救] 软件全屏时，第二块屏幕黑屏的问题。](https://www.macx.cn/thread-2196194-1-1.html)
+
 
 ### 外设
