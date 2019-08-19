@@ -4,6 +4,7 @@
 
 ### Specical
 
+* 2019.08.14 -- [网易人间：先看骗局](http://renjian.163.com/special/renjian_daxie/)
 * 2019.03.21 -- [abc@abcdefg123.com](https://web.autocad.com/)
 * 2019.03.11 -- [DNF:超界5甲怎样升级提升最大？](https://www.bilibili.com/read/cv2098220/)
 * 2019.03.05 -- [剑魂技巧... 我说怎么人家韩服释放速度怎么这么快](https://www.x-da.com/app/dnf_sy2/index.html)
@@ -30,6 +31,9 @@
 
 ### Chrome
 
+* 2019.08.14 -- [如何注册Google Play 开发者账号（含收款设置）](https://juejin.im/post/5cbeb4b95188250a6b1838bc)
+* 2019.08.13 -- [Extension: Message Passing](https://developer.chrome.com/apps/messaging)
+* 2019.08.13 -- [Create Google Chrome extension package without specified files Ask](https://stackoverflow.com/questions/18530981/create-google-chrome-extension-package-without-specified-files)
 * 2019.08.09 -- [将Chrome调试器里的JavaScript变量保存成本地JSON文件](https://blog.csdn.net/i042416/article/details/82556800)
 * 2019.06.17 -- [以用户为中心的性能指标](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics?hl=zh-cn)
 * 2019.06.17 -- [How do DCL and FCP affect SEO? | Web performance metrics](https://www.cloudflare.com/learning/performance/how-dcl-and-fcp-affect-seo/)
@@ -87,6 +91,7 @@
 
 ### TypeScript
 
+* 2019.08.16 -- ['new' expression, whose target lacks a construct signature in TypeScript](https://stackoverflow.com/questions/43623461/new-expression-whose-target-lacks-a-construct-signature-in-typescript)
 * 2019.08.01 -- [Typescript 中的 interface 和 type 到底有什么区别](https://juejin.im/post/5c2723635188252d1d34dc7d)
 * 2019.07.24 -- [Type 'Timer' is not assignable to type 'number'](https://github.com/Microsoft/TypeScript/issues/842)
 * 2019.07.11 -- [如何在TypeScript中获得全局变量？](https://cloud.tencent.com/developer/ask/174198)
@@ -113,6 +118,8 @@
 
 
 ### JS Lib
+
+* 2019.08.16 -- [Event Delegation with MooTools, Dojo, and jQuery](https://davidwalsh.name/delegate-event)
 
 
 ### Web
@@ -154,6 +161,7 @@
 
 ### Other
 
+* 2019.08.16 -- [TED: 语言如何塑造我们的思维方式](https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think/transcript?language=zh-cn#t-837259)
 * 2019.08.06 -- [django-sspanel](https://github.com/Ehco1996)
 * 2019.08.05 -- [“老实人，风流人士和霸道总裁。”](https://www.douban.com/group/topic/147164444/)
 * 2019.07.22 -- [Help KyoAni Heal](https://www.gofundme.com/f/help-kyoani-heal)
@@ -203,6 +211,12 @@
 
 ### Read
 
+* 2019.08.16 -- [沉迷于花式传销的老师](http://renjian.163.com/18/0728/19/DNQTMS9J000181RV.html)
+* 2019.08.15 -- [我的工作，是一名游戏托](http://renjian.163.com/19/0125/12/E6C8OR8U000181RK.html)
+* 2019.08.15 -- [我亲身经历的传销洗脑](http://renjian.163.com/19/0601/19/EGK0CU7E000181RV.html)
+* 2019.08.15 -- [我的毕业礼物，是一份租金贷](http://renjian.163.com/18/0927/16/DSNLH07E000181RK.html)
+* 2019.08.15 -- [培训4个月，包你上岗做IT](http://renjian.163.com/19/0707/18/EJGJE9UK000181RV.html)
+* 2019.08.14 -- [如果有天你要离婚，一定要告诉我](http://renjian.163.com/19/0808/12/EM2BKHFC000181RV.html)
 * 2019.08.09 -- [穷人跨越阶级有多难？ - 七焱的回答 - 知乎](https://www.zhihu.com/question/278594044/answer/776926889)
 * 2019.07.10 -- [写作的激情，是一种细水长流的存在](http://m.lishen.net.cn/view.php?aid=72106)
 * 2019.06.28 -- [鬼谷子博客：沉默是金](http://www.guigzi.com/32.html)
