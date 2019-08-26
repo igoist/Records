@@ -31,6 +31,7 @@
 
 ### Chrome
 
+* 2019.08.23 -- [Can one replace xhr.onreadystatechange with xhr.onload for AJAX calls?](https://stackoverflow.com/questions/14946291/can-one-replace-xhr-onreadystatechange-with-xhr-onload-for-ajax-calls)
 * 2019.08.14 -- [如何注册Google Play 开发者账号（含收款设置）](https://juejin.im/post/5cbeb4b95188250a6b1838bc)
 * 2019.08.13 -- [Extension: Message Passing](https://developer.chrome.com/apps/messaging)
 * 2019.08.13 -- [Create Google Chrome extension package without specified files Ask](https://stackoverflow.com/questions/18530981/create-google-chrome-extension-package-without-specified-files)
@@ -161,6 +162,8 @@
 
 ### Other
 
+* 2019.08.20 -- [追后续：女朋友闺蜜给我表白了，这算是绿茶吗？](https://bbs.hupu.com/29037802_64434099402630.html)
+* 2019.08.19 -- [最可怕的骗局，不是傻猪盘，不是骗财骗色，而是骗你运毒，托你带东西在夹层里放毒品！](http://bbs.tianya.cn//post-funinfo-7913099-1.shtml)
 * 2019.08.16 -- [TED: 语言如何塑造我们的思维方式](https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think/transcript?language=zh-cn#t-837259)
 * 2019.08.06 -- [django-sspanel](https://github.com/Ehco1996)
 * 2019.08.05 -- [“老实人，风流人士和霸道总裁。”](https://www.douban.com/group/topic/147164444/)
