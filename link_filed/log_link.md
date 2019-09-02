@@ -4,6 +4,7 @@
 
 ### Specical
 
+* 2019.08.29 -- [王朔作品集](http://wangshuo.zuopinj.com/)
 * 2019.08.14 -- [网易人间：先看骗局](http://renjian.163.com/special/renjian_daxie/)
 * 2019.03.21 -- [abc@abcdefg123.com](https://web.autocad.com/)
 * 2019.03.11 -- [DNF:超界5甲怎样升级提升最大？](https://www.bilibili.com/read/cv2098220/)
@@ -92,6 +93,7 @@
 
 ### TypeScript
 
+* 2019.08.28 -- [typescript 在 Object.entries 的回调中丢失了类型怎么办？](https://www.v2ex.com/t/595578)
 * 2019.08.16 -- ['new' expression, whose target lacks a construct signature in TypeScript](https://stackoverflow.com/questions/43623461/new-expression-whose-target-lacks-a-construct-signature-in-typescript)
 * 2019.08.01 -- [Typescript 中的 interface 和 type 到底有什么区别](https://juejin.im/post/5c2723635188252d1d34dc7d)
 * 2019.07.24 -- [Type 'Timer' is not assignable to type 'number'](https://github.com/Microsoft/TypeScript/issues/842)
@@ -162,6 +164,9 @@
 
 ### Other
 
+* 2019.08.29 -- [王朔作品集（强调）](http://wangshuo.zuopinj.com/)
+* 2019.08.29 -- [锵锵三人行2011-06-16](https://www.youtube.com/results?search_query=%E9%94%B5%E9%94%B5%E4%B8%89%E4%BA%BA%E8%A1%8C2011-06-16)
+* 2019.08.29 -- [侯孝贤 海上花](https://www.youtube.com/watch?v=bSay4xFS_LY)
 * 2019.08.20 -- [追后续：女朋友闺蜜给我表白了，这算是绿茶吗？](https://bbs.hupu.com/29037802_64434099402630.html)
 * 2019.08.19 -- [最可怕的骗局，不是傻猪盘，不是骗财骗色，而是骗你运毒，托你带东西在夹层里放毒品！](http://bbs.tianya.cn//post-funinfo-7913099-1.shtml)
 * 2019.08.16 -- [TED: 语言如何塑造我们的思维方式](https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think/transcript?language=zh-cn#t-837259)
