@@ -68,6 +68,7 @@
 
 ### NodeJS
 
+* 2019.09.03 -- [speedtest-net](https://www.npmjs.com/package/speedtest-net)
 * 2019.06.18 -- [How do I move files in node.js?](https://stackoverflow.com/questions/8579055/how-do-i-move-files-in-node-js)
 * 2019.06.14 -- [koa + socket.io 制作简易聊天室](http://www.alloyteam.com/2015/04/koa-socket-io-zhi-zuo-jian-yi-liao-tian-shi/)
 * 2019.06.13 -- [stateofjs](https://2018.stateofjs.com/back-end-frameworks/overview/)
@@ -122,6 +123,7 @@
 
 ### JS Lib
 
+* 2019.09.06 -- [foo.closest(bar) for Mootools](https://coderwall.com/p/5fj4zg/foo-closest-bar-for-mootools)
 * 2019.08.16 -- [Event Delegation with MooTools, Dojo, and jQuery](https://davidwalsh.name/delegate-event)
 
 
@@ -164,6 +166,11 @@
 
 ### Other
 
+* 2019.09.07 -- [无工可开，Nexon遭员工大规模示威抗议](https://bbs.colg.cn/thread-7609529-1-1.html)
+* 2019.09.04 -- [新手教程（NS注册篇）—任天堂Switch注册账号/切换地区&修改VPN](https://www.bilibili.com/read/cv1151175/)
+* 2019.09.04 -- [HR要求提供前工资卡流水，怎么办？](https://xw.qq.com/cmsid/20180831A0BO5K00)
+* 2019.09.03 -- [辣椒酱制作](https://weibo.com/1757142323/I53jIFadL)
+* 2019.09.03 -- [锻炼10年(2)引体向上](https://zhuanlan.zhihu.com/p/41584134)
 * 2019.08.29 -- [王朔作品集（强调）](http://wangshuo.zuopinj.com/)
 * 2019.08.29 -- [锵锵三人行2011-06-16](https://www.youtube.com/results?search_query=%E9%94%B5%E9%94%B5%E4%B8%89%E4%BA%BA%E8%A1%8C2011-06-16)
 * 2019.08.29 -- [侯孝贤 海上花](https://www.youtube.com/watch?v=bSay4xFS_LY)
@@ -208,6 +215,9 @@
 * 2019.02.11 -- [大伟哥：我要圆梦！米哈游宣布新作将是PS4游戏](http://www.gamelook.com.cn/2019/01/348022)
 * 2019.02.11 -- [Nexon收购战升温 腾讯领先，对韩游戏行业影响力渐增](http://tech.ifeng.com/a/20190202/45305462_0.shtml)
 * 2019.03.06 -- [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg/)
+* 2019.09.02 -- [星际牛仔](http://www.dilidili.name/anime/CowboyBebop/)
+* 2019.09.02 -- [文豪野犬第二季](http://www.dilidili.name/anime/whstagr2/)
+* 2019.09.02 -- [文豪野犬第一季](http://www.dilidili.name/anime/wenhao/)
 * 2019.07.29 -- [JOJO](http://www.dilidili.name/watch/8622)
 * 2019.07.16 -- [吃货最终季](https://donghua.agefans.com/play/20180129?playid=3_8)
 * 2019.07.05 -- [进击的巨人第三季](https://www.8btbtt.com/thread-index-fid-981-tid-4488013.htm)
@@ -287,6 +297,7 @@
 
 ### Mac
 
+* 2019.09.04 -- [How to Change the Default Media Player on a Mac](https://www.wikihow.com/Change-the-Default-Media-Player-on-a-Mac)
 * 2019.08.09 -- [[求救] 软件全屏时，第二块屏幕黑屏的问题。](https://www.macx.cn/thread-2196194-1-1.html)
 
 
