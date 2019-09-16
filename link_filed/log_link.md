@@ -7,6 +7,7 @@
 * 2019.08.29 -- [王朔作品集](http://wangshuo.zuopinj.com/)
 * 2019.08.14 -- [网易人间：先看骗局](http://renjian.163.com/special/renjian_daxie/)
 * 2019.03.21 -- [abc@abcdefg123.com](https://web.autocad.com/)
+* 2019.09.13 -- [天空套图鉴](https://bbs.colg.cn/thread-7614204-1-1.html)
 * 2019.03.11 -- [DNF:超界5甲怎样升级提升最大？](https://www.bilibili.com/read/cv2098220/)
 * 2019.03.05 -- [剑魂技巧... 我说怎么人家韩服释放速度怎么这么快](https://www.x-da.com/app/dnf_sy2/index.html)
 * 2019.03.05 -- [剑魂技巧... 我说怎么人家韩服释放速度怎么这么快](https://www.bilibili.com/read/cv1816127/)
@@ -129,6 +130,8 @@
 
 ### Web
 
+* 2019.09.09 -- [走进HTML5-让你从不懂到精通SVG(大量实例操作)](https://juejin.im/post/5d74740f5188254055181b1a)
+* 2019.09.09 -- [京东 PC 首页 2019 改版前端总结](https://juejin.im/post/5d71c98a6fb9a06ae8362f52)
 * 2019.08.09 -- [利用摸鱼时间做的又一个摸鱼程序来啦，支持 PC、移动 Web、Chrome 插件和 PWA。](https://www.v2ex.com/t/588152#reply11)
 * 2019.07.10 -- [前端技术总结](https://juejin.im/post/5cc1da82f265da036023b628)
 * 2019.07.10 -- [为什么视频网站的视频链接地址是blob？](https://juejin.im/post/5d1ea7a8e51d454fd8057bea)
@@ -215,6 +218,7 @@
 * 2019.02.11 -- [大伟哥：我要圆梦！米哈游宣布新作将是PS4游戏](http://www.gamelook.com.cn/2019/01/348022)
 * 2019.02.11 -- [Nexon收购战升温 腾讯领先，对韩游戏行业影响力渐增](http://tech.ifeng.com/a/20190202/45305462_0.shtml)
 * 2019.03.06 -- [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg/)
+* 2019.09.09 -- [XXXX奥特曼](https://www.youtube.com/results?search_query=%E5%A5%88%E5%85%8B%E7%91%9F%E6%96%AF%E5%A5%A5%E7%89%B9%E6%9B%BC)
 * 2019.09.02 -- [星际牛仔](http://www.dilidili.name/anime/CowboyBebop/)
 * 2019.09.02 -- [文豪野犬第二季](http://www.dilidili.name/anime/whstagr2/)
 * 2019.09.02 -- [文豪野犬第一季](http://www.dilidili.name/anime/wenhao/)
@@ -229,6 +233,7 @@
 
 ### Read
 
+* 2019.09.09 -- [如何评价奈克瑟斯奥特曼在整个奥特曼系列中的地位？](https://www.zhihu.com/question/34887326/answer/138292937)
 * 2019.08.16 -- [沉迷于花式传销的老师](http://renjian.163.com/18/0728/19/DNQTMS9J000181RV.html)
 * 2019.08.15 -- [我的工作，是一名游戏托](http://renjian.163.com/19/0125/12/E6C8OR8U000181RK.html)
 * 2019.08.15 -- [我亲身经历的传销洗脑](http://renjian.163.com/19/0601/19/EGK0CU7E000181RV.html)
@@ -260,7 +265,6 @@
 * 2019.02.12 -- [科普中国：胃不好要长期喝粥？听信这些谣言养胃变伤胃](http://www.kepuchina.cn/health/care/201902/t20190212_936137.shtml)
 
 ### Language
-
 
 ### Shell
 
