@@ -80,6 +80,8 @@
 
 ### JS
 
+* 2019.09.15 -- [TensorFlow 官网](https://tensorflow.google.cn/js)
+* 2019.09.15 -- [TensorFlow 如何入门，如何快速学习？ - 谷歌开发者的回答 - 知乎](https://www.zhihu.com/question/49909565/answer/807076121)
 * 2019.07.31 -- [ES6 写法报错regeneratorRuntime is not defined](https://segmentfault.com/q/1010000006801859)
 * 2019.06.26 -- [JS：指定FPS帧频，requestAnimationFrame播放动画](https://www.cnblogs.com/kenkofox/p/3849067.html)
 * 2019.06.20 -- [Regex](https://regexr.com/39o0i)
@@ -95,6 +97,7 @@
 
 ### TypeScript
 
+* 2019.09.17 -- [Configuring ESLint on a TypeScript project](https://javascriptplayground.com/typescript-eslint/)
 * 2019.08.28 -- [typescript 在 Object.entries 的回调中丢失了类型怎么办？](https://www.v2ex.com/t/595578)
 * 2019.08.16 -- ['new' expression, whose target lacks a construct signature in TypeScript](https://stackoverflow.com/questions/43623461/new-expression-whose-target-lacks-a-construct-signature-in-typescript)
 * 2019.08.01 -- [Typescript 中的 interface 和 type 到底有什么区别](https://juejin.im/post/5c2723635188252d1d34dc7d)
@@ -106,6 +109,7 @@
 
 ### React
 
+* 2019.09.17 -- [云栖社区课程：承玉老哥的课](https://yq.aliyun.com/video/play/753?spm=5176.8657658.744400.2.6810102bk3u4C0)
 * 2019.08.09 -- [react-virtualized  set num cells 3000](https://bvaughn.github.io/react-virtualized/#/components/Collection)
 * 2019.08.09 -- [react-virtualized](https://github.com/bvaughn/react-virtualized)
 * 2019.08.09 -- [使用 React + Rxjs 实现一个虚拟滚动组件](https://zhuanlan.zhihu.com/p/54327805)
@@ -120,6 +124,17 @@
 * 2019.06.14 -- [Hooks 时代的 React 状态管理方案](https://zhuanlan.zhihu.com/p/68434464)
 * 2019.06.14 -- [React Hooks 自去年 10 月发布以来，社区和国内外团队的接受程度如何？](https://www.zhihu.com/question/327685582)
 * 2019.06.11 -- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+
+
+### Lint & Format
+
+* 2019.09.19 -- [使用ESLint+Prettier来统一前端代码风格](https://zhuanlan.zhihu.com/p/38267286)
+* 2019.09.19 -- [使用ESLint+Prettier规范React+Typescript项目](https://zhuanlan.zhihu.com/p/62401626)
+
+
+### Test
+
+* 2019.09.17 -- [使用Enzyme和Jest 测试React组件(上)](https://juejin.im/post/5bc1f9ca6fb9a05cdc49b037)
 
 
 ### JS Lib
@@ -147,6 +162,7 @@
 
 ### Webpack
 
+* 2019.09.17 -- [babel 升级到7.X采坑总结](https://segmentfault.com/a/1190000016458913)
 * 2019.06.27 -- [利用webpack搭建mock API服务](https://www.imqianduan.com/webpack/90.html)
 * 2019.06.27 -- [Nginx，Charles与Webpack配置前端API代理教程(超详细)](https://juejin.im/post/5bb0e6b55188255c6e707237)
 * 2019.06.11 -- [我是如何用webpack对项目进行性能优化的](http://shangchengshuai.cn/articleDetail?article_id=5c88c671d7a05643d4b83cc0)
