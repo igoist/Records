@@ -33,6 +33,9 @@
 
 ### Chrome
 
+* 2019.10.12 -- [chrome extension using a content script to access the `window` object](https://gist.github.com/devjin0617/3e8d72d94c1b9e69690717a219644c7a)
+* 2019.10.12 -- [external-webpage 需要配合二级域名？](https://developer.chrome.com/extensions/messaging#external-webpage)
+* 2019.10.12 -- [Optionally inject Content Script](https://stackoverflow.com/questions/26667112/optionally-inject-content-script)
 * 2019.08.23 -- [Can one replace xhr.onreadystatechange with xhr.onload for AJAX calls?](https://stackoverflow.com/questions/14946291/can-one-replace-xhr-onreadystatechange-with-xhr-onload-for-ajax-calls)
 * 2019.08.14 -- [如何注册Google Play 开发者账号（含收款设置）](https://juejin.im/post/5cbeb4b95188250a6b1838bc)
 * 2019.08.13 -- [Extension: Message Passing](https://developer.chrome.com/apps/messaging)
@@ -69,6 +72,7 @@
 
 ### NodeJS
 
+* 2019.10.08 -- [yarn cache](https://yarnpkg.com/lang/en/docs/cli/cache/)
 * 2019.09.03 -- [speedtest-net](https://www.npmjs.com/package/speedtest-net)
 * 2019.06.18 -- [How do I move files in node.js?](https://stackoverflow.com/questions/8579055/how-do-i-move-files-in-node-js)
 * 2019.06.14 -- [koa + socket.io 制作简易聊天室](http://www.alloyteam.com/2015/04/koa-socket-io-zhi-zuo-jian-yi-liao-tian-shi/)
@@ -80,6 +84,8 @@
 
 ### JS
 
+* 2019.09.29 -- [Build Real Time Face Detection With JavaScript](https://www.youtube.com/watch?v=CVClHLwv-4I)
+* 2019.09.29 -- [face-api](https://github.com/justadudewhohacks/face-api.js)
 * 2019.09.15 -- [TensorFlow 官网](https://tensorflow.google.cn/js)
 * 2019.09.15 -- [TensorFlow 如何入门，如何快速学习？ - 谷歌开发者的回答 - 知乎](https://www.zhihu.com/question/49909565/answer/807076121)
 * 2019.07.31 -- [ES6 写法报错regeneratorRuntime is not defined](https://segmentfault.com/q/1010000006801859)
@@ -109,6 +115,7 @@
 
 ### React
 
+* 2019.10.09 -- [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 * 2019.09.17 -- [云栖社区课程：承玉老哥的课](https://yq.aliyun.com/video/play/753?spm=5176.8657658.744400.2.6810102bk3u4C0)
 * 2019.08.09 -- [react-virtualized  set num cells 3000](https://bvaughn.github.io/react-virtualized/#/components/Collection)
 * 2019.08.09 -- [react-virtualized](https://github.com/bvaughn/react-virtualized)
@@ -185,6 +192,8 @@
 
 ### Other
 
+* 2019.10.19 -- [你用什么VPN](https://cnodejs.org/topic/5514b132e26684ed7ff21bf2)
+* 2019.10.11 -- [百变星君片头](https://www.youtube.com/watch?v=zkTAwH4BZOU)
 * 2019.09.07 -- [无工可开，Nexon遭员工大规模示威抗议](https://bbs.colg.cn/thread-7609529-1-1.html)
 * 2019.09.04 -- [新手教程（NS注册篇）—任天堂Switch注册账号/切换地区&修改VPN](https://www.bilibili.com/read/cv1151175/)
 * 2019.09.04 -- [HR要求提供前工资卡流水，怎么办？](https://xw.qq.com/cmsid/20180831A0BO5K00)
@@ -235,6 +244,7 @@
 * 2019.02.11 -- [Nexon收购战升温 腾讯领先，对韩游戏行业影响力渐增](http://tech.ifeng.com/a/20190202/45305462_0.shtml)
 * 2019.03.06 -- [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg/)
 * 2019.09.09 -- [XXXX奥特曼](https://www.youtube.com/results?search_query=%E5%A5%88%E5%85%8B%E7%91%9F%E6%96%AF%E5%A5%A5%E7%89%B9%E6%9B%BC)
+* 2019.10.21 -- [BIMIBIMI](http://www.bimibimi.tv/)
 * 2019.09.02 -- [星际牛仔](http://www.dilidili.name/anime/CowboyBebop/)
 * 2019.09.02 -- [文豪野犬第二季](http://www.dilidili.name/anime/whstagr2/)
 * 2019.09.02 -- [文豪野犬第一季](http://www.dilidili.name/anime/wenhao/)
@@ -249,6 +259,8 @@
 
 ### Read
 
+* 2019.10.11 -- [不超载卡车司机饿死，超载整个货运行业饿死，到底该咋办？](https://weibo.com/ttarticle/p/show?id=2309404426168060215347)
+* 2019.09.23 -- [圆形监狱的守望者——『PSYCHO-PASS』的社会寓言](https://zhuanlan.zhihu.com/p/26223829)
 * 2019.09.09 -- [如何评价奈克瑟斯奥特曼在整个奥特曼系列中的地位？](https://www.zhihu.com/question/34887326/answer/138292937)
 * 2019.08.16 -- [沉迷于花式传销的老师](http://renjian.163.com/18/0728/19/DNQTMS9J000181RV.html)
 * 2019.08.15 -- [我的工作，是一名游戏托](http://renjian.163.com/19/0125/12/E6C8OR8U000181RK.html)
