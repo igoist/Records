@@ -84,6 +84,9 @@
 
 ### JS
 
+* 2019.11.02 -- [自定义动画公式](https://edwardzhong.github.io/sites/demo/dist/bezierfun.html)
+* 2019.11.02 -- [动画函数的绘制及自定义动画函数](https://www.jianshu.com/p/bfd0feecd746)
+* 2019.10.30 -- [JS计算当前日期+6个月后的日期](https://blog.csdn.net/TianHuMin/article/details/76485492)
 * 2019.09.29 -- [Build Real Time Face Detection With JavaScript](https://www.youtube.com/watch?v=CVClHLwv-4I)
 * 2019.09.29 -- [face-api](https://github.com/justadudewhohacks/face-api.js)
 * 2019.09.15 -- [TensorFlow 官网](https://tensorflow.google.cn/js)
@@ -152,6 +155,7 @@
 
 ### Web
 
+* 2019.11.01 -- [Ant Design Pro总结篇](http://blog.poetries.top/2018/09/16/ant-design-pro/)
 * 2019.09.09 -- [走进HTML5-让你从不懂到精通SVG(大量实例操作)](https://juejin.im/post/5d74740f5188254055181b1a)
 * 2019.09.09 -- [京东 PC 首页 2019 改版前端总结](https://juejin.im/post/5d71c98a6fb9a06ae8362f52)
 * 2019.08.09 -- [利用摸鱼时间做的又一个摸鱼程序来啦，支持 PC、移动 Web、Chrome 插件和 PWA。](https://www.v2ex.com/t/588152#reply11)
