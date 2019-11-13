@@ -72,6 +72,8 @@
 
 ### NodeJS
 
+* 2019.11.05 -- [狼叔：如何正确的学习Node.js](https://cnodejs.org/topic/5ab3166be7b166bb7b9eccf7)
+* 2019.11.05 -- [为什么我这个 Java 死忠倒向了 Node.js？](https://blog.csdn.net/csdnnews/article/details/82321776)
 * 2019.10.08 -- [yarn cache](https://yarnpkg.com/lang/en/docs/cli/cache/)
 * 2019.09.03 -- [speedtest-net](https://www.npmjs.com/package/speedtest-net)
 * 2019.06.18 -- [How do I move files in node.js?](https://stackoverflow.com/questions/8579055/how-do-i-move-files-in-node-js)
@@ -155,6 +157,8 @@
 
 ### Web
 
+* 2019.11.05 -- [Handling Failed HTTP Responses With fetch()](https://gist.github.com/odewahn/5a5eeb23279eed6a80d7798fdb47fe91)
+* 2019.11.05 -- [response.json() gives an error "unexpected end of input"](https://github.com/github/fetch/issues/268)
 * 2019.11.01 -- [Ant Design Pro总结篇](http://blog.poetries.top/2018/09/16/ant-design-pro/)
 * 2019.09.09 -- [走进HTML5-让你从不懂到精通SVG(大量实例操作)](https://juejin.im/post/5d74740f5188254055181b1a)
 * 2019.09.09 -- [京东 PC 首页 2019 改版前端总结](https://juejin.im/post/5d71c98a6fb9a06ae8362f52)
