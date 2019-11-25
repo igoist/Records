@@ -118,8 +118,14 @@
 * 2019.06.14 -- [旧项目TypeScript改造问题与解决方案记](https://segmentfault.com/a/1190000015747038)
 
 
+### Umi & Dva 等相关
+
+* 2019.11.21 -- [effect中读取state的值](https://github.com/dvajs/dva/issues/1103)
+
+
 ### React
 
+* 2019.11.21 -- [funny - New Rule: jsx-no-multiline-js #4](https://github.com/palantir/tslint-react/issues/4)
 * 2019.10.09 -- [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 * 2019.09.17 -- [云栖社区课程：承玉老哥的课](https://yq.aliyun.com/video/play/753?spm=5176.8657658.744400.2.6810102bk3u4C0)
 * 2019.08.09 -- [react-virtualized  set num cells 3000](https://bvaughn.github.io/react-virtualized/#/components/Collection)
@@ -157,6 +163,7 @@
 
 ### Web
 
+* 2019.11.13 -- [Ad: Google Publisher Tag 新域名](https://support.google.com/admanager/answer/1638622?hl=en)
 * 2019.11.05 -- [Handling Failed HTTP Responses With fetch()](https://gist.github.com/odewahn/5a5eeb23279eed6a80d7798fdb47fe91)
 * 2019.11.05 -- [response.json() gives an error "unexpected end of input"](https://github.com/github/fetch/issues/268)
 * 2019.11.01 -- [Ant Design Pro总结篇](http://blog.poetries.top/2018/09/16/ant-design-pro/)
@@ -200,6 +207,7 @@
 
 ### Other
 
+* 2019.11.20 -- [HiNative](https://hinative.com/)
 * 2019.10.19 -- [你用什么VPN](https://cnodejs.org/topic/5514b132e26684ed7ff21bf2)
 * 2019.10.11 -- [百变星君片头](https://www.youtube.com/watch?v=zkTAwH4BZOU)
 * 2019.09.07 -- [无工可开，Nexon遭员工大规模示威抗议](https://bbs.colg.cn/thread-7609529-1-1.html)
@@ -267,6 +275,7 @@
 
 ### Read
 
+* 2019.11.21 -- [解读《百年孤独》的十大魔幻之谜](https://zhuanlan.zhihu.com/p/36328652)
 * 2019.10.11 -- [不超载卡车司机饿死，超载整个货运行业饿死，到底该咋办？](https://weibo.com/ttarticle/p/show?id=2309404426168060215347)
 * 2019.09.23 -- [圆形监狱的守望者——『PSYCHO-PASS』的社会寓言](https://zhuanlan.zhihu.com/p/26223829)
 * 2019.09.09 -- [如何评价奈克瑟斯奥特曼在整个奥特曼系列中的地位？](https://www.zhihu.com/question/34887326/answer/138292937)
