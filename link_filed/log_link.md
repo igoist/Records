@@ -23,6 +23,11 @@
 * 2019.02.14 -- [超时空伤害字体补丁提前体验，普通伤害字体改超时空漩涡伤害字体补丁](http://bbs.duowan.com/thread-46645712-1-1.html)
 
 
+### BiliBili
+
+* 2019.06.20 -- [专栏：吹响吧上低音号](https://www.bilibili.com/blackboard/topic/activity-jingchuiPC.html?spm_id_from=666.4.b_62616e6e65725f6c696e6b.13)
+
+
 ### Blog
 
 * 2019.06.20 -- [姜小白](https://www.douban.com/people/bdleizi/)
@@ -120,6 +125,7 @@
 
 ### Umi & Dva 等相关
 
+* 2019.11.27 -- [dispatch方法的回调函数怎么使用](https://github.com/dvajs/dva/issues/1671)
 * 2019.11.21 -- [effect中读取state的值](https://github.com/dvajs/dva/issues/1103)
 
 
@@ -163,6 +169,7 @@
 
 ### Web
 
+* 2019.11.27 -- [how-can-i-get-query-string-values-in-javascript](https://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript)
 * 2019.11.13 -- [Ad: Google Publisher Tag 新域名](https://support.google.com/admanager/answer/1638622?hl=en)
 * 2019.11.05 -- [Handling Failed HTTP Responses With fetch()](https://gist.github.com/odewahn/5a5eeb23279eed6a80d7798fdb47fe91)
 * 2019.11.05 -- [response.json() gives an error "unexpected end of input"](https://github.com/github/fetch/issues/268)
@@ -275,6 +282,7 @@
 
 ### Read
 
+* 2019.12.06 -- [他在最后的电话里聊到死亡，就像聊春游和天气一样平常](https://zhuanlan.zhihu.com/p/58343722)
 * 2019.11.21 -- [解读《百年孤独》的十大魔幻之谜](https://zhuanlan.zhihu.com/p/36328652)
 * 2019.10.11 -- [不超载卡车司机饿死，超载整个货运行业饿死，到底该咋办？](https://weibo.com/ttarticle/p/show?id=2309404426168060215347)
 * 2019.09.23 -- [圆形监狱的守望者——『PSYCHO-PASS』的社会寓言](https://zhuanlan.zhihu.com/p/26223829)
