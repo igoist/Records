@@ -91,6 +91,7 @@
 
 ### JS
 
+* 2019.12.09 -- [创建长度为 100 的数组](https://juejin.im/entry/58d54d0da22b9d0064597c30)
 * 2019.11.02 -- [自定义动画公式](https://edwardzhong.github.io/sites/demo/dist/bezierfun.html)
 * 2019.11.02 -- [动画函数的绘制及自定义动画函数](https://www.jianshu.com/p/bfd0feecd746)
 * 2019.10.30 -- [JS计算当前日期+6个月后的日期](https://blog.csdn.net/TianHuMin/article/details/76485492)
@@ -131,6 +132,8 @@
 
 ### React
 
+* 2019.12.17 -- [umi入门](https://www.yuque.com/umijs/umi/mock)
+* 2019.12.09 -- [Debouncing with React Hooks](https://dev.to/gabe_ragland/debouncing-with-react-hooks-jci)
 * 2019.11.21 -- [funny - New Rule: jsx-no-multiline-js #4](https://github.com/palantir/tslint-react/issues/4)
 * 2019.10.09 -- [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 * 2019.09.17 -- [云栖社区课程：承玉老哥的课](https://yq.aliyun.com/video/play/753?spm=5176.8657658.744400.2.6810102bk3u4C0)
@@ -214,6 +217,7 @@
 
 ### Other
 
+* 2019.12.16 -- [霍乱时期的爱情：第五章 · 一](https://www.luoxia.com/huoluanshiqideaiqing/90752.htm)
 * 2019.11.20 -- [HiNative](https://hinative.com/)
 * 2019.10.19 -- [你用什么VPN](https://cnodejs.org/topic/5514b132e26684ed7ff21bf2)
 * 2019.10.11 -- [百变星君片头](https://www.youtube.com/watch?v=zkTAwH4BZOU)
@@ -282,6 +286,7 @@
 
 ### Read
 
+* 2019.12.13 -- [凱旋十二 | 我是包丽的朋友，真相远比你知道的更可怕](https://chinadigitaltimes.net/chinese/2019/12/%E5%87%B1%E6%97%8B%E5%8D%81%E4%BA%8C-%E6%88%91%E6%98%AF%E5%8C%85%E4%B8%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%8C%E7%9C%9F%E7%9B%B8%E8%BF%9C%E6%AF%94%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9B%B4/)
 * 2019.12.06 -- [他在最后的电话里聊到死亡，就像聊春游和天气一样平常](https://zhuanlan.zhihu.com/p/58343722)
 * 2019.11.21 -- [解读《百年孤独》的十大魔幻之谜](https://zhuanlan.zhihu.com/p/36328652)
 * 2019.10.11 -- [不超载卡车司机饿死，超载整个货运行业饿死，到底该咋办？](https://weibo.com/ttarticle/p/show?id=2309404426168060215347)
