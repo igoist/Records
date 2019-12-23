@@ -286,6 +286,7 @@
 
 ### Read
 
+* 2019.12.19 -- [王石：现在的年轻人太急躁了 别老想着赚钱](https://finance.sina.com.cn/manage/crz/2019-11-01/doc-iicezuev6419151.shtml)
 * 2019.12.13 -- [凱旋十二 | 我是包丽的朋友，真相远比你知道的更可怕](https://chinadigitaltimes.net/chinese/2019/12/%E5%87%B1%E6%97%8B%E5%8D%81%E4%BA%8C-%E6%88%91%E6%98%AF%E5%8C%85%E4%B8%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%8C%E7%9C%9F%E7%9B%B8%E8%BF%9C%E6%AF%94%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9B%B4/)
 * 2019.12.06 -- [他在最后的电话里聊到死亡，就像聊春游和天气一样平常](https://zhuanlan.zhihu.com/p/58343722)
 * 2019.11.21 -- [解读《百年孤独》的十大魔幻之谜](https://zhuanlan.zhihu.com/p/36328652)
