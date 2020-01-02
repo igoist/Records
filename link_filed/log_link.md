@@ -217,6 +217,7 @@
 
 ### Other
 
+* 2019.12.31 -- [关于目力先辈的一些考证（迫真）](https://www.bilibili.com/read/cv265288/)
 * 2019.12.16 -- [霍乱时期的爱情：第五章 · 一](https://www.luoxia.com/huoluanshiqideaiqing/90752.htm)
 * 2019.11.20 -- [HiNative](https://hinative.com/)
 * 2019.10.19 -- [你用什么VPN](https://cnodejs.org/topic/5514b132e26684ed7ff21bf2)
@@ -286,6 +287,7 @@
 
 ### Read
 
+* 2019.12.30 -- [雷磊：居住在桥洞下的中年人](https://zhuanlan.zhihu.com/p/91754073)
 * 2019.12.19 -- [王石：现在的年轻人太急躁了 别老想着赚钱](https://finance.sina.com.cn/manage/crz/2019-11-01/doc-iicezuev6419151.shtml)
 * 2019.12.13 -- [凱旋十二 | 我是包丽的朋友，真相远比你知道的更可怕](https://chinadigitaltimes.net/chinese/2019/12/%E5%87%B1%E6%97%8B%E5%8D%81%E4%BA%8C-%E6%88%91%E6%98%AF%E5%8C%85%E4%B8%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%8C%E7%9C%9F%E7%9B%B8%E8%BF%9C%E6%AF%94%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9B%B4/)
 * 2019.12.06 -- [他在最后的电话里聊到死亡，就像聊春游和天气一样平常](https://zhuanlan.zhihu.com/p/58343722)
