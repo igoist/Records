@@ -25,6 +25,7 @@
 
 ### BiliBili
 
+* 2019.12.31 -- [我从这部90年代神剧，找到了2020的正确打开方式](https://www.bilibili.com/read/cv4175672?from=1002&spm_id_from=333.851.b_7265706f7274466972737431.4)
 * 2019.06.20 -- [专栏：吹响吧上低音号](https://www.bilibili.com/blackboard/topic/activity-jingchuiPC.html?spm_id_from=666.4.b_62616e6e65725f6c696e6b.13)
 
 
@@ -91,6 +92,7 @@
 
 ### JS
 
+* 2020.01.05 -- [事件代理原理](https://www.cnblogs.com/html55/p/10164914.html)
 * 2019.12.09 -- [创建长度为 100 的数组](https://juejin.im/entry/58d54d0da22b9d0064597c30)
 * 2019.11.02 -- [自定义动画公式](https://edwardzhong.github.io/sites/demo/dist/bezierfun.html)
 * 2019.11.02 -- [动画函数的绘制及自定义动画函数](https://www.jianshu.com/p/bfd0feecd746)
