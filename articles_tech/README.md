@@ -23,3 +23,5 @@
 * 0014.md -> TypeScript 笔记
 * 0015.md -> 项目脚手架折腾回忆录
 * 0016.md -> umi 备忘
+* 0017.md -> Pinterest 插件分析
+* 0018.md -> Chrome 插件开发笔记

@@ -25,6 +25,7 @@
 
 ### BiliBili
 
+* 2020.01.25 -- [2020拜年祭](https://www.bilibili.com/blackboard/bnj2020.html)
 * 2019.12.31 -- [我从这部90年代神剧，找到了2020的正确打开方式](https://www.bilibili.com/read/cv4175672?from=1002&spm_id_from=333.851.b_7265706f7274466972737431.4)
 * 2019.06.20 -- [专栏：吹响吧上低音号](https://www.bilibili.com/blackboard/topic/activity-jingchuiPC.html?spm_id_from=666.4.b_62616e6e65725f6c696e6b.13)
 
@@ -39,6 +40,11 @@
 
 ### Chrome
 
+* 2020.04.17 -- [狙杀页面卡顿 —— Performance 工具指北](https://zhuanlan.zhihu.com/p/41017888)
+* 2020.03.19 -- [View, Edit, And Delete Cookies With Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/storage/cookies?utm_source=devtools)
+* 2020.03.19 -- [OAuth2: Authenticate Users with Google](https://developer.chrome.com/extensions/tut_oauth)
+* 2020.03.19 -- [Updated Privacy Policy & Secure Handling Requirements](https://developer.chrome.com/webstore/user_data)
+* 2020.03.16 -- [Load iframe into the page, using Chrome Extension content script](https://stackoverflow.com/questions/48604989/load-iframe-into-the-page-using-chrome-extension-content-script/49163123#49163123)
 * 2019.10.12 -- [chrome extension using a content script to access the `window` object](https://gist.github.com/devjin0617/3e8d72d94c1b9e69690717a219644c7a)
 * 2019.10.12 -- [external-webpage 需要配合二级域名？](https://developer.chrome.com/extensions/messaging#external-webpage)
 * 2019.10.12 -- [Optionally inject Content Script](https://stackoverflow.com/questions/26667112/optionally-inject-content-script)
@@ -55,6 +61,7 @@
 
 ### CSS
 
+* 2019.08.08 -- [3DHoverEffects](https://tympanus.net/Tutorials/3DHoverEffects/)
 * 2019.08.08 -- [FlippinBurgers](http://localhost/Web/goods/Daily/180822/FlippinBurgers/)
 * 2019.07.29 -- [Hide scroll bar, but while still being able to scroll](https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll)
 * 2019.06.11 -- [十分钟实现灭霸打响指灰飞烟灭的效果](https://github.com/hoc2019/blog)
@@ -134,6 +141,7 @@
 
 ### React
 
+* 2019.12.17 -- [JavaScript (React) 三角函数可视化](https://zhuanlan.zhihu.com/p/72514614)
 * 2019.12.17 -- [umi入门](https://www.yuque.com/umijs/umi/mock)
 * 2019.12.09 -- [Debouncing with React Hooks](https://dev.to/gabe_ragland/debouncing-with-react-hooks-jci)
 * 2019.11.21 -- [funny - New Rule: jsx-no-multiline-js #4](https://github.com/palantir/tslint-react/issues/4)
@@ -174,6 +182,10 @@
 
 ### Web
 
+* 2020.04.15 -- [strml.net](https://www.strml.net/)
+* 2020.04.09 -- [... react-three-fiber?](https://codesandbox.io/embed/r3f-sparks-sbf2i)
+* 2020.04.09 -- [... react-three-fiber?](https://codesandbox.io/s/react-three-fiber-untitled-game-i2160)
+* 2020.04.07 -- [Center a popup window on screen](https://stackoverflow.com/questions/4068373/center-a-popup-window-on-screen)
 * 2019.11.27 -- [how-can-i-get-query-string-values-in-javascript](https://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript)
 * 2019.11.13 -- [Ad: Google Publisher Tag 新域名](https://support.google.com/admanager/answer/1638622?hl=en)
 * 2019.11.05 -- [Handling Failed HTTP Responses With fetch()](https://gist.github.com/odewahn/5a5eeb23279eed6a80d7798fdb47fe91)
@@ -196,6 +208,7 @@
 
 ### Webpack
 
+* 2020.04.17 -- [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007)
 * 2019.09.17 -- [babel 升级到7.X采坑总结](https://segmentfault.com/a/1190000016458913)
 * 2019.06.27 -- [利用webpack搭建mock API服务](https://www.imqianduan.com/webpack/90.html)
 * 2019.06.27 -- [Nginx，Charles与Webpack配置前端API代理教程(超详细)](https://juejin.im/post/5bb0e6b55188255c6e707237)
@@ -219,6 +232,13 @@
 
 ### Other
 
+* 2020.04.17 -- [算法-动态规划 Dynamic Programming--从菜鸟到老鸟](https://blog.csdn.net/u013309870/article/details/75193592)
+* 2020.04.07 -- [面包](https://haokan.baidu.com/v?vid=8217638353856798783&pd=bjh&fr=bjhauthor&type=video)
+* 2020.04.03 -- [朝鲜游记](http://www.mafengwo.cn/gonglve/ziyouxing/82678.html)
+* 2020.03.19 -- [熟悉这十首歌，《头号玩家》才能让你燃起来！](https://www.douban.com/note/664278108/)
+* 2020.03.19 -- [这次疫情让你看到了什么](https://www.zhihu.com/question/371062992)
+* 2020.03.17 -- [狗采臣金华赶考记](https://www.sohu.com/a/357158169_459568)
+* 2020.01.07 -- [外接 USB / 显示器对 WiFi 的干扰](https://blog.iwyc.cn/usb_wifi)
 * 2019.12.31 -- [关于目力先辈的一些考证（迫真）](https://www.bilibili.com/read/cv265288/)
 * 2019.12.16 -- [霍乱时期的爱情：第五章 · 一](https://www.luoxia.com/huoluanshiqideaiqing/90752.htm)
 * 2019.11.20 -- [HiNative](https://hinative.com/)
@@ -289,6 +309,10 @@
 
 ### Read
 
+* 2020.04.13 -- [回溯與前瞻——女性性自治權的刑法保護](http://pkulaw.cn/fulltext_form.aspx?Db=qikan&Gid=1510066688&keyword=&EncodingName=big5&Search_Mode=)
+* 2020.04.13 -- [论欺诈型强奸](http://edu.zndxsk.com.cn/upfile/soft/2008531/2008531214940460.pdf)
+* 2020.03.12 -- [检察日报：肖战事件：是非曲直如何评说](https://card.weibo.com/article/m/show/id/2309404481206115762190?_wb_client_=1)
+* 2020.03.02 -- [华语网：《阿Q正传》](https://www.thn21.com/Article/chang/weiren/aqzz2.html)
 * 2019.12.30 -- [雷磊：居住在桥洞下的中年人](https://zhuanlan.zhihu.com/p/91754073)
 * 2019.12.19 -- [王石：现在的年轻人太急躁了 别老想着赚钱](https://finance.sina.com.cn/manage/crz/2019-11-01/doc-iicezuev6419151.shtml)
 * 2019.12.13 -- [凱旋十二 | 我是包丽的朋友，真相远比你知道的更可怕](https://chinadigitaltimes.net/chinese/2019/12/%E5%87%B1%E6%97%8B%E5%8D%81%E4%BA%8C-%E6%88%91%E6%98%AF%E5%8C%85%E4%B8%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%8C%E7%9C%9F%E7%9B%B8%E8%BF%9C%E6%AF%94%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9B%B4/)
