@@ -182,6 +182,7 @@
 
 ### Web
 
+* 2020.04.28 -- [文件上传的渐进式增强](http://www.ruanyifeng.com/blog/2012/08/file_upload.html)
 * 2020.04.15 -- [strml.net](https://www.strml.net/)
 * 2020.04.09 -- [... react-three-fiber?](https://codesandbox.io/embed/r3f-sparks-sbf2i)
 * 2020.04.09 -- [... react-three-fiber?](https://codesandbox.io/s/react-three-fiber-untitled-game-i2160)
@@ -208,6 +209,7 @@
 
 ### Webpack
 
+* 2020.04.17 -- [How to ignore test files in webpack with ts-loader](https://stackoverrun.com/cn/q/11351175)
 * 2020.04.17 -- [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007)
 * 2019.09.17 -- [babel 升级到7.X采坑总结](https://segmentfault.com/a/1190000016458913)
 * 2019.06.27 -- [利用webpack搭建mock API服务](https://www.imqianduan.com/webpack/90.html)
@@ -232,6 +234,7 @@
 
 ### Other
 
+* 2020.04.27 -- [因抢一个月饼遭阿里开除，如今的他把生活过成这样](https://www.sohu.com/a/121402032_507233)
 * 2020.04.17 -- [算法-动态规划 Dynamic Programming--从菜鸟到老鸟](https://blog.csdn.net/u013309870/article/details/75193592)
 * 2020.04.07 -- [面包](https://haokan.baidu.com/v?vid=8217638353856798783&pd=bjh&fr=bjhauthor&type=video)
 * 2020.04.03 -- [朝鲜游记](http://www.mafengwo.cn/gonglve/ziyouxing/82678.html)
@@ -305,10 +308,12 @@
 * 2019.05.27 -- [Youtube 半泽直树](https://www.youtube.com/watch?v=E6SffWDt4wk&list=PLD_tzx_5cFP8riOk5ESfhYbe6Oitl0c5A&index=4)
 * 2019.05.16 -- [游戏王GX合集](https://www.bilibili.com/video/av45011499?spm_id_from=333.334.b_62696c695f62616e67756d69.66)
 * 2019.04.30 -- [权利的游戏第八季](https://www.ttkmj.net/a/6526)
+* 2020.05.06 -- [R & M](https://ddrk.me/rick-and-morty/3/)
 
 
 ### Read
 
+* 2020.04.28 -- [文件上传的渐进式增强](http://www.ruanyifeng.com/blog/2012/08/file_upload.html)
 * 2020.04.13 -- [回溯與前瞻——女性性自治權的刑法保護](http://pkulaw.cn/fulltext_form.aspx?Db=qikan&Gid=1510066688&keyword=&EncodingName=big5&Search_Mode=)
 * 2020.04.13 -- [论欺诈型强奸](http://edu.zndxsk.com.cn/upfile/soft/2008531/2008531214940460.pdf)
 * 2020.03.12 -- [检察日报：肖战事件：是非曲直如何评说](https://card.weibo.com/article/m/show/id/2309404481206115762190?_wb_client_=1)
