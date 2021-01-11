@@ -2,8 +2,39 @@
 
 
 
+0904 - 7.1w + 6000 + 55 占星
+magnet:?xt=urn:btih:54517833f6fd2e4903ff740d3a0b53753d1c79b
+http://lol.qq.com/v/v2/detail.shtml?docid=9011289160973688195
+
+https://v.youku.com/v_show/id_XMzc4MDA1NDg3Ng==.html?spm=a2h1n.8251843.playList.5!19~5~A&f=51860084&o=1
+
 ### Specical
 
+* 2020.12.15 -- [MacbookPro 2015原装电池鼓了包，自己动手换电池]()
+* 2020.11.28 -- [阿里云相关教程](https://developer.aliyun.com/course/46?spm=5176.19772248.J_4516762590.d365.1eaa514cOHCL8v&scm=20140722.2866.1.2778)
+* 2020.11.23 -- [Mac 充电线更换方案](https://post.smzdm.com/p/az59d98o/)
+* 2020.11.02 -- [永恒的顿河：肖洛霍夫和《静静的顿河》](http://www.saohua.com/shuku/review/wx073.htm)
+* 2020.11.02 -- [music](https://github.com/qier222/YesPlayMusic)
+* 2020.11.02 -- [网易云音乐 API](https://github.com/Binaryify/NeteaseCloudMusicApi)
+* 2020.11.02 -- [网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=%e5%8f%af%e4%bb%a5%e4%bd%bf%e7%94%a8%e4%bb%a3%e7%90%86)
+* 2020.11.02 -- [鱼塘热榜](https://mo.fish/)
+* 2020.11.02 -- [渤海堂主人](https://www.zhihu.com/people/bo-hai-tang-zhu-ren)
+* 2020.11.02 -- [孟北鱼](https://www.zhihu.com/people/yi-yun-fan/)
+* 2020.10.01 -- [BBZS SE02 磁力](http://www.hao6v.net/rj/2020-07-20/35646.html)
+* 2020.09.27 -- [BBZS 磁力](http://www.hao6v.net/rj/2013-07-19/20952.html)
+* 2020.09.27 -- [BBZS S02](https://www.jsr9.com/video/meiju/banzezhishu/2-1)
+* 2020.09.21 -- [Regex 学习正则](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
+* 2020.09.21 -- [醒世恒言](https://www.99csw.com/book/2189/index.htm)
+* 2020.09.21 -- [苏童作品集](https://www.kanunu8.com/files/writer/116.html)
+* 2020.09.10 -- [PUA！](http://bbs.tianya.cn/post-feeling-4516001-1.shtml)
+* 2020.09.10 -- [小咸菜1996](http://bbs.tianya.cn/post-feeling-4513802-4.shtml)
+* 2020.09.09 -- [灵魂桥](https://tieba.baidu.com/p/7114782006?pid=136672255501&cid=#136672255501)
+* 2020.09.09 -- [时魔的远征](https://tieba.baidu.com/p/6905482406?pn=2)
+* 2020.09.27 -- [BBZS](https://www3.dramacool.movie/hanzawa-naoki-episode-5.html)
+* 2020.08.25 -- [BBZS](https://www.jsr9.com/video/meiju/banzezhishu/1-1)
+* 2020.07.15 -- [透过《剑与远征》的成功之路，看造就下一个现象级爆款的必备条件](https://www.gameres.com/866471.html)
+* 2020.07.15 -- [做过《小冰冰传奇》后，这个团队如何为莉莉丝做出下一个爆款？](http://youxiputao.com/articles/18747)
+* 2020.07.03 -- [剑与远征](https://forum.gamer.com.tw/C.php?bsn=36833&snA=8484)
 * 2019.08.29 -- [王朔作品集](http://wangshuo.zuopinj.com/)
 * 2019.08.14 -- [网易人间：先看骗局](http://renjian.163.com/special/renjian_daxie/)
 * 2019.03.21 -- [abc@abcdefg123.com](https://web.autocad.com/)
@@ -21,6 +52,8 @@
 * 2019.02.19 -- [哈林装备选择](http://cdn.helper.qq.com/web/share.html?iInfoId=793608&cGameId=10014&cChannelId=5&gameId=10014&env=formal&gameId=10014)
 * 2019.02.16 -- [dnf黑暗武士刷图加点](http://www.dnfziliao.com/pro/dark.asp)
 * 2019.02.14 -- [超时空伤害字体补丁提前体验，普通伤害字体改超时空漩涡伤害字体补丁](http://bbs.duowan.com/thread-46645712-1-1.html)
+* 2020.11.28 -- [奏之曲](https://v.youku.com/v_show/id_XNTI2Nzk1Mzg0.html?spm=a2h0c.8166622.PhoneSokuUgc_3.dtitle)
+* 2020.11.28 -- [9首适合初学者的好听又简单的钢琴曲](https://www.flowkey.com/zh/%E7%AE%80%E5%8D%95%E9%92%A2%E7%90%B4%E8%B0%B1-%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%E5%8A%A8%E5%90%AC-%E7%B0%A1%E5%96%AE%E7%9A%84%E9%92%A2%E7%90%B4%E8%B0%B1)
 
 
 ### BiliBili
@@ -40,6 +73,7 @@
 
 ### Chrome
 
+* 2020.08.25 -- [open-google-chrome.bat](https://gist.github.com/iissnan/0e80b25a942be19621e8f260d33e7a0f)
 * 2020.04.17 -- [狙杀页面卡顿 —— Performance 工具指北](https://zhuanlan.zhihu.com/p/41017888)
 * 2020.03.19 -- [View, Edit, And Delete Cookies With Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/storage/cookies?utm_source=devtools)
 * 2020.03.19 -- [OAuth2: Authenticate Users with Google](https://developer.chrome.com/extensions/tut_oauth)
@@ -61,6 +95,8 @@
 
 ### CSS
 
+* 2020.09.14 -- [CSShake](http://elrumordelaluz.github.io/csshake/)
+* 2020.05.06 -- [Page Transition with Loader](https://codepen.io/johnheiner/pen/JdRybK)
 * 2019.08.08 -- [3DHoverEffects](https://tympanus.net/Tutorials/3DHoverEffects/)
 * 2019.08.08 -- [FlippinBurgers](http://localhost/Web/goods/Daily/180822/FlippinBurgers/)
 * 2019.07.29 -- [Hide scroll bar, but while still being able to scroll](https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll)
@@ -75,6 +111,7 @@
 
 ### Electron
 
+* 2020.11.02 -- [Electron构建一个文件浏览器应用(一)](https://www.cnblogs.com/tugenhua0707/p/11080473.html)
 * 2019.07.24 -- [Electron require() is not defined](https://stackoverflow.com/questions/44391448/electron-require-is-not-defined)
 * 2019.06.25 -- [Color](http://colorizer.org/)
 * 2019.06.25 -- [原生js实现拾色器插件](https://segmentfault.com/a/1190000013653408)
@@ -85,6 +122,14 @@
 
 ### NodeJS
 
+* 2020.11.02 -- [如何使用koa2+es6/7打造高质量Restful API](https://zhuanlan.zhihu.com/p/26216336)
+* 2020.11.02 -- [WebSocket 原理浅析与实现简单聊天](https://juejin.im/post/6844904001654226958)
+* 2020.11.02 -- [fiora](https://github.com/yinxin630/fiora)
+* 2020.11.02 -- [如何优雅的在 koa 中处理错误](https://developer.aliyun.com/article/8539)
+* 2020.11.02 -- [Nodejs 进阶：Express 常用中间件 body-parser 实现解析](https://www.cnblogs.com/chyingp/p/nodejs-learning-express-body-parser.html)
+* 2020.11.02 -- [execa](https://github.com/sindresorhus/execa)
+* 2020.10.09 -- [node-torrent](https://github.com/superafroman/node-torrent)
+* 2020.08.25 -- [Node.js执行系统命令](https://juejin.im/post/6844903612842246157)
 * 2019.11.05 -- [狼叔：如何正确的学习Node.js](https://cnodejs.org/topic/5ab3166be7b166bb7b9eccf7)
 * 2019.11.05 -- [为什么我这个 Java 死忠倒向了 Node.js？](https://blog.csdn.net/csdnnews/article/details/82321776)
 * 2019.10.08 -- [yarn cache](https://yarnpkg.com/lang/en/docs/cli/cache/)
@@ -99,6 +144,10 @@
 
 ### JS
 
+* 2020.11.02 -- [JavaScript错误处理完全指南](https://www.infoq.cn/article/glS9HjuSGhQMLL1zowwN)
+* 2020.11.02 -- [umi 的 mock 功能](https://my.oschina.net/u/4353951/blog/3592614)
+* 2020.09.28 -- [浅析鸿蒙 JavaScript GUI 技术栈](https://zhuanlan.zhihu.com/p/240594356)
+* 2020.06.05 -- [求两个数组的并集减去交集的部分](https://segmentfault.com/q/1010000009909491)
 * 2020.01.05 -- [事件代理原理](https://www.cnblogs.com/html55/p/10164914.html)
 * 2019.12.09 -- [创建长度为 100 的数组](https://juejin.im/entry/58d54d0da22b9d0064597c30)
 * 2019.11.02 -- [自定义动画公式](https://edwardzhong.github.io/sites/demo/dist/bezierfun.html)
@@ -141,6 +190,12 @@
 
 ### React
 
+* 2020.11.24 -- [Five common mistakes writing react components (with hooks) in 2020](https://www.lorenzweiss.de/common_mistakes_react_hooks/)
+* 2020.11.02 -- [React Hooks测试完全指南](https://zhuanlan.zhihu.com/p/220278150)
+* 2020.11.02 -- [React Hooks完全上手指南](https://zhuanlan.zhihu.com/p/92211533)
+* 2020.11.02 -- [Reusable Time Travel with React Hooks and Immer](https://frontarm.com/swyx/reusable-time-travel-react-hooks-immer/)
+* 2020.08.26 -- [React Hooks 原理](https://github.com/brickspert/blog/issues/26)
+* 2020.06.09 -- [React Draggable Tags](https://ygyooo.github.io/react-draggable-tags/)
 * 2019.12.17 -- [JavaScript (React) 三角函数可视化](https://zhuanlan.zhihu.com/p/72514614)
 * 2019.12.17 -- [umi入门](https://www.yuque.com/umijs/umi/mock)
 * 2019.12.09 -- [Debouncing with React Hooks](https://dev.to/gabe_ragland/debouncing-with-react-hooks-jci)
@@ -163,6 +218,12 @@
 * 2019.06.11 -- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 
 
+### Flutter
+
+* 2019.11.13 -- [Mac上更新Ruby](https://juejin.im/post/6844903535130198024)
+* 2019.11.02 -- [使用 Flutter 快速实现聊天应用](https://xie.infoq.cn/article/724fe19d49dc0ae562744d0ab)
+
+
 ### Lint & Format
 
 * 2019.09.19 -- [使用ESLint+Prettier来统一前端代码风格](https://zhuanlan.zhihu.com/p/38267286)
@@ -180,8 +241,21 @@
 * 2019.08.16 -- [Event Delegation with MooTools, Dojo, and jQuery](https://davidwalsh.name/delegate-event)
 
 
+## Gulp
+
+* 2020.06.07 -- [Gulp 工作流中Sass 增量编译功能的探索](https://devework.com/sass-incremental-builds-in-gulp.html)
+
+
 ### Web
 
+* 2020.11.28 -- [大促会场性能保障全揭秘|618淘系前端技术分享](https://juejin.cn/post/6847902224614424589)
+* 2020.11.27 -- [分享一个页面平滑滚动小技巧](https://segmentfault.com/a/1190000020769492)
+* 2020.11.27 -- [如何用Three.js快速实现全景图](https://zhuanlan.zhihu.com/p/40881782)
+* 2020.11.16 -- [网络安全基础知识思维导图](https://github.com/MiYogurt/network-security-mind-map)
+* 2020.11.02 -- [HTML 解析与 CSS 计算](https://xie.infoq.cn/article/6a511f0ebdb6e555a5438c2fe)
+* 2020.11.02 -- [说说你对浏览器缓存的理解](https://juejin.im/post/6854573208444600333)
+* 2020.07.16 -- [Moment JS - check if a date is today or in the future](https://stackoverflow.com/questions/21284312/moment-js-check-if-a-date-is-today-or-in-the-future)
+* 2020.05.14 -- [打造高大上的Canvas粒子动画](https://blog.csdn.net/yeana1/article/details/52460490)
 * 2020.04.28 -- [文件上传的渐进式增强](http://www.ruanyifeng.com/blog/2012/08/file_upload.html)
 * 2020.04.15 -- [strml.net](https://www.strml.net/)
 * 2020.04.09 -- [... react-three-fiber?](https://codesandbox.io/embed/r3f-sparks-sbf2i)
@@ -204,11 +278,23 @@
 
 ### Spider
 
+* 2020.11.02 -- [V2EX-API](https://github.com/igaozp/V2EX-API)
+* 2020.11.02 -- [知乎爬虫-爬取问题下面所有回答](https://zhuanlan.zhihu.com/p/78552777)
+* 2020.11.02 -- [随手找到的知乎的API](https://zhuanlan.zhihu.com/p/87029765)
+* 2020.11.02 -- [Zhihu API](https://github.com/lzjun567/zhihu-api)
 * 2019.06.27 -- [开放一爬虫接口，各位 V 友按需取用～](https://www.v2ex.com/t/578957)
+
+
+### Swift & Swift UI
+
+* 2020.10.20 -- [官网 Tutorials](https://developer.apple.com/xcode/swiftui/)
+* 2020.10.20 -- [如何系统地自学 Swift 语言并学会 iOS 开发？](https://www.zhihu.com/question/49328078/answer/1303664582)
+* 2020.10.20 -- [30个让你眼前一亮的iOS Swift UI控件!](https://zhuanlan.zhihu.com/p/58713359)
 
 
 ### Webpack
 
+* 2020.11.28 -- [使用webpack4提升180%编译速度](https://juejin.cn/entry/6844903752835547144)
 * 2020.04.17 -- [How to ignore test files in webpack with ts-loader](https://stackoverrun.com/cn/q/11351175)
 * 2020.04.17 -- [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007)
 * 2019.09.17 -- [babel 升级到7.X采坑总结](https://segmentfault.com/a/1190000016458913)
@@ -232,8 +318,33 @@
 * 2019.04.10 -- [《塞尔达传说：旷野之息》新手入门的不完全攻略（下）](https://www.bilibili.com/read/cv196898/)
 
 
+### 自制下载器参考资料
+
+* 2020.10.21 -- [Get Started with WebTorrent](https://webtorrent.io/intro)
+* 2020.10.21 -- [node-torrent](https://github.com/superafroman/node-torrent)
+* 2020.10.21 -- [用 FileSystem API 实现文件下载器](https://imququ.com/post/a-downloader-with-filesystem-api.html)
+* 2020.10.21 -- [提高BT下载速度的方案—以迅雷极速版为例](https://www.jianshu.com/p/d66a25df071d)
+* 2020.10.21 -- [为什么越来越多的人不再使用eD2k了？回顾电驴的兴与衰](http://www.52jszhai.com/index/article/detail?id=6358)
+
+
+### 有点怪
+
+* 2020.10.20 -- [暗访两家4S店：砸坏好零件定损再修 截留油液回收再卖](http://www.bjnews.com.cn/news/2020/10/19/778843.html)
+
+
 ### Other
 
+* 2020.12.23 -- [技术解读：为什么PC上安装不了MacOS](http://m.cfan.com.cn/pcarticle/120652)
+* 2020.12.10 -- [香芋甜心](https://www.xiachufang.com/recipe/100585330/)
+* 2020.12.07 -- [Mac系统清理、占用空间大、空间不够、查看系统文件大小分布](https://www.cnblogs.com/yajunLi/p/7008578.html?utm_source=itdadao&utm_medium=referral)
+* 2020.12.07 -- [清理Mac OSX中安装的nvidia CUDA driver](https://zhuanlan.zhihu.com/p/101600479)
+* 2020.12.04 -- [た　ぬ](https://twitter.com/thumb_tani)
+* 2020.12.04 -- [驚呆了！有位日本小哥把硬幣堆出了新高度！](https://kknews.cc/zh-hk/world/j59aea6.html)
+* 2020.11.02 -- [dai湾](https://www.zhihu.com/question/425161653)
+* 2020.10.29 -- [寒蝉鸣泣之时](https://m.jsr9.com/subject/6117.html)
+* 2020.10.21 -- [ように的5大用法！](https://colanekojp.com.tw/blogs/4/50)
+* 2020.08.25 -- [哺乳期通奶全攻略，让妈妈的奶水畅通无阻！](https://zhuanlan.zhihu.com/p/27136699)
+* 2020.05.12 -- [为救女儿只身赴难，女市长惨遭毒贩虐杀](https://zhuanlan.zhihu.com/p/27247289)
 * 2020.04.27 -- [因抢一个月饼遭阿里开除，如今的他把生活过成这样](https://www.sohu.com/a/121402032_507233)
 * 2020.04.17 -- [算法-动态规划 Dynamic Programming--从菜鸟到老鸟](https://blog.csdn.net/u013309870/article/details/75193592)
 * 2020.04.07 -- [面包](https://haokan.baidu.com/v?vid=8217638353856798783&pd=bjh&fr=bjhauthor&type=video)
@@ -309,10 +420,47 @@
 * 2019.05.16 -- [游戏王GX合集](https://www.bilibili.com/video/av45011499?spm_id_from=333.334.b_62696c695f62616e67756d69.66)
 * 2019.04.30 -- [权利的游戏第八季](https://www.ttkmj.net/a/6526)
 * 2020.05.06 -- [R & M](https://ddrk.me/rick-and-morty/3/)
+* 2020.05.07 -- [精灵使的剑舞](http://www.dmd8.com/play/358-1-6.html)
+* 2020.05.12 -- [人人影视：毒枭](http://www.yyetss.com/Search/index/?s_keys=%E6%AF%92%E6%9E%AD)
 
 
 ### Read
 
+* 2020.12.11 -- [为什么相爱变得越来越难](https://mp.weixin.qq.com/s/EAkMxtj1uC3fjtHRTjpz_Q)
+* 2020.11.17 -- [吊死在儿子饭店门口的母亲](https://news.163.com/17/0329/18/CGNFA1J0000181RK.html)
+* 2020.11.15 -- [误入“歧途”陆平原](http://renjian.163.com/20/1111/11/FR59BPFK000181RV.html)
+* 2020.11.15 -- [30岁，我劝父亲离家远一点](http://renjian.163.com/20/1113/16/FRAV3182000181RV.html)
+* 2020.11.11 -- [我决定为自家三岁的猫规划未来的大学生涯](https://zhuanlan.zhihu.com/p/268863700)
+* 2020.10.30 -- [一个农村女人的成仙记](https://zhuanlan.zhihu.com/p/222018926)
+* 2020.10.30 -- [纵火案前的一小时，她的孩子就在呼救(成都 纵火案 跳楼)](https://zhuanlan.zhihu.com/p/217458729)
+* 2020.10.30 -- [两个豪门的8年离婚对决](https://zhuanlan.zhihu.com/p/182377603)
+* 2020.10.30 -- [被辞退后，他在安置小区开殡仪馆](https://zhuanlan.zhihu.com/p/145981222)
+* 2020.10.30 -- [那个倔强的个体户，和殡仪馆抢生意](https://zhuanlan.zhihu.com/p/191053556)
+* 2020.10.29 -- [一个老人，和他封建信仰的死亡](https://zhuanlan.zhihu.com/p/230960084)
+* 2020.10.29 -- [就算是爬，我也要爬进985的大门](https://zhuanlan.zhihu.com/p/250211195)
+* 2020.10.29 -- [我的富二代学生们，不好教](https://zhuanlan.zhihu.com/p/234412736)
+* 2020.10.29 -- [我爸让我打电竞，不让我上学](https://zhuanlan.zhihu.com/p/227833917)
+* 2020.10.29 -- [一个烂尾小区的催化史](http://renjian.163.com/20/1029/10/FQ3M9D0D000181RV.html)
+* 2020.10.28 -- [明码标价的黄昏恋](http://renjian.163.com/20/1028/10/FQ15LNLU000181RV.html)
+* 2020.10.28 -- [苏北农村里的苏南知青](http://renjian.163.com/20/1022/12/FPHTRK7O000181RK.html)
+* 2020.10.28 -- [我要举报我爸爸](http://renjian.163.com/20/1023/11/FPKAU40J000181RV.html)
+* 2020.10.28 -- [老年职业骗婚女被骗记](http://renjian.163.com/20/0724/10/FI9UL0BU000181RV.html)
+* 2020.10.28 -- [年入百万的我们，也敌不过工程圈的完美骗局](https://zhuanlan.zhihu.com/p/252894681)
+* 2020.10.27 -- [酒吧里的“漂亮宝贝”，也有狼狈时刻](https://zhuanlan.zhihu.com/p/252365528)
+* 2020.10.27 -- [被线人拴住命运的刑警队长](https://zhuanlan.zhihu.com/p/264120919)
+* 2020.10.27 -- [县城工商联，真的是民企的“娘家”吗](https://zhuanlan.zhihu.com/p/264999086)
+* 2020.10.27 -- [父亲做的糖醋排骨，是捆绑我的枷锁](https://zhuanlan.zhihu.com/p/266291773)
+* 2020.10.27 -- [中国的女人结婚后算是最不幸的女人吗？](https://www.zhihu.com/question/268778540/answer/1521880021)
+* 2020.10.27 -- [菜市场带货一哥的生意经，再无用武之地了](https://zhuanlan.zhihu.com/p/268628674)
+* 2020.10.27 -- [伪装成一个男人](https://mp.weixin.qq.com/s/_q0xLM_h_EeamjPXUluBVA)
+* 2020.10.27 -- [一个好孩子的黑社会大哥之路](http://renjian.163.com/20/1027/11/FPULLOPH000181RV.html)
+* 2020.10.27 -- [“全脑教育”大起底](http://renjian.163.com/19/1207/11/EVPQD306000181RV.html)
+* 2020.10.27 -- [年近半百，爱情教会她太多](http://renjian.163.com/20/0928/10/FNJUK3MU000181RV.html)
+* 2020.10.26 -- [10年假记者，我实现了财务自由](http://renjian.163.com/19/1019/14/ERRVQ0TT000181RV.html)
+* 2020.10.26 -- [4个大学生vs币圈大佬的韭菜局](http://renjian.163.com/20/0720/17/FI0CTOPD000181RV.html)
+* 2020.10.26 -- [“全能神”都有哪些拉人入教的鬼花招](http://zt.cjn.cn/zt2016/jjdjxjggzzgj/zhxx/201807/t3250149.htm)
+* 2020.10.21 -- [芥川龙之介游历中国，为何百般失望？](https://ibook.ifeng.com/108993/news.shtml?&back)
+* 2020.09.03 -- [涉正当防卫典型案例](https://mp.weixin.qq.com/s/UGBW67u0uv5fHSlQgQsc_g)
 * 2020.04.28 -- [文件上传的渐进式增强](http://www.ruanyifeng.com/blog/2012/08/file_upload.html)
 * 2020.04.13 -- [回溯與前瞻——女性性自治權的刑法保護](http://pkulaw.cn/fulltext_form.aspx?Db=qikan&Gid=1510066688&keyword=&EncodingName=big5&Search_Mode=)
 * 2020.04.13 -- [论欺诈型强奸](http://edu.zndxsk.com.cn/upfile/soft/2008531/2008531214940460.pdf)
@@ -358,8 +506,12 @@
 
 ### Language
 
+* 2020.11.03 -- [日语中“你”有多少种说法？](https://zhuanlan.zhihu.com/p/21329953)
+
+
 ### Shell
 
+* 2020.12.07 -- [Shell脚本统计文件行数的8种方法](https://blog.csdn.net/suiqiji206/article/details/50546275)
 * 2019.07.12 -- [yabai 这东西折腾了挺久 brew services start yabai](https://github.com/koekeishiya/yabai/wiki/Configuration)
 * 2019.02.20 -- [Linux: grep多个关键字“与”和“或”](https://blog.csdn.net/mmbbz/article/details/51035401)
 
