@@ -111,6 +111,7 @@ https://v.youku.com/v_show/id_XMzc4MDA1NDg3Ng==.html?spm=a2h1n.8251843.playList.
 
 ### Electron
 
+* 2021.02.04 -- [Electron 截图踩坑和优化集合](https://juejin.cn/post/6844903697705598983)
 * 2020.11.02 -- [Electron构建一个文件浏览器应用(一)](https://www.cnblogs.com/tugenhua0707/p/11080473.html)
 * 2019.07.24 -- [Electron require() is not defined](https://stackoverflow.com/questions/44391448/electron-require-is-not-defined)
 * 2019.06.25 -- [Color](http://colorizer.org/)
@@ -248,6 +249,8 @@ https://v.youku.com/v_show/id_XMzc4MDA1NDg3Ng==.html?spm=a2h1n.8251843.playList.
 
 ### Web
 
+* 2021.02.02 -- [浅谈网站性能之前端性能优化](https://segmentfault.com/a/1190000006922364?utm_source=sf-related)
+* 2021.01.21 -- [浅析 HTML5 中的 download 属性](https://zhuanlan.zhihu.com/p/58888918)
 * 2020.11.28 -- [大促会场性能保障全揭秘|618淘系前端技术分享](https://juejin.cn/post/6847902224614424589)
 * 2020.11.27 -- [分享一个页面平滑滚动小技巧](https://segmentfault.com/a/1190000020769492)
 * 2020.11.27 -- [如何用Three.js快速实现全景图](https://zhuanlan.zhihu.com/p/40881782)
