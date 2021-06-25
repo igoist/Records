@@ -8,6 +8,34 @@ http://lol.qq.com/v/v2/detail.shtml?docid=9011289160973688195
 
 https://v.youku.com/v_show/id_XMzc4MDA1NDg3Ng==.html?spm=a2h1n.8251843.playList.5!19~5~A&f=51860084&o=1
 
+https://flk.npc.gov.cn/ 国家法律法规数据库
+
+https://www.google.com/search?q=%E7%94%B5%E6%B5%81%E7%9A%84%E6%97%B6%E9%92%9F%E9%A2%91%E7%8E%87%E6%9E%81%E9%99%90&oq=%E7%94%B5%E6%B5%81%E7%9A%84%E6%97%B6%E9%92%9F%E9%A2%91%E7%8E%87%E6%9E%81%E9%99%90&aqs=chrome..69i57.7650j0j1&sourceid=chrome&ie=UTF-8
+
+https://www.zhihu.com/question/20978963 为什么 CPU 的浮点运算能力比 GPU 差，为什么不提高 CPU 的浮点运算能力？
+
+https://www.zhihu.com/question/21133734 电流有速度么？
+
+https://juejin.cn/post/6844903573428371464 this
+
+https://gimy.tv/ep-116498-1-13.html 进击的巨人
+
+https://regex101.com/r/T8wx3q/1 regex
+
+https://v2ex.com/t/684109 读懂一个 demo，入门机器学习
+
+https://github.com/atomiks/tippyjs
+
+https://zhuanlan.zhihu.com/p/162854642 留下珍贵
+
+https://github.com/coder2gwy/coder2gwy
+
+https://www.youtube.com/c/3blue1brown/videos
+
+https://cloud.tencent.com/developer/article/1625596 Electron中使用Node-ffi模拟键鼠操作
+
+https://bbs.colg.cn/thread-8183789-1-1.html 周年庆活动
+
 ### Specical
 
 * 2020.12.15 -- [MacbookPro 2015原装电池鼓了包，自己动手换电池]()
@@ -65,12 +93,14 @@ https://v.youku.com/v_show/id_XMzc4MDA1NDg3Ng==.html?spm=a2h1n.8251843.playList.
 
 ### Blog
 
+* 2021.03.19 -- [熊小陶（那个写什么的）](https://www.zhihu.com/people/xiong-xiao-tao)
+* 2021.03.19 -- [柚子猫独立游戏](https://indienova.com/u/youthcatgames/blog)
 * 2019.06.20 -- [姜小白](https://www.douban.com/people/bdleizi/)
 * 2019.06.17 -- [岁月如歌](https://lifesinger.wordpress.com/)
 * 2019.06.06 -- [goreliu: Zsh 开发指南](https://github.com/goreliu/zshguide)
 * 2019.03.01 -- [唐霜](https://www.tangshuang.net/)
 
-
+https://blog.csdn.net/anypkv/article/details/25739397
 ### Chrome
 
 * 2020.08.25 -- [open-google-chrome.bat](https://gist.github.com/iissnan/0e80b25a942be19621e8f260d33e7a0f)
@@ -95,6 +125,14 @@ https://v.youku.com/v_show/id_XMzc4MDA1NDg3Ng==.html?spm=a2h1n.8251843.playList.
 
 ### CSS
 
+* 2020.06.03 -- [Sass-学习笔记【进阶篇】](https://cloud.tencent.com/developer/article/1393273)
+* 2020.03.30 -- [图片垂直居中](https://www.jianshu.com/p/6516d925b4b1)
+* 2020.03.25 -- [safari瀏覽器 border-radius失效之填坑](hhttps://www.itread01.com/content/1548536959.html)
+* 2020.03.18 -- [深入理解SVG feDisplacementMap滤镜及实际应用](https://www.zhangxinxu.com/wordpress/2017/12/understand-svg-fedisplacementmap-filter/)
+* 2020.03.03 -- [css行高line-height的一些深入理解及应用](https://www.zhangxinxu.com/wordpress/2009/11/css%E8%A1%8C%E9%AB%98line-height%E7%9A%84%E4%B8%80%E4%BA%9B%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E5%8F%8A%E5%BA%94%E7%94%A8/)
+* 2020.03.03 -- [为什么相同设置下行内元素span中字体的行内框高比块元素的高？](https://segmentfault.com/q/1010000011320066)
+* 2020.02.25 -- [CSS自动换行、强制不换行、强制断行、超出显示省略号](https://blog.csdn.net/suwu150/article/details/90708921)
+* 2020.02.22 -- [Loading](https://codepen.io/simoncla/full/FBoqA)
 * 2020.09.14 -- [CSShake](http://elrumordelaluz.github.io/csshake/)
 * 2020.05.06 -- [Page Transition with Loader](https://codepen.io/johnheiner/pen/JdRybK)
 * 2019.08.08 -- [3DHoverEffects](https://tympanus.net/Tutorials/3DHoverEffects/)
@@ -191,6 +229,14 @@ https://v.youku.com/v_show/id_XMzc4MDA1NDg3Ng==.html?spm=a2h1n.8251843.playList.
 
 ### React
 
+* 2021.05.10 -- [use React(Hooks)](https://github.com/streamich/react-use)
+* 2021.05.10 -- [React Hooks完全上手指南](https://zhuanlan.zhihu.com/p/92211533)
+* 2021.05.10 -- [如何优雅地处理使用 React Context 导致的不必要渲染问题？](https://www.zhihu.com/question/450047614)
+* 2021.03.19 -- [React.forwardRef真是个好东西](https://zhuanlan.zhihu.com/p/37038907)
+* 2021.03.19 -- [细说react16新增forwardRef](https://juejin.cn/post/6844903791456681991)
+* 2021.03.19 -- [React Router 4.x 开发，这些雷区我们都帮你踩过了](https://juejin.cn/post/6844903640839225358#heading-30)
+* 2021.03.19 -- [React.js: Set innerHTML vs dangerouslySetInnerHTML](https://stackoverflow.com/questions/37337289/react-js-set-innerhtml-vs-dangerouslysetinnerhtml)
+* 2021.02.21 -- [为什么在 react 中做一个跟随的 tooltip 这么复杂?](https://huozhi.im/post/zh-hans/why-position-tooltip-so-complicated)
 * 2020.11.24 -- [Five common mistakes writing react components (with hooks) in 2020](https://www.lorenzweiss.de/common_mistakes_react_hooks/)
 * 2020.11.02 -- [React Hooks测试完全指南](https://zhuanlan.zhihu.com/p/220278150)
 * 2020.11.02 -- [React Hooks完全上手指南](https://zhuanlan.zhihu.com/p/92211533)
@@ -221,6 +267,7 @@ https://v.youku.com/v_show/id_XMzc4MDA1NDg3Ng==.html?spm=a2h1n.8251843.playList.
 
 ### Flutter
 
+* 2021.03.19 -- [如何看待Flutter 2.0？](https://www.zhihu.com/question/447488806)
 * 2019.11.13 -- [Mac上更新Ruby](https://juejin.im/post/6844903535130198024)
 * 2019.11.02 -- [使用 Flutter 快速实现聊天应用](https://xie.infoq.cn/article/724fe19d49dc0ae562744d0ab)
 
@@ -247,8 +294,30 @@ https://v.youku.com/v_show/id_XMzc4MDA1NDg3Ng==.html?spm=a2h1n.8251843.playList.
 * 2020.06.07 -- [Gulp 工作流中Sass 增量编译功能的探索](https://devework.com/sass-incremental-builds-in-gulp.html)
 
 
+## 图形学 & ThreeJS & 其他引擎 & 实践
+
+* 2021.04.13 -- [四维空间为什么不是三维空间加上时间？](https://www.zhihu.com/question/21671853/answer/94536307)
+* 2021.04.13 -- [二维空间的封闭是圆，三维空间的封闭是球，四维空间的封闭是什么？](https://www.zhihu.com/question/20027205/answer/772750644)
+* 2021.04.13 -- [四维超体运动在三维空间的表现（使用three.js）](https://blog.csdn.net/sinat_24002967/article/details/50700439)
+* 2021.04.09 -- [Oasis Engine (Ant Graphics Engine)](https://github.com/oasis-engine/engine)
+* 2021.04.09 -- [材质(Material)和几何体(Geometry)](https://www.cnblogs.com/qlqwjy/p/10852999.html)
+* 2021.04.09 -- [Threejs纹理对象Texture阵列、偏移、旋转(纹理动画)](https://blog.csdn.net/u014291990/article/details/103374603)
+* 2021.04.09 -- [Threejs 相关](https://blog.csdn.net/u013270347/article/details/81109569)
+* 2021.04.09 -- [如何使用三个JS为Camera.lookAt设置动画](https://www.javaroad.cn/questions/150216)
+* 2021.04.09 -- [如何系统的学习three.js？](https://www.zhihu.com/question/36367846/answer/501346840)
+* 2021.04.09 -- [BoxGeometry](https://threejs.org/docs/?q=geo#api/en/geometries/BoxGeometry)
+* 2021.04.09 -- [3D场景相机围绕物体旋转原理](https://zhuanlan.zhihu.com/p/37251007)
+* 2021.04.09 -- [双摄像头深度剖析 (1)：双Camera都能做什么？](https://zhuanlan.zhihu.com/p/21523761)
+
+
 ### Web
 
+* 2021.06.25 -- [前端性能优化之图片懒加载](https://segmentfault.com/a/1190000038413073)
+* 2021.05.28 -- [适配 Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
+* 2021.04.21 -- [Emmet 语法速查表 #17](https://github.com/paddingme/Learning-HTML-CSS/issues/17)
+* 2021.04.20 -- [面向未来的前端构建工具-vite](https://juejin.cn/post/6869915676501835783)
+* 2021.04.09 -- [精读《snowpack和vite》](https://www.yuque.com/xixiaobai/xomql8/ironhk)
+* 2021.03.04 -- [What's the point of the X-Requested-With header?](https://stackoverflow.com/questions/17478731/whats-the-point-of-the-x-requested-with-header)
 * 2021.02.02 -- [浅谈网站性能之前端性能优化](https://segmentfault.com/a/1190000006922364?utm_source=sf-related)
 * 2021.01.21 -- [浅析 HTML5 中的 download 属性](https://zhuanlan.zhihu.com/p/58888918)
 * 2020.11.28 -- [大促会场性能保障全揭秘|618淘系前端技术分享](https://juejin.cn/post/6847902224614424589)
@@ -337,6 +406,21 @@ https://v.youku.com/v_show/id_XMzc4MDA1NDg3Ng==.html?spm=a2h1n.8251843.playList.
 
 ### Other
 
+* 2021.06.06 -- [月色真美 下载](https://www.993dy.com/vod-detail-id-25872.html#)
+* 2021.06.04 -- [辉夜姬物语 下载](https://www.btsj5.com/subject/the-tale-of-princess-kaguya-2013.html)
+* 2021.05.30 -- [vivy](https://www.kakadm.com/anime/2934/4/)
+* 2021.05.30 -- [漫画](http://www.xmanhua.com/136xm/)
+* 2021.05.28 -- [法语 戏梦巴黎](https://www.jiyingw.net/11610.html)
+* 2021.05.28 -- [法语 花容月貌](https://www.rrdyw.cc/movie/2020/0319/9276.html)
+* 2021.05.10 -- [共产主义者对家庭和两性关系应该持什么态度](https://zhuanlan.zhihu.com/p/315224295)
+* 2021.05.10 -- [《共产党宣言》选读（一）](https://zhuanlan.zhihu.com/p/26556397)
+* 2021.05.10 -- [“共产公妻”谣言在中国的生成与早期流布](http://www.qstheory.cn/llqikan/2019-02/12/c_1124104897.htm)
+* 2021.04.26 -- [平台佣金抽成过高，到底伤害了谁的利益？](https://zhuanlan.zhihu.com/p/71277524)
+* 2021.04.13 -- [如果把五战时期的卫宫士郎换成空条承太郎，五战会有什么变化？结果会有什么不同？ - Hellsing的回答 - 知乎](https://www.zhihu.com/question/446632574/answer/1765413643)
+* 2021.03.31 -- [我讨厌咔哒声--罗技g304静音作业](https://www.163.com/dy/article/FT9DOMJV0512MJDN.html)
+* 2021.03.19 -- [到印度取经-雷军-2001 知网](https://www.cnki.com.cn/Article/CJFDTotal-JLSJ200106021.htm)
+* 2021.03.19 -- [到印度取经-雷军-2001](http://kuaitoucv.com/wap/index.php?c=article&a=show&id=43)
+* 2021.03.18 -- [如何吹出一阵40马赫的微风？浅谈高超音速风洞](https://zhuanlan.zhihu.com/p/94250163)
 * 2020.12.23 -- [技术解读：为什么PC上安装不了MacOS](http://m.cfan.com.cn/pcarticle/120652)
 * 2020.12.10 -- [香芋甜心](https://www.xiachufang.com/recipe/100585330/)
 * 2020.12.07 -- [Mac系统清理、占用空间大、空间不够、查看系统文件大小分布](https://www.cnblogs.com/yajunLi/p/7008578.html?utm_source=itdadao&utm_medium=referral)
@@ -429,6 +513,17 @@ https://v.youku.com/v_show/id_XMzc4MDA1NDg3Ng==.html?spm=a2h1n.8251843.playList.
 
 ### Read
 
+* 2021.05.27 -- [日本论 戴季陶](https://yuedu.163.com/source/97df9cdb28924dab947627fcdd7c36f0_4)
+* 2021.05.27 -- [邓小平的四次“不愿当”](http://dangshi.people.com.cn/n1/2020/0508/c85037-31700687.html)
+* 2021.05.27 -- [党史](http://www.dswxyjy.org.cn/GB/427186/244520/index22.html)
+* 2021.05.27 -- [党史文献](http://www.dswxyjy.org.cn/)
+* 2021.05.27 -- [毛选](https://www.marxists.org/chinese/maozedong/index.htm)
+* 2021.05.26 -- [1930年袁文才王佐被错杀后井冈山沦为白区的经过](http://dangshi.people.com.cn/n/2014/1104/c85037-25969300.html)
+* 2021.05.26 -- [彭德怀的廉洁让编剧泪流满面](https://www.ccdi.gov.cn/lswh/shijian/201410/t20141017_121104.html)
+* 2021.05.25 -- [老舍《月牙儿》](https://www.xyyuedu.com/writer/laoshexs/yueyaer/)
+* 2021.05.12 -- [华语网](https://www.thn21.com/special/mingzhu/)
+* 2021.05.12 -- [如何看待重庆老爸长期用「激将法教育」，刺激三岁儿子：如果不乖，就把东西给妹妹，致使儿子讨厌并欺负妹妹？](https://www.zhihu.com/question/458830152)
+* 2021.05.11 -- [日本东京房地产租售比（2010 年的帖子）](https://www.douban.com/group/topic/10714710/)
 * 2020.12.11 -- [为什么相爱变得越来越难](https://mp.weixin.qq.com/s/EAkMxtj1uC3fjtHRTjpz_Q)
 * 2020.11.17 -- [吊死在儿子饭店门口的母亲](https://news.163.com/17/0329/18/CGNFA1J0000181RK.html)
 * 2020.11.15 -- [误入“歧途”陆平原](http://renjian.163.com/20/1111/11/FR59BPFK000181RV.html)
@@ -521,6 +616,7 @@ https://v.youku.com/v_show/id_XMzc4MDA1NDg3Ng==.html?spm=a2h1n.8251843.playList.
 
 ### SQL
 
+* 2021.05.10 -- [Nebula Graph](https://github.com/vesoft-inc/nebula-graph)
 * 2019.06.14 -- [How to find Schema of a Collection in MongoDB](https://medium.com/@ahsan.ayaz/how-to-find-schema-of-a-collection-in-mongodb-d9a91839d992)
 * 2019.06.14 -- [mongodb 官方文档](https://docs.mongodb.com/manual/tutorial/query-documents/)
 * 2019.04.10 -- [EXPORT AND IMPORT MYSQL DATABASES](https://mediatemple.net/community/products/dv/204403864/export-and-import-mysql-databases)

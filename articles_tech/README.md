@@ -24,7 +24,7 @@
 * 0015.md -> 项目脚手架折腾回忆录
 * 0016.md -> umi 备忘
 * 0017.md -> Pinterest 插件分析
-* 0018.md -> Chrome 插件开发笔记
+* 0018.md -> Chrome Extension 插件开发笔记
 * 0019.md -> Prettier 折腾小记
 * 0020.md -> HTTP 学习笔记
 * 0021.md -> Koa 学习笔记
@@ -33,6 +33,12 @@
 * 0024.md -> Electron 笔记
 * 0025.md -> Polyfill 合集
 * 0026.md -> ECMAScript 笔记
+* 0027.md -> 工具库笔记
+* 0028.md -> PurgeCSS 笔记
+* 0029.md -> Regex 正则笔记
+* 0030.md -> Shell 编程学习笔记
+* 0031.md -> Web 过渡动画笔记
+* 0032.md -> 网络及代理笔记
 * 0097.md -> CSS 关键备忘
 * 0098.md -> PC 主机 DIY 笔记
 * 9999.md -> Chrome Snippets 目录

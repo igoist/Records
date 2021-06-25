@@ -22,6 +22,8 @@
 * 0005.md -- 路由相关
 * 0006.md -- Mootools 笔记
 * 0007.md -- Waterfall 初始化、运行机制 & 采集详情页重构笔记
+* 0008.md -- 全站广告系统重构笔记
+* 0009.md -- 新手功能引导重构笔记
 * 000x.md -- views/base/people_profile.pug
 
 ## 备忘
@@ -37,6 +39,8 @@ https://www.zhihu.com/search?type=content&q=unrar  unrar
 http://pinban.com/boards/27451236/?kkfa8bf6&limit=20&wfl=1
 
 http://pinban.com/home/?kkfa8bf8&limit=20&wfl=1
+
+* 错误收集
 
 
 ## 关于新整理的组件
@@ -66,3 +70,16 @@ modalBody.innerHTML = config.modalInner;
 
 实现过程中区别的点, 模板、逻辑分离后, 为了定位元素, 组件 id 以及其他可能的参数会需要在引用模板处及执行逻辑函数处各传一次
 
+## docker ?
+
+删除 redis 缓存
+
+```
+huaban redis start
+
+keys *
+
+keys rate*(寻找匹配项)
+
+del rate:limit:post:2462300354:172.17.0.1 rate:limit:post:3166869443:172.17.0.1
+```
