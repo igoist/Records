@@ -3,6 +3,8 @@
 记录、总结一些技术相关内容
 
 
+* 救助情报站快速搭建
+
 
 
 ## Index 目录
@@ -38,7 +40,33 @@
 * 0029.md -> Regex 正则笔记
 * 0030.md -> Shell 编程学习笔记
 * 0031.md -> Web 过渡动画笔记
-* 0032.md -> 网络及代理笔记
+* 0032.md -> 网络及代理学习笔记
+* 0033.md -> ffmpeg 学习笔记
+* 0034.md -> AI 学习笔记
+* 0035.md -> 图形图像处理相关学习笔记
+* 0036.md -> Python 学习笔记
+* 0037.md -> Node 学习笔记
 * 0097.md -> CSS 关键备忘
 * 0098.md -> PC 主机 DIY 笔记
 * 9999.md -> Chrome Snippets 目录
+
+
+
+
+```js
+// 获取所有标签页 tabs
+const getTabs = () => {
+  return new Promise((resolve) => {
+    chrome.tabs.query({}, (tabs) => {
+      resolve(tabs);
+    });
+  });
+};
+
+// 根据 id 关闭指定 tab
+closeTab = (id) => {
+  chrome.tabs.remove(id, function () {
+    console.log('should be successful');
+  });
+};
+```

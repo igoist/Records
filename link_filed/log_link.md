@@ -30,11 +30,32 @@ https://zhuanlan.zhihu.com/p/162854642 留下珍贵
 
 https://github.com/coder2gwy/coder2gwy
 
-https://www.youtube.com/c/3blue1brown/videos
+https://www.youtube.com/c/3blue1brown/videos 3蓝1棕
 
 https://cloud.tencent.com/developer/article/1625596 Electron中使用Node-ffi模拟键鼠操作
 
 https://bbs.colg.cn/thread-8183789-1-1.html 周年庆活动
+
+https://bbs.colg.cn/thread-8189986-1-1.html 奶爸出装
+
+https://bbs.colg.cn/thread-8076799-1-1.html 奶 心如绞痛
+
+https://bbs.colg.cn/thread-8119639-1-1.html 黑鸦版本 奶装分析
+
+https://bbs.nga.cn/read.php?tid=24662850 云上澳门
+
+https://www.agefans.cc/play/20060008?playid=3_31
+https://www.agefans.cc/detail/20180213
+https://www.agefans.cc/
+
+
+https://www.matthewtancik.com/nerf
+
+https://github.com/bmild/nerf
+
+https://github.com/isl-org/FreeViewSynthesis
+
+https://2020.cctv.com/live/cctv5plus/?spm=0.P91Z6QgdcLMB.EsfL26NrJMGL.4 奥运
 
 ### Specical
 
@@ -406,6 +427,10 @@ https://blog.csdn.net/anypkv/article/details/25739397
 
 ### Other
 
+* 2021.07.27 -- [科普|什么是失温，失温后如何救助？关键时刻能救人性命。](https://zhuanlan.zhihu.com/p/374586409)
+* 2021.07.16 -- [解放前夕微笑面对死亡的他是烈士还是叛徒？](https://baike.baidu.com/tashuo/browse/content?id=33bfb2c81d2b3440f6c2f50b)
+* 2021.07.13 -- [可可](https://baike.baidu.com/item/%E5%8F%AF%E5%8F%AF/18722667?fromtitle=koko&fromid=13888890)
+* 2021.07.01 -- [大桥的秘密：全景揭示桥梁原理、建造技术和中国造桥成就](https://www.thepaper.cn/newsDetail_forward_2698872)
 * 2021.06.06 -- [月色真美 下载](https://www.993dy.com/vod-detail-id-25872.html#)
 * 2021.06.04 -- [辉夜姬物语 下载](https://www.btsj5.com/subject/the-tale-of-princess-kaguya-2013.html)
 * 2021.05.30 -- [vivy](https://www.kakadm.com/anime/2934/4/)
@@ -513,6 +538,7 @@ https://blog.csdn.net/anypkv/article/details/25739397
 
 ### Read
 
+* 2021.07.06 -- [倪光南：柳传志没投入知识产权和资产却有15.9%股份 这很特殊](https://finance.ifeng.com/c/7irwTHjj2pM)
 * 2021.05.27 -- [日本论 戴季陶](https://yuedu.163.com/source/97df9cdb28924dab947627fcdd7c36f0_4)
 * 2021.05.27 -- [邓小平的四次“不愿当”](http://dangshi.people.com.cn/n1/2020/0508/c85037-31700687.html)
 * 2021.05.27 -- [党史](http://www.dswxyjy.org.cn/GB/427186/244520/index22.html)
