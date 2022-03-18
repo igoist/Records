@@ -26,3 +26,7 @@
 * DCL (DOM Content Loaded)  -- DOM 内容完成加载
 * FP (First Paint) -- 首屏，首次绘制
 * FCP (First Contentful Paint) -- 首次内容绘制
+
+## 项目
+
+* BFF (Backend For Frontend) -- 微服务？

@@ -6,6 +6,8 @@
 * 救助情报站快速搭建
 
 
+带弹幕播放器
+
 
 ## Index 目录
 
@@ -26,7 +28,7 @@
 * 0015.md -> 项目脚手架折腾回忆录
 * 0016.md -> umi 备忘
 * 0017.md -> Pinterest 插件分析
-* 0018.md -> Chrome Extension 插件开发笔记
+* 0018.md -> Chrome Extension/Plugins 插件开发笔记
 * 0019.md -> Prettier 折腾小记
 * 0020.md -> HTTP 学习笔记
 * 0021.md -> Koa 学习笔记
@@ -46,8 +48,24 @@
 * 0035.md -> 图形图像处理相关学习笔记
 * 0036.md -> Python 学习笔记
 * 0037.md -> Node 学习笔记
+* 0038.md -> Nginx 学习笔记
+* 0039.md -> 原神笔记
+* 0040.md -> Taichi 学习笔记
+* 0041.md -> 音视频编解码学习笔记
+* 0042.md -> handlebars 学习笔记
+* 0043.md -> ssh 笔记
+* 0044.md -> Unity 学习笔记
+* 0045.md -> Blender 学习笔记
+* 0052.md -> VSCode 插件开发笔记
+* 0053.md -> Docker 学习笔记
+* 0054.md -> Nextjs 学习笔记
+* 0096.md -> 移动端代理、调试相关备忘
 * 0097.md -> CSS 关键备忘
 * 0098.md -> PC 主机 DIY 笔记
+* 0099.md -> 嵌入式笔记
+* 0100.md -> AutoHotKey AHK 笔记
+* 5000.md -> 典型代码笔记
+* 6000.md -> 新手引导
 * 9999.md -> Chrome Snippets 目录
 
 

@@ -34,3 +34,8 @@
 * substitute -- n. 代用品；代替者；vi. 替代；vt. 代替
 * succinct -- adj. 简洁的；简明的；紧身的
 * succinctly -- adv. 简洁地；简便地
+
+
+
+* Lmfao 笑死我了（网络用语，laughing my fucking ass off）
+* imo 在我看来（In my opinion）
