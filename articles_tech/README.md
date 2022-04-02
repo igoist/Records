@@ -63,7 +63,7 @@
 * 0097.md -> CSS 关键备忘
 * 0098.md -> PC 主机 DIY 笔记
 * 0099.md -> 嵌入式笔记
-* 0100.md -> AutoHotKey AHK 笔记
+* 0100.md -> AutoHotKey AHK & AppleScript 笔记
 * 5000.md -> 典型代码笔记
 * 6000.md -> 新手引导
 * 9999.md -> Chrome Snippets 目录
