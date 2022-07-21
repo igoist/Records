@@ -59,10 +59,11 @@
 * 0052.md -> VSCode 插件开发笔记
 * 0053.md -> Docker 学习笔记
 * 0054.md -> Nextjs 学习笔记
+* 0055.md -> Apache 学习笔记
 * 0096.md -> 移动端代理、调试相关备忘
 * 0097.md -> CSS 关键备忘
 * 0098.md -> PC 主机 DIY 笔记
-* 0099.md -> 嵌入式笔记
+* 0099.md -> Windows 环境配置
 * 0100.md -> AutoHotKey AHK & AppleScript 笔记
 * 5000.md -> 典型代码笔记
 * 6000.md -> 新手引导
@@ -88,3 +89,37 @@ closeTab = (id) => {
   });
 };
 ```
+
+
+
+
+【都市难民】
+【无缘社会是什么】
+【人与社缘】
+【人与地缘】
+【人与血缘】
+【无缘社会下的现象】
+【无缘社会与独身经济】
+【无缘社会下的思考】
+【无缘社会与新缘结】
+
+<script type="text/javascript" src="/manifest.js"></script>
+<script type="text/javascript" src="/vendor.js"></script>
+
+    name: 'vendor',
+    minChunks: function (module) {
+      return (
+          module.resource &&
+          /\.js$/.test(module.resource) &&
+          module.resource.indexOf(
+            path.join(__dirname, './node_modules')
+          ) === 0
+      );
+    }
+  }),
+  new webpack.optimize.CommonsChunkPlugin({
+    name: 'manifest',
+    chunks: ['vendor', 'main']
+  }),
+
+  https://juejin.cn/post/6986453616517185567
